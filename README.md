@@ -2,7 +2,6 @@
 
 Launch AI-powered directory websites in minutes
 
-[![GitHub stars](https://img.shields.io/github/stars/MkThingsHQ/mkdirs)](https://github.com/MkThingsHQ/mkdirs/stargazers)
 [![License](https://img.shields.io/github/license/MkThingsHQ/mkdirs)](LICENSE)
 
 Mkdirs helps you launch a directory website with listings, AI-assisted
@@ -26,25 +25,25 @@ and more.
 
 ## Tech Stack
 
-- [Next.js](https://nextjs.org)
-- [React](https://react.dev)
-- [TypeScript](https://www.typescriptlang.org)
-- [Tailwind CSS](https://tailwindcss.com)
-- [Sanity](https://www.sanity.io)
-- [Auth.js](https://authjs.dev)
-- [Stripe](https://stripe.com)
-- [Resend](https://resend.com)
+- [Next.js](https://nextjs.org) — Full-stack React framework.
+- [React](https://react.dev) — Library for building user interfaces.
+- [TypeScript](https://www.typescriptlang.org) — Typed JavaScript for safer development.
+- [Tailwind CSS](https://tailwindcss.com) — Utility-first CSS framework.
+- [Sanity](https://www.sanity.io) — Headless CMS for directory content and blog posts.
+- [Auth.js](https://authjs.dev) — Authentication for user accounts and sessions.
+- [Stripe](https://stripe.com) — Payments for paid and sponsored submissions.
+- [Resend](https://resend.com) — Transactional email and newsletter delivery.
 
 For installation, configuration, customization, deployment, and video
 tutorials, visit the [Mkdirs documentation](https://docs.mkdirs.com).
 
 ## Links
 
-- [Website](https://mkdirs.com)
-- [Demo](https://demo.mkdirs.com)
-- [Documentation](https://docs.mkdirs.com)
-- [YouTube](https://www.youtube.com/@MkdirsHQ)
-- [Discord](https://mksaas.link/discord)
+- [Website](https://mkdirs.com) — Learn more about Mkdirs.
+- [Demo](https://demo.mkdirs.com) — Explore a live directory website built with Mkdirs.
+- [Documentation](https://docs.mkdirs.com) — Read installation, configuration, and deployment guides.
+- [YouTube](https://www.youtube.com/@MkdirsHQ) — Watch video tutorials and product updates.
+- [Discord](https://mksaas.link/discord) — Join the community and get help.
 
 ## Author
 
