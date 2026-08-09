@@ -2,8 +2,8 @@
 
 Launch AI-powered directory websites in minutes
 
-[![GitHub stars](https://img.shields.io/github/stars/MkdirsHQ/mkdirs)](https://github.com/MkdirsHQ/mkdirs/stargazers)
-[![License](https://img.shields.io/github/license/MkdirsHQ/mkdirs)](LICENSE)
+[![GitHub stars](https://img.shields.io/github/stars/MkThingsHQ/mkdirs)](https://github.com/MkThingsHQ/mkdirs/stargazers)
+[![License](https://img.shields.io/github/license/MkThingsHQ/mkdirs)](LICENSE)
 
 Mkdirs helps you launch a directory website with listings, AI-assisted
 submissions, payments, authentication, CMS, blog, newsletter, SEO, themes,
