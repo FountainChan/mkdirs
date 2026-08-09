@@ -26,7 +26,14 @@ and more.
 
 ## Tech Stack
 
-Next.js, React, TypeScript, Tailwind CSS, Sanity, Auth.js, Stripe, and Resend.
+- [Next.js](https://nextjs.org)
+- [React](https://react.dev)
+- [TypeScript](https://www.typescriptlang.org)
+- [Tailwind CSS](https://tailwindcss.com)
+- [Sanity](https://www.sanity.io)
+- [Auth.js](https://authjs.dev)
+- [Stripe](https://stripe.com)
+- [Resend](https://resend.com)
 
 For installation, configuration, customization, deployment, and video
 tutorials, visit the [Mkdirs documentation](https://docs.mkdirs.com).
