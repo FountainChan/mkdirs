@@ -1,7 +1,6 @@
 import { ItemCardSkeleton } from "@/components/item/item-card";
-import { ITEMS_PER_PAGE, SUPPORT_ITEM_ICON } from "@/lib/constants";
+import { ITEMS_PER_PAGE } from "@/lib/constants";
 import type { ItemListQueryResult, SponsorItemListQueryResult } from "@/sanity.types";
-import { ItemCard2Skeleton } from "./item-card-2";
 import ItemGridClient from "./item-grid-client";
 
 interface ItemGridProps {
@@ -40,11 +39,8 @@ export function ItemGridSkeleton({
 }: { count?: number }) {
   return (
     <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-8">
-      {[...Array(count)].map((_, index) =>
-        SUPPORT_ITEM_ICON ? (
-          // biome-ignore lint/suspicious/noArrayIndexKey: ignore
-          <ItemCard2Skeleton key={index} />
-        ) : (
+      {[...Array(count)].map(
+        (_, index) => (
           // biome-ignore lint/suspicious/noArrayIndexKey: ignore
           <ItemCardSkeleton key={index} />
         ),

@@ -6862,5 +6862,11 @@
 "category": "其他",
 "keywords": "zoviz; zovirax; zovirax cream; zovirax唇瘡膏; zovirax 仿單; zovirax 副作用; zovirax 400mg; zovirax suspension",
 "priority": "P1"
+},
+"https://blog.vastnext.com": {
+"name": "番茄说",
+"category": "博客",
+"keywords": "AI coding, Claude Code, OpenCode, indie hacking, SEO, Hexo blog",
+"priority": "P0"
 }
 }

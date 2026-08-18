@@ -263,9 +263,10 @@ ${hintText}
       4. Select appropriate categories from the available categories list (return array of names)
       5. Select relevant tags from the available tags list (return array of names)
 
-      IMPORTANT: Write the description and introduction in Simplified Chinese (简体中文).
-      Keep the title in its original form (usually English). Category and tag names must
-      stay exactly as given in the lists above (English).
+      IMPORTANT: Write ALL text content (description, introduction) in English.
+      Use REAL newline characters in the introduction (never the literal two-character
+      sequence backslash-n); format it as proper markdown with headings and bullet lists.
+      Category and tag names must stay exactly as given in the lists above (English).
 
       Focus on technical aspects and practical applications. If the content is a tool or service,
       emphasize its main features, target users, and unique selling points.`;
@@ -331,6 +332,10 @@ ${hintText}
           );
         }
         object = schema.parse(JSON.parse(content));
+        // 修复模型双重转义：字面 \n → 真实换行（否则 markdown 挤成一行无法渲染）
+        if (object.introduction?.includes("\\n")) {
+          object.introduction = object.introduction.replace(/\\n/g, "\n");
+        }
         break;
       } catch (e) {
         lastError = e;
