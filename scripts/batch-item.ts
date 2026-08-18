@@ -319,8 +319,8 @@ ${hintText}
             Authorization: `Bearer ${aiApiKey}`,
           },
           body: requestBody,
-          timeout: 180000,
-        });
+          signal: AbortSignal.timeout(180000),
+        } as never);
         const aiJson = (await aiRes.json()) as {
           choices?: { message?: { content?: string } }[];
         };
@@ -362,7 +362,9 @@ const downloadMaybe = async (
 ): Promise<Buffer | null> => {
   if (!url) return null;
   try {
-    const res = await fetch(url, { timeout: 30000 });
+    const res = await fetch(url, {
+      signal: AbortSignal.timeout(30000),
+    } as never);
     if (!res.ok) return null;
     const contentType = res.headers.get("content-type") || "";
     // 只收位图；SVG/HTML/文本 一律不要（Sanity 图片资产会拒）
@@ -489,7 +491,7 @@ export const importItems = async () => {
           }
         }
 
-        await client.create(doc);
+        await client.create(doc as never);
         ok++;
         console.log(
           `${progress} OK ${item.name} [${itemCategories.map((c) => c.name).join(", ") || "no-cat"}]`,

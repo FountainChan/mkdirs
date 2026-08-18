@@ -1459,3 +1459,1020 @@ fetchItem, url: https://www.magicform.app mergedData: {
 }
 [60/1129] OK lucidpic [Image Generation, Design Tools, AI Tools]
 [61/1129] OK lumen5 [Video Generation, Marketing Tools, AI Tools]
+fetchItem, url: https://www.magnific.com mergedData: {
+  link: 'https://www.magnific.com',
+  name: 'magnific ai',
+  description: 'Magnific AI 是一款强大的 AI 图像超分辨率与细节增强工具，能够智能放大图片并添加惊艳细节。',
+  introduction: 'Magnific AI 是一款顶级的 AI 图像放大与超分辨率增强工具。它不仅能提升图片分辨率，还能根据提示词为原本模糊或低质量的图像添加惊人的细节与质感。\\n\\n### 主要功能\\n- **智能超分辨率与细节添加**：不仅放大像素，更能通过 AI 幻觉（Hallucination）控制添加极其逼真的细节。\\n- **自定义提示词引导**：支持使用文本提示词引导放大过程中的细节生成方向。\\n- **风格与重绘控制**：提供强度调节选项，灵活平衡原图还原度与新细节创造力。\\n- **多场景适配**：支持插图、摄影、3D 渲染、风光以及人像等多类型图像的深度修复与增强。\\n\\n### 适用场景\\n- **平面与视觉设计**：将低分辨率素材增强至印刷或大屏展示级别。\\n- **数字艺术与 3D 渲染**：为 3D 概念图或 AI 生成图补全精细纹理与高质感细节。\\n- **摄影后期**：修复老照片或提升暗光模糊照片的画质。',
+  categories: [ 'Image Generation', 'Design Tools', 'AI Tools' ],
+  tags: [ 'Image', 'AI', 'Productivity' ],
+  image: undefined,
+  icon: 'https://icons.duckduckgo.com/ip3/www.magnific.com.ico'
+}
+[62/1129] OK magic studio [Image Generation, Design Tools, AI Tools]
+fetchItem, url: https://meetgeek.ai mergedData: {
+  link: 'https://meetgeek.ai',
+  name: 'meetgeek',
+  description: 'MeetGeek 是一款 AI 会议助手与自动化平台，支持自动录制、实时转录、智能生成会议摘要及自动化任务跟进。',
+  introduction: '## MeetGeek 简介\n' +
+    'MeetGeek 是一款功能强大的 AI 会议记录与自动化平台。无论是在线会议（如 Zoom、Google Meet、Microsoft Teams）、混合会议还是线下面谈，MeetGeek 都能自动捕获对话，提供高精度的文本转录、智能会议摘要及待办事项，并自动触发后续工作流。\n' +
+    '\n' +
+    '### 主要功能\n' +
+    '- **多端录制与转录**：支持智能机器人自动加入在线会议，或通过桌面应用、移动端应用及浏览器插件进行无 Bot 录制，自动识别 100+ 种语言。\n' +
+    '- **AI 智能摘要与模板**：内置 30+ 种针对不同场景（销售、招聘、站会等）的会议模板，快速提炼关键信息与行动项。\n' +
+    '- **工作流与生态集成**：无缝连接 10,000+ 款应用（包含 Salesforce、HubSpot、Notion、Slack 及 Zapier 等），自动更新 CRM 和项目管理工具。\n' +
+    '- **跨会议 AI 问答检索**：支持利用 AI Chat 针对单场或多场历史会议进行对话式搜索，快速找回决策与细节。\n' +
+    '- **企业级安全与隐私**：通过 SOC 2 Type II、GDPR 和 HIPAA 认证，承诺绝不使用客户会议数据训练 AI 模型。\n' +
+    '\n' +
+    '### 适用场景\n' +
+    '- **销售与客户成功**：自动填充 CRM 字段、草拟跟进邮件并识别客户流失风险。\n' +
+    '- **招聘与 HR 团队**：规范面试记录、自动生成候选人评估评分并同步至 ATS 系统。\n' +
+    '- **团队管理与跨部门协作**：消除手动记录沉重负担，跨会议检索决策与推进待办落地。',
+  categories: [ 'Office Tools', 'AI Tools', 'Audio Tools' ],
+  tags: [ 'AI', 'Productivity', 'Automation', 'Audio', 'Free Trial' ],
+  image: 'https://meetgeekpublic.s3.eu-west-1.amazonaws.com/meetgeek.ai/webp/MeetGeek+Open+Graph.webp',
+  icon: 'https://icons.duckduckgo.com/ip3/meetgeek.ai.ico'
+}
+[63/1129] OK magicform [Office Tools, AI Tools]
+[64/1129] OK magnific ai [Image Generation, Design Tools, AI Tools]
+fetchItem, url: https://www.mindgrasp.ai mergedData: {
+  link: 'https://www.mindgrasp.ai',
+  name: 'mindgrasp',
+  description: 'Mindgrasp 是一款 AI 驱动的智能学习助手，能将讲座、视频、PDF 等资料迅速转化为结构化笔记、摘要、闪卡、自测试题及 AI 导师答疑。',
+  introduction: 'Mindgrasp 是一款专为学生、自学者、教育者及职场人士设计的 AI 智能学习与备考工具。它利用先进的人工智能技术，帮助用户在短时间内消化大量复杂信息，大幅提升学习与复习效率。\n' +
+    '\n' +
+    '### 核心功能与特色\n' +
+    '- **多源内容解析**：支持上传 PDF、PowerPoint、Word 文档、音频、视频、网页链接及 YouTube 视频，同时支持实时录制课堂讲座。\n' +
+    '- **自动生成学习资料**：上传材料后即可秒级生成结构化笔记、核心摘要、用于主动回忆（Active Recall）的复习闪卡以及巩固知识的自测试题。\n' +
+    '- **24/7 AI 导师答疑**：内置结合上传内容回答问题的 AI Tutor，随时解答学习疑难，辅助深度理解。\n' +
+    '- **学习进度追踪**：为每个学习会话提供实时进度跟踪与清单，帮助用户清楚掌握复习节奏与未达成的知识点。\n' +
+    '- **多平台支持**：提供移动端 App 与 Chrome 浏览器插件，兼容 Canvas、Blackboard 等主流在线学习管理系统。\n' +
+    '\n' +
+    '### 适用人群与场景\n' +
+    '- **学生人群**：整理课堂讲座、冲刺期末考试或准备标准化测试。\n' +
+    '- **自学与在线学习者**：快速总结网络课程、长视频与大部头电子书的核心要点。\n' +
+    '- **教师与教育工作者**：根据视频或教学材料一键生成配套测试题与复习卡片。\n' +
+    '- **职场专业人士**：从会议录音、行业报告中快速提取关键洞察。',
+  categories: [ 'AI Tools', 'Office Tools' ],
+  tags: [ 'AI', 'Productivity', 'Free Trial', 'Audio', 'Video' ],
+  image: undefined,
+  icon: 'https://icons.duckduckgo.com/ip3/www.mindgrasp.ai.ico'
+}
+[66/1129] FAIL(no-data) https://www.meshy.ai
+fetchItem, url: https://momen.app mergedData: {
+  link: 'https://momen.app',
+  name: 'momen',
+  description: 'Momen 是一款无代码应用与 AI Agent 构建平台，助力非技术创业者快速开发并上线具备原生 AI 工作流的全栈 Web 应用。',
+  introduction: '### Momen 简介\n' +
+    '\n' +
+    'Momen 是一款功能强大的无代码 Web 应用与 AI Agent 构建平台，旨在帮助非技术创业者和开发者无需编写代码即可快速创建生产级应用并实现规模化扩展。\n' +
+    '\n' +
+    '### 核心功能\n' +
+    '\n' +
+    '- **无代码可视化设计**：支持像 Figma 一样灵活设计响应式前端界面，兼具自由度与精细度。\n' +
+    '- **内置数据库与 AI 助手**：轻松定义表结构、字段与关联关系，借助 AI Copilot 加速数据模型构建。\n' +
+    '- **可视化逻辑与 AI Agent 工作流**：通过可视化工具配置自定义触发器、业务流程以及 AI 工作流，原生集成 Agent 自动化。\n' +
+    '- **一键全量部署**：前后端一键部署，快速上线，支持规模化扩展并应对海量用户。\n' +
+    '- **开发者进阶支持**：提供可搜索日志、React 组件集成、自定义 JavaScript 逻辑及 GraphQL API。\n' +
+    '\n' +
+    '### 应用场景\n' +
+    '\n' +
+    '- **创业 MVP 快速上线**：非技术创始人快速构建并验证 SaaS 应用或商业化产品。\n' +
+    '- **AI 应用与智能助手**：结合 RAG 与 AI Agent 打造智能化搜索助理、知识库和 AI 交互工具。',
+  categories: [ 'Developer Tools', 'AI Tools' ],
+  tags: [ 'No Code', 'AI', 'Automation', 'Productivity' ],
+  image: 'https://cdn.momen.app/project/2000000000000866/images/cq9nskzujbWNT0cK5fDHMw==.jpeg?Expires=1787183999&Signature=MEUCIQDqscXXmgbV0SM3sGMnpabOkHnZMc03sgdoBVeqVcGMxgIgQi3pC2IvcWzCjiETeS3~yY0Cpe4L4JqkS1iPRx4jYdQ_&Key-Pair-Id=K1PZZB1VIJB7JB',
+  icon: 'https://icons.duckduckgo.com/ip3/momen.app.ico'
+}
+[65/1129] OK meetgeek [Office Tools, AI Tools, Audio Tools]
+[67/1129] OK mindgrasp [Office Tools, AI Tools]
+fetchItem, url: https://mubert.com mergedData: {
+  link: 'https://mubert.com',
+  name: 'mubert',
+  description: 'Mubert 是一款强大的 AI 音乐生成平台，能够根据文本提示、情绪和时长快速生成商用无版权的背景音乐与音效。',
+  introduction: '### 什么是 Mubert？\n' +
+    '\n' +
+    'Mubert 是一款结合人类音乐人创作与人工智能算法的 AI 音乐生成平台。它能够通过文本提示词、音乐风格、情绪和时长，实时生成无版权风险（Royalty-Free）的背景音乐与音效，广泛适用于视频创作、播客、应用开发和游戏等场景。\n' +
+    '\n' +
+    '### 主要功能与产品矩阵\n' +
+    '\n' +
+    '- **Mubert Render**：专为内容创作者打造，根据内容的特定时长、情绪和风格定制背景音乐，支持 YouTube、TikTok 和播客发布。\n' +
+    '- **Mubert API**：适合开发者与企业，将 AI 音乐能力直接集成到 App 或游戏产品中，实现个性化音频体验。\n' +
+    '- **Mubert Studio**：音乐创作者可以通过贡献样本和 Loops 切片，与 AI 合作创作并获得收益分成。\n' +
+    '- **Mubert Play**：为听众提供根据情境无限播放的 AI 音乐频道。\n' +
+    '- **版权检测工具**：内置 YouTube、TikTok、Instagram 等社交媒体的音频版权核查工具，规避 DMCA 版权纠纷。\n' +
+    '\n' +
+    '### 适用场景\n' +
+    '\n' +
+    '- **视频与播客创作**：快速生成契合画面情绪且无版权担忧的背景音乐。\n' +
+    '- **应用与游戏开发**：利用 API 实时生成长效、高品质的互动背景音效。\n' +
+    '- **音乐采样收益**：独立音乐人可变现存量素材。',
+  categories: [ 'AI Tools', 'Audio Tools' ],
+  tags: [ 'AI', 'Audio', 'Video', 'Free Trial', 'Productivity' ],
+  image: 'https://mubert.com/thumbnail.png',
+  icon: 'https://icons.duckduckgo.com/ip3/mubert.com.ico'
+}
+fetchItem, url: https://www.munch.no/en mergedData: {
+  link: 'https://www.munch.no/en',
+  name: 'munch',
+  description: 'Munch 是一款基于 AI 的长视频切片与内容重塑工具，可自动提取长视频精华并转化为适合社交媒体传播的短视频。',
+  introduction: 'Munch 是一款基于人工智能的视频剪辑与内容重塑平台，旨在帮助创作者和营销人员轻松将长视频（如播客、研讨会、访谈等）转化为高参与度的短视频剪辑。\n' +
+    '\n' +
+    '### 主要功能\n' +
+    '\n' +
+    '- **智能精彩片段提取**：运用先进的 AI 算法分析视频内容，精准捕捉最吸睛的对话与高光时刻。\n' +
+    '- **自动字幕与比例适配**：自动生成精准字幕，并根据 TikTok、YouTube Shorts 和 Instagram Reels 等平台需求调整画面排版与比例。\n' +
+    '- **趋势词与文案生成**：结合当前社交平台的热门关键词与话题，自动生成配套的社交媒体发布文案。\n' +
+    '- **多平台集成管理**：简化工作流程，支持直接预览、编辑并一站式分发至多个社交渠道。\n' +
+    '\n' +
+    '### 适用场景\n' +
+    '\n' +
+    '- **自媒体创作者**：将数小时的长视频快速切片，提升内容产出效率与覆盖面。\n' +
+    '- **品牌营销团队**：二次利用既有视频资产，跨渠道扩大品牌影响力与用户互动。',
+  categories: [ 'Video Generation', 'AI Tools' ],
+  tags: [ 'Video', 'AI', 'Marketing', 'Automation', 'Productivity' ],
+  image: 'https://www.munch.no/globalassets/kunstverk/solen-1910-11.jpg',
+  icon: 'https://icons.duckduckgo.com/ip3/www.munch.no.ico'
+}
+fetchItem, url: https://musicfy.lol mergedData: {
+  link: 'https://musicfy.lol',
+  name: 'musicfy',
+  description: 'Musicfy 是一款强大的 AI 语音与音乐生成工具，让用户能够使用任意 AI 声音轻松制作翻唱歌曲或创建专属人声克隆。',
+  introduction: '### 什么是 Musicfy？\n' +
+    '\n' +
+    'Musicfy 是一款革命性的 AI 语音歌曲生成与音乐创作平台。用户可以通过该平台使用数万种 AI 声音制作翻唱歌曲，或者上传自己的声音制作专属的 AI 声音模型。\n' +
+    '\n' +
+    '### 主要功能与特点\n' +
+    '\n' +
+    '- **AI 语音转换与克隆**：浏览版权免费的人声库，或轻松上传音频生成完全符合个人音色的 AI 声音模型。\n' +
+    '- **Text-to-Music (文本转音乐)**：将文字和情感直接转化为动听的音乐作品。\n' +
+    '- **分轨分离 (Stem Splitter)**：轻松分离歌曲中的人声、鼓点、贝斯等不同音轨。\n' +
+    '- **无版权限制**：提供丰富的版权免费人声与音乐资源，可直接用于商业发布和流媒体平台。\n' +
+    '- **AI 搞笑与模仿声音**：支持使用幽默风趣的模仿声音重混歌曲，增加创作乐趣。\n' +
+    '\n' +
+    '### 适用场景\n' +
+    '\n' +
+    '- **音乐制作人与歌手**：快速生成 Demo，探索全新音色与创作灵感。\n' +
+    '- **内容创作者与游戏开发者**：为视频、游戏角色快速配音或创作无版权背景音乐。\n' +
+    '- **DJ 与混音师**：高效获取提取的人声干声与分轨素材。',
+  categories: [ 'Audio Tools', 'AI Tools' ],
+  tags: [ 'Audio', 'AI', 'Productivity' ],
+  image: 'https://framerusercontent.com/assets/AylUhjwqYR22H7zWf24myqSfDE.jpg',
+  icon: 'https://icons.duckduckgo.com/ip3/musicfy.lol.ico'
+}
+[68/1129] OK momen [Developer Tools, AI Tools]
+fetchItem, url: https://www.mymap.ai mergedData: {
+  link: 'https://www.mymap.ai',
+  name: 'mymap ai',
+  description: 'MyMap.ai 是一款 AI 驱动的视觉思考与思维导图生成工具，可通过自然语言提示快速创建思维导图、流程图和演示文稿。',
+  introduction: '## MyMap.ai 简介\n' +
+    '\n' +
+    'MyMap.ai 是一款基于人工智能的在线视觉化思考与图表生成工具。它旨在帮助用户轻松将想法、长文本及视频内容转换为直观的思维导图、流程图、概念图和演示文稿。用户只需输入简单的文本指令或上传文件，AI 即可快速梳理逻辑并呈现清晰的结构化图表。\n' +
+    '\n' +
+    '### 核心功能\n' +
+    '\n' +
+    '- **文本/提示词生成图表**：只需输入自然语言描述或大纲，AI 就能自动生成高质量的思维导图和流程图。\n' +
+    '- **视频与文档摘要**：支持解析长文章、PDF 及 YouTube 视频内容，自动提炼要点并生成可视化导图。\n' +
+    '- **对话式智能编辑**：支持通过交互式对话不断扩充、精炼或重构已生成的导图节点。\n' +
+    '- **多样化呈现模式**：不仅限于思维导图，还能一键转换为概念图、流程图和演示幻灯片。\n' +
+    '- **便捷共享与导出**：支持导出为多种图片格式或 PDF，便于日常汇报与团队协作。\n' +
+    '\n' +
+    '### 适用场景\n' +
+    '\n' +
+    '- **知识整理与学习**：帮助学生与研究人员快速阅读复杂长文、整理课堂或视频笔记。\n' +
+    '- **头脑风暴与构思**：在项目启动阶段帮助团队及个人迅速梳理逻辑架构与产品流程。\n' +
+    '- **演示汇报**：为商务人士或创作者提供极简的视觉方案展示工具。',
+  categories: [ 'Design Tools', 'Office Tools', 'AI Tools' ],
+  tags: [ 'AI', 'Productivity', 'Free Trial', 'Automation', 'No Code' ],
+  image: undefined,
+  icon: 'https://icons.duckduckgo.com/ip3/www.mymap.ai.ico'
+}
+[69/1129] OK mubert [AI Tools, Audio Tools]
+[70/1129] OK munch [Video Generation, AI Tools]
+[71/1129] OK musicfy [AI Tools, Audio Tools]
+fetchItem, url: https://mymind.com mergedData: {
+  link: 'https://mymind.com',
+  name: 'mymind',
+  description: 'mymind 是一款基于人工智能的私密笔记与知识管理工具，利用 AI 技术自动整理和检索笔记、图片、文章及书签，无需手动分类。',
+  introduction: '### mymind 简介\n' +
+    '\n' +
+    'mymind 是一款旨在扩展个人记忆力与思维能力的智能知识管理与书签工具。它为用户提供了一个安全私密的个人空间，可用于收集笔记、图片、网页书签、灵感片段及长篇文章。\n' +
+    '\n' +
+    '与传统需要手动建文件夹和打标签的笔记软件不同，mymind 依靠人工智能技术在后台自动分析、分类和整理保存的内容，让用户从繁琐的知识整理中解脱出来。\n' +
+    '\n' +
+    '### 核心功能\n' +
+    '\n' +
+    '- **智能书签与自动分类**：无需手动创建文件夹，AI 能够自动识别保存内容的属性（如文章、商品、图书、食谱或设计图片）并提取核心特征。\n' +
+    '- **视觉与联想搜索**：支持按颜色、关键词、品牌或时间线进行直觉式检索，利用大脑的联想机制快速定位所需资料。\n' +
+    '- **沉浸式无干扰阅读**：自动清除网页广告、弹窗与杂乱布局，提取纯净正文供用户深度阅读与高亮标记。\n' +
+    '- **AI 智能摘要与双向链接**：自动为长文生成要点摘要，并支持在不同笔记间建立关联，构建自增长的个人知识网络。\n' +
+    '- **跨平台多端同步**：提供 iOS、Android 移动端应用，MacOS 客户端以及 Chrome、Safari、Edge 等主流浏览器插件，随时随地保持同步。\n' +
+    '\n' +
+    '### 适用场景\n' +
+    '\n' +
+    '- **设计师与视觉创作者**：收集视觉灵感、设计参考，快速构建无界限的视觉灵感板。\n' +
+    '- **研究员与写作者**：收集文献资料、高亮金句，在专注模式下进行无干扰写作与思考。\n' +
+    '- **日常知识工作者**：构建零维护成本的“第二大脑”，将散乱的信息集中存储并随时高效调取。',
+  categories: [ 'AI Tools', 'Office Tools', 'Search and Research' ],
+  tags: [ 'AI', 'Productivity', 'Writing' ],
+  image: 'https://mymind.com/wp-content/uploads/2023/05/Mymind_2023_F-1024x538.jpg',
+  icon: 'https://icons.duckduckgo.com/ip3/mymind.com.ico'
+}
+fetchItem, url: https://namelix.com mergedData: {
+  link: 'https://namelix.com',
+  name: 'namelix',
+  description: 'Namelix 是一款基于生成式 AI 的商业名称生成工具，帮助用户快速生成简短、独特且具品牌效应的企业名称并检查域名可用性。',
+  introduction: '### 简介\n' +
+    '\n' +
+    'Namelix 是一款基于人工智能的商业名称生成器（Business Name Generator），利用定制的大语言模型（LLM）帮助创业者和团队快速生成短小、易记且具有品牌效应的企业与产品名称。\n' +
+    '\n' +
+    '### 核心功能\n' +
+    '\n' +
+    '- **AI 命名引擎**：采用专门针对命名训练的生成式 AI 模型，比传统词典拼接工具或标准聊天助手产生更有原创性的名称方案。\n' +
+    '- **灵活筛选与过滤**：支持按名称长度限制、包含特定关键词或指定域名后缀进行结果筛选。\n' +
+    '- **智能推荐算法**：系统会根据用户收藏和标记喜好的名称进行持续学习，随使用次数增多输出更符合偏好的结果。\n' +
+    '- **域名与 Logo 拓展**：一键检索相关域名的注册状态，并支持衔接 Logo 设计工具快速构建品牌形象。\n' +
+    '\n' +
+    '### 适用场景\n' +
+    '\n' +
+    '适合初创企业创始人、新产品开发团队、品牌策划人以及任何需要寻找简短、高端且可注册域名的项目需求。',
+  categories: [ 'AI Tools', 'Marketing Tools' ],
+  tags: [ 'AI', 'Marketing', 'Productivity', 'No Code' ],
+  image: undefined,
+  icon: 'https://icons.duckduckgo.com/ip3/namelix.com.ico'
+}
+fetchItem, url: https://nanonets.com mergedData: {
+  link: 'https://nanonets.com',
+  name: 'nanonets',
+  description: 'Nanonets 是一家企业级 AI 数据处理与文档智能提取平台，利用 AI Agent 自动化处理发票、订单及复杂文档数据流。',
+  introduction: '### 简介\n' +
+    'Nanonets 是一家面向企业级数据处理与文档智能管理的 AI 自动化平台。通过先进的 AI Agent 与自研的 Nanonets OCR-3 模型，Nanonets 能够准确提取非结构化文档（如发票、采购单、提货单及合同等）中的数据，并无缝对接 SAP、Salesforce 等主流 ERP 与 CRM 系统。\n' +
+    '\n' +
+    '### 核心功能\n' +
+    '- **智能文档数据提取**：支持任意格式的文档识别与表格提取，精准解析复杂结构与字段。\n' +
+    '- **Context Graph（上下文图谱）**：结合企业业务逻辑与 SOP，缝合多系统上下文，高效处理边缘复杂用例。\n' +
+    '- **AI Agent 工作流**：将标准作业程序转化为可端到端自动执行的 AI Agent，显著减少人工数据录入。\n' +
+    '- **无缝生态集成**：深度对接 SAP、QuickBooks、Salesforce、Google Drive、Slack 等数十种企业工具。\n' +
+    '- **企业级安全管控**：通过 SOC 2 Type II、GDPR、ISO 27001 及 HIPAA 认证，支持私有化部署、单点登录（SSO）与完整审计日志。\n' +
+    '\n' +
+    '### 适用场景\n' +
+    '- **应付账款与财务自动化**：自动解析发票并匹配采购单，实现无感入账。\n' +
+    '- **订单及物流管理**：快速处理客户订单与物流单据，提升供应链响应速度。\n' +
+    '- **理赔与医疗文档处理**：高效结构化提取保单与医疗记录数据。',
+  categories: [ 'Data Tools', 'AI Tools', 'Office Tools' ],
+  tags: [ 'Automation', 'AI', 'Productivity', 'Free Trial', 'No Code' ],
+  image: undefined,
+  icon: 'https://icons.duckduckgo.com/ip3/nanonets.com.ico'
+}
+[72/1129] OK mymap ai [Design Tools, Office Tools, AI Tools]
+fetchItem, url: https://www.notion.com/help/guides/category/ai mergedData: {
+  link: 'https://www.notion.com/help/guides/category/ai',
+  name: 'notion ai',
+  description: 'Notion AI 是一款内置于 Notion 协作平台中的人工智能助手，具备文本生成、长文摘要、会议记录提取及全局问答等功能，显著提升个人与团队的办公效率。',
+  introduction: '### Notion AI 简介\n' +
+    '\n' +
+    'Notion AI 是无缝嵌入在 Notion 工作区中的智能助手。它利用先进的生成式 AI 技术，帮助用户更加高效地管理知识、撰写文档以及自动化处理常规工作流程。\n' +
+    '\n' +
+    '### 主要功能\n' +
+    '\n' +
+    '1. **智能写作与草稿生成**：快速生成文章提纲、电子邮件、公关文案、博客草稿及各类办公文档。\n' +
+    '2. **内容总结与提炼**：一键提炼长文档、会议记录或研究笔记中的核心要点与待办事项（Action Items）。\n' +
+    '3. **全局 Q&A 搜索**：直接向 AI 提问，智能检索并总结整个 Notion 工作区中的知识库与文档内容。\n' +
+    '4. **数据库自动填充（AI Autofill）**：结合数据库属性，自动对条目进行翻译、分类、提炼摘要或补充字段。\n' +
+    '5. **文本润色与重写**：支持调整写作语气、简化语言、纠正拼写和语法错误，甚至进行多语言翻译。\n' +
+    '\n' +
+    '### 常见应用场景\n' +
+    '\n' +
+    '- **会议记录与项目跟踪**：录入会议笔记后一键生成摘要并提取后续任务安排。\n' +
+    '- **团队知识库管理**：搭建 AI 驱动的 Enterprise Search 知识中心，让团队成员瞬间找到所需答案。\n' +
+    '- **营销与产品开发**：帮助营销人员撰写文案，帮助产品与技术团队编写规格文档和需求分析。',
+  categories: [ 'Office Tools', 'Writing Tools', 'AI Tools' ],
+  tags: [ 'Writing', 'AI', 'Productivity', 'Automation' ],
+  image: 'https://www.notion.com/front-static/meta/help-center.png',
+  icon: 'https://icons.duckduckgo.com/ip3/www.notion.com.ico'
+}
+[74/1129] OK namelix [Marketing Tools, AI Tools]
+[73/1129] OK mymind [Office Tools, AI Tools, Search and Research]
+[75/1129] OK nanonets [Office Tools, Data Tools, AI Tools]
+fetchItem, url: https://openclaw.ai mergedData: {
+  link: 'https://openclaw.ai',
+  name: 'openclaw',
+  description: 'OpenClaw 是一款在本地设备运行的开源 AI 个人助手，支持通过 WhatsApp、Telegram、Discord 等常用聊天软件随时随地自动化执行任务。',
+  introduction: '## 什么是 OpenClaw？\n' +
+    '\n' +
+    'OpenClaw 是一款开源的本地 AI 个人助手，旨在让 AI 具备真正的任务执行能力。与传统的网页端 AI 对话框不同，OpenClaw 运行在用户的本地计算机（macOS、Windows 或 Linux）上，并允许用户通过 WhatsApp、Telegram、Discord、Slack、iMessage 等日常使用的聊天软件对其进行远程指令控制。\n' +
+    '\n' +
+    '## 主要功能特点\n' +
+    '\n' +
+    '- **本地运行与数据隐私**：核心数据与状态全保存在用户本地机器上，掌控权完全归用户所有，不受限于封闭云端服务。\n' +
+    '- **多渠道无缝对话**：支持 20 多种主流通讯软件，无论是私聊还是群聊，都可以像联系同事一样向 OpenClaw 发送指令。\n' +
+    '- **全系统与浏览器操控**：支持浏览器自动化（浏览网页、填写表单、抓取数据），具备读写本地文件及运行终端 Shell 脚本的完整权限。\n' +
+    '- **持久化记忆机制**：拥有长效记忆，能够跨对话理解用户的偏好、历史项目与人际关系，提供个性化协同。\n' +
+    '- **技能与插件生态扩展**：支持通过社区技能库进行扩展，甚至可以引导 AI 自行编写和热加载新技能。\n' +
+    '\n' +
+    '## 典型应用场景\n' +
+    '\n' +
+    '1. **日常办公自动化**：自动整理 Gmail 收件箱、管理日程安排、预订航班、处理报销单及起草邮件。\n' +
+    '2. **远程开发与运维**：通过手机发送 Telegram/Discord 消息控制本地 CLI 工具、监控部署、自动跑测试并提交 GitHub PR。\n' +
+    '3. **个人 OS 与生活管理**：结合 Obsidian 笔记库构建第二大脑，或对接健康追踪设备及 Smart Home 系统进行日常提醒与控制。',
+  categories: [ 'AI Chat', 'AI Tools', 'Developer Tools' ],
+  tags: [
+    'AI',
+    'Chatbot',
+    'Open Source',
+    'Automation',
+    'Productivity',
+    'Coding'
+  ],
+  image: 'https://openclaw.ai/og-image.png',
+  icon: 'https://icons.duckduckgo.com/ip3/openclaw.ai.ico'
+}
+fetchItem, url: https://otter.ai mergedData: {
+  link: 'https://otter.ai',
+  name: 'otter ai',
+  description: 'Otter.ai 是一款基于 AI 的实时语音转文字与会议记录助手，能自动记录、总结会议要点并提取后续行动项。',
+  introduction: '### Otter.ai 简介\n' +
+    '\n' +
+    'Otter.ai 是一款强力的 AI 语音转文字与会议助手工具，旨在帮助个人和团队高效记录、总结与检索会议内容。它支持实时语音转写、自动生成会议摘要、提取关键行动项，并能够与主流在线会议平台（如 Zoom、Google Meet、Microsoft Teams）无缝集成。\n' +
+    '\n' +
+    '### 主要功能特点\n' +
+    '\n' +
+    '- **实时语音转文字**：在会议进行时自动捕获高精准度的实时逐字稿，并智能识别不同发言人。\n' +
+    '- **AI 智能会议摘要**：自动梳理会议要点、决策事项与后续行动任务，极大缩短后续整理时间。\n' +
+    '- **Otter AI Chat 交互问答**：支持跨会议内容进行智能搜索与提问，快速获取特定主题解答并生成总结报告。\n' +
+    '- **桌面无 Bot 录音**：提供桌面端应用与 Chrome 扩展，实现不依赖机器人入会的无感音频录制。\n' +
+    '- **丰富工具集成**：支持与 Zoom、Google Meet、Teams、Slack、Salesforce、HubSpot 等生态应用深度连接，自动将销售洞察同步至 CRM。\n' +
+    '\n' +
+    '### 适用场景\n' +
+    '\n' +
+    '- **企业与销售团队**：自动跟进客户会议记录，无缝同步至 CRM 系统提升跟进效率。\n' +
+    '- **教育与学术研究**：自动捕获课堂讲座与研讨会内容，生成便于检索的复习笔记。\n' +
+    '- **媒体与采访报道**：实时转写采访音频，快速提炼核心观点与素材。\n' +
+    '- **招聘与 HR**：面试过程实时记录并自动生成结构化的候选人评价报告。',
+  categories: [ 'Office Tools', 'AI Tools', 'Audio Tools' ],
+  tags: [ 'AI', 'Audio', 'Productivity', 'Automation', 'Free Trial' ],
+  image: 'https://cdn.prod.website-files.com/618e9316785b3582a5178502/67dd5a945aeed07e329d4e10_fb6d82f0792801a1a0d814599859e23e_og-image-otter-optim.jpg',
+  icon: 'https://icons.duckduckgo.com/ip3/otter.ai.ico'
+}
+[76/1129] OK notion ai [Office Tools, Writing Tools, AI Tools]
+[79/1129] FAIL(no-data) https://www.perplexity.ai
+[77/1129] OK openclaw [AI Chat, Developer Tools, AI Tools]
+fetchItem, url: https://photoai.com mergedData: {
+  link: 'https://photoai.com',
+  name: 'photo ai',
+  description: 'Photo AI 是一款强大的 AI 摄影与视频生成平台，支持通过自拍训练个人模型或创建合成 AI 模特，快速生成超逼真的写真照片与动态视频。',
+  introduction: '### 简介\n' +
+    '\n' +
+    'Photo AI 是全球首款 AI 摄影师与视频生成平台，由著名独立开发者 Pieter Levels 打造。用户只需上传少量个人自拍，即可在几分钟内训练出高相似度的 AI 角色，或从零构建完全合成的 AI 网红（AI Influencer）。平台无需聘请摄影师与模特，即可在任何场景、姿势和服装下快速生成专业级照片与视频，极大地降低了视觉内容的创作成本。\n' +
+    '\n' +
+    '### 主要功能\n' +
+    '\n' +
+    '- **AI 模特训练与生成**：仅需上传 5-15 张照片即可训练专属 AI 模型；同时支持自定义发型、肤色、身材等属性，创建 100% 合成的 AI 模特。\n' +
+    '- **虚拟试衣与电商营销（Virtual Try-On）**：支持上传服装与产品图，由 AI 模特一键试穿或手持展示，专为电商与 Shopify 卖家提供高质量宣传素材。\n' +
+    '- **静态图转 AI 视频**：基于 Seedance 2.5 等先进视频模型，支持将静态写真转化为带有配音、动作捕捉（Mocap）和说话口型同步的动态视频。\n' +
+    '- **丰富的写真主题包（Photo Packs）**：内置超过 200 款预设风格，覆盖 LinkedIn 商务头图、Tinder/Hinge 社交约会照、复古风、环球旅行及品牌宣传等场景。\n' +
+    '- **智能图像编辑工具**：提供无缝扩图（Zoom Out）、魔法消除（Magic Edit）、光照重塑（Relight）以及高清无损放大（Upscale）等强大后处理功能。\n' +
+    '\n' +
+    '### 应用场景\n' +
+    '\n' +
+    '- **个人形象与社交媒体**：轻松生成专业的 LinkedIn 职场头像、社交平台生活照及短视频内容。\n' +
+    '- **电商与服装品牌**：批量制作商品模特展示图与视频广告，无需高昂费用搭建摄影棚与跨国拍摄团队。\n' +
+    '- **内容创作者与自媒体**：快速生成 YouTube 封面、TikTok 幻灯片及创意短片，显著提升视觉内容产出效率。',
+  categories: [ 'Image Generation', 'Video Generation', 'AI Tools' ],
+  tags: [ 'Image', 'Video', 'AI', 'Marketing' ],
+  image: 'https://photoai.com/assets/social-image-3.jpg',
+  icon: 'https://icons.duckduckgo.com/ip3/photoai.com.ico'
+}
+[78/1129] OK otter ai [Office Tools, AI Tools, Audio Tools]
+fetchItem, url: https://pixella.ai mergedData: {
+  link: 'https://pixella.ai',
+  name: 'pixela ai',
+  description: 'Pixela AI 是一款集图像生成与智能编辑于一体的 AI 视觉创作工具，支持高效生成艺术作品与图片修复。',
+  introduction: '## Pixela AI 简介\n' +
+    '\n' +
+    'Pixela AI 是一款强大的 AI 图像生成与编辑工具。利用先进的深度学习技术，用户可以通过简单的文本描述或现有图像，快速生成并编辑高质量的数字艺术作品、设计素材和视觉图片。\n' +
+    '\n' +
+    '### 核心功能\n' +
+    '\n' +
+    '- **文本生成图像（Text-to-Image）**：只需输入提示词，即可快速将创意转化为不同风格的视觉画作。\n' +
+    '- **AI 智能编辑与修复**：提供局部重绘、背景消除、图像放大与画质增强等实用编辑功能。\n' +
+    '- **丰富风格库**：涵盖写实摄影、二次元插画、像素艺术、3D 渲染等多种风格模式。\n' +
+    '- **高效创作体验**：简洁易用的交互界面，帮助用户快速完成图像处理与视觉素材制作。\n' +
+    '\n' +
+    '### 适用场景\n' +
+    '\n' +
+    '- **数字艺术创作**：帮助艺术爱好者和创作者将想法轻松转换为艺术作品。\n' +
+    '- **视觉设计与营销**：为社交媒体、自媒体封面及广告图提供丰富的视觉创意素材。\n' +
+    '- **概念设计与贴图制作**：适合游戏开发者和设计师快速探索视觉概念。',
+  categories: [ 'Image Generation', 'Design Tools', 'AI Tools' ],
+  tags: [ 'Image', 'AI', 'Productivity', 'No Code' ],
+  image: undefined,
+  icon: 'https://icons.duckduckgo.com/ip3/pixella.ai.ico'
+}
+fetchItem, url: https://www.scenario.com/features/pixelate mergedData: {
+  link: 'https://www.scenario.com/features/pixelate',
+  name: 'pixelicious',
+  description: 'Pixelicious 是一款在线图像转像素画工具，能够将普通图片快速转换为带有自定义调色板和可调分辨率的复古像素艺术作品。',
+  introduction: '### 简介\n' +
+    '\n' +
+    'Pixelicious 是一款高效的图像转像素画转换工具（现为 Scenario 平台功能之一），旨在帮助游戏开发者、设计师及创作者轻松将普通图片、照片或插图转换为经典复古的像素艺术（Pixel Art）。\n' +
+    '\n' +
+    '### 核心功能\n' +
+    '\n' +
+    '- **即时像素化转换**：上传任意高分辨率图像，即可快速生成适合游戏、海报或头像的像素风格图层。\n' +
+    '- **自定义网格分辨率**：提供 16px、32px、64px、128px 和 256px 等多种像素网格尺寸，精细调节整体细节与复古程度。\n' +
+    '- **灵活的色彩调色板**：支持自动提取图片调色板或通过 HEX 色号手动配置，轻松打造 4-8 色的极简 8-bit 风格或 16+ 色的丰富视觉效果。\n' +
+    '- **噪点平滑与背景清除**：集成“去除噪点”（Remove Noise）与“去除背景”（Remove Background）选项，方便直接导出干净的角色精灵图（Sprites）和独立素材。\n' +
+    '- **统一视觉风格**：可保存并复用特定的调色板与像素设置，确保多张图片或动画帧之间的风格高度一致。\n' +
+    '\n' +
+    '### 应用场景\n' +
+    '\n' +
+    '- **独立游戏开发**：快速制作复古游戏角色、道具精灵图及环境地图贴图。\n' +
+    '- **像素风头像与壁纸**：将人物或风景照片转化为极具特色的像素风社交头像与艺术壁纸。\n' +
+    '- **UI 与图标设计**：制作适用于移动端或网页的像素风格图标和按钮元素。',
+  categories: [ 'Image Generation', 'Design Tools', 'AI Tools' ],
+  tags: [ 'Image', 'AI', 'No Code' ],
+  image: 'https://www.scenario.com/features/pixelate/opengraph-image-po8to7?8dee58b0008a5a50',
+  icon: 'https://icons.duckduckgo.com/ip3/www.scenario.com.ico'
+}
+fetchItem, url: https://pictory.ai mergedData: {
+  link: 'https://pictory.ai',
+  name: 'pictory',
+  description: 'Pictory 是一款基于 AI 的智能视频生成与编辑工具，支持将文本、脚本、URL 链接、PPT 和音频等内容自动转换为高质量的视频。',
+  introduction: '## 工具简介\n' +
+    '\n' +
+    'Pictory 是一款强大的 AI 视频生成与编辑平台，旨在为营销人员、内容创作者、教育工作者和企业团队提供高效的视频创作方案。用户无需任何专业视频剪辑技巧或下载软件，即可将文字、文章链接、演讲文稿、图像及音频迅速转化为专业品质的品牌视频。\n' +
+    '\n' +
+    '## 主要功能\n' +
+    '\n' +
+    '- **文本/脚本转视频 (Script to Video)**：输入文字文稿或 AI 生成脚本，自动匹配视觉素材、背景音乐及文本字幕。\n' +
+    '- **文章/URL 转视频 (URL to Video)**：粘贴博客或网页链接，智能提取核心内容并生成动态视频。\n' +
+    '- **AI 智能视频编辑 (AI Video Editor)**：支持基于文本切片编辑视频，自动识别并清除无用镜头与语气词。\n' +
+    '- **自动字幕与多语言翻译**：自动生成精准字幕，支持多种语言自动翻译与字幕样式自定义。\n' +
+    '- **AI 语音与数字人化身 (AI Voices & Avatars)**：内置拟真 AI 配音及数字人形象，提升内容传达效率。\n' +
+    '- **品牌定制与模版库 (Brand Kits)**：支持上传品牌 Logo、字体及配色方案，确保视频视觉风格的高度统一。\n' +
+    '\n' +
+    '## 适用场景\n' +
+    '\n' +
+    '- **短视频与社交媒体营销**：快速制作 YouTube Shorts、TikTok、Instagram Reels 等平台的推广视频。\n' +
+    '- **企业培训与在线教育**：将教学课件、PPT 及培训文档转换为直观生动的讲解视频。\n' +
+    '- **内容二次剪辑**：将既有博客长文或长视频精简转化为高光传播片段。',
+  categories: [ 'Video Generation', 'AI Tools', 'Marketing Tools' ],
+  tags: [
+    'Video',
+    'AI',
+    'Marketing',
+    'Automation',
+    'Free Trial',
+    'Productivity',
+    'No Code'
+  ],
+  image: 'https://pictory.ai/wp-content/uploads/2022/04/thumb-home.jpg',
+  icon: 'https://icons.duckduckgo.com/ip3/pictory.ai.ico'
+}
+[80/1129] OK photo ai [Image Generation, Video Generation, AI Tools]
+[82/1129] OK pixela ai [Image Generation, Design Tools, AI Tools]
+[83/1129] OK pixelicious [Image Generation, Design Tools, AI Tools]
+fetchItem, url: https://app.pixverse.ai mergedData: {
+  link: 'https://app.pixverse.ai',
+  name: 'pixverse',
+  description: 'PixVerse（拍我AI）是一款高性能 AI 视频创作平台，支持文字和图片快速生成高画质视频与热门 AI 特效。',
+  introduction: '## PixVerse 简介\n' +
+    '\n' +
+    '**PixVerse**（国内版亦称“拍我AI”）是一款功能强大的 AI 视频生成与创作平台，旨在帮助用户快速将文本和静态图片转化为高质量、具动态张力的视频作品。\n' +
+    '\n' +
+    '### 核心功能\n' +
+    '- **文字生成视频（Text-to-Video）**：输入提示词描述场景与动作，AI 即可自动构建高精度的视频片段。\n' +
+    '- **图片生成视频（Image-to-Video）**：上传静态图片，结合镜头控制与动态动作指导，赋予图片生命力。\n' +
+    '- **AI 热门特效与快应用**：内置丰富的创意特效模板与快捷创作工具，轻松实现趣味特效与视觉冲击。\n' +
+    '- **API 接口支持**：面向开发者和企业提供视频生成 API 接入能力，便于集成至自有业务工作流。\n' +
+    '\n' +
+    '### 应用场景\n' +
+    '- **短视频与自媒体**：快速生成具有冲击力的动态视觉内容，提升创作效率。\n' +
+    '- **广告与营销**：制作高质量的商业宣传素材与创意视觉效果。\n' +
+    '- **概念设计与影视前期**：将文字创意或概念图快速转换为视频分镜预览。',
+  categories: [ 'Video Generation', 'AI Tools' ],
+  tags: [ 'Video', 'AI', 'Free Trial' ],
+  image: 'https://cdn.pixverseai.cn/media/pixverse/default.jpg',
+  icon: 'https://icons.duckduckgo.com/ip3/app.pixverse.ai.ico'
+}
+[81/1129] OK pictory [Video Generation, Marketing Tools, AI Tools]
+fetchItem, url: https://pollinations.ai mergedData: {
+  link: 'https://pollinations.ai',
+  name: 'pollinations',
+  description: 'Pollinations.ai 是一个开源多模态 AI API 平台，支持开发者快速生成图像、文本、音频和视频，轻松构建 AI 应用。',
+  introduction: 'Pollinations.ai 作为一个强大的多模态 AI 开发平台与 API 接口服务，旨在为开发者、创作者及企业提供便捷的生成式 AI 能力。通过统一且易于集成的 API，用户能够快速调用最新的开源与前沿 AI 模型（如 Flux 等），实时生成高质量图像、文本、音频和视频内容。\\n\\n### 核心功能\\n- **多模态内容生成**：支持文本到图像（Text-to-Image）、文本生成、音频及视频创作。\\n- **极简 API 集成**：提供开箱即用的 REST/URL API，无需繁琐配置即可嵌入各类应用。\\n- **开发者商业化支持**：结合用户钱包与收益分成机制，支持开发者构建可盈利的 AI 应用生态。\\n\\n### 应用场景\\n- **AI 应用与工具开发**：开发者可快速搭建 AI 绘图、对话机器人及内容生成工具。\\n- **动态多媒体创作**：营销人员与设计师可自动化批量生成高品质视觉素材。',
+  categories: [ 'Developer Tools', 'AI Tools', 'Image Generation' ],
+  tags: [ 'AI', 'Image', 'Coding', 'Open Source', 'Video' ],
+  image: 'https://pollinations.ai/og-image.png',
+  icon: 'https://icons.duckduckgo.com/ip3/pollinations.ai.ico'
+}
+[84/1129] FAIL(no-data) https://pixlr.com
+[85/1129] OK pixverse [Video Generation, AI Tools]
+fetchItem, url: https://postly.ai mergedData: {
+  link: 'https://postly.ai',
+  name: 'postly',
+  description: 'Postly 是一款集 AI 内容生成、多平台社交媒体与博客定时发布、CRM 及自动化工作流于一体的一站式营销与内容管理平台。',
+  introduction: '### Postly 简介\n' +
+    '\n' +
+    'Postly 是一款全能型 AI 社交媒体营销与内容发布管理平台。它将 AI 内容创作、多渠道社交与博客定时发布、CRM 社交获客、Bio 落地页生成以及数据分析整合在统一的工作区中，旨在提升内容发布效率与自动化水平。\n' +
+    '\n' +
+    '### 核心功能与亮点\n' +
+    '\n' +
+    '- **AI 内容创作与优化**：内置 AI Studio，支持一键生成社交媒体文案、AI 图片与短视频，并提供跨平台标题与描述优化、标签生成等功能。\n' +
+    '- **多渠道一键发布**：支持 Facebook、Instagram、LinkedIn、X (Twitter)、TikTok、YouTube、Pinterest、Telegram、WhatsApp 以及 WordPress、Ghost、DEV.to、Hashnode 等社交与博客平台。\n' +
+    '- **Auto Post 自动化工作流**：支持将电商商品 URL、RSS 订阅源、YouTube 视频、Prompt 提示词及各类文档（CSV/PDF/Word 等）自动转化为持续循环发布的社交与博客内容。\n' +
+    '- **Postly CRM 与私域获客**：自动化管理 Facebook 和 Instagram 的评论与私信，自动捕获潜在客户信息并追踪转化，提升客户互动效率。\n' +
+    '- **API & MCP Ready**：提供高度可扩展的 REST API 与 Model Context Protocol (MCP) 服务器，支持 AI Agent（如 ChatGPT、Claude）与开发者自动化调度和发布内容。\n' +
+    '\n' +
+    '### 适用场景\n' +
+    '\n' +
+    '- **营销代理机构 (Agencies)**：为多个客户提供独立的工作区、审批流程与定期报告，高效管理多品牌账号。\n' +
+    '- **内容创作者与营销团队**：批量排期发布、跨平台重用内容并跟踪点击转化率。\n' +
+    '- **电商与企业用户**：自动将店铺商品转化为社交媒体营销动态，提高商品曝光度与销售额。',
+  categories: [ 'Marketing Tools', 'Writing Tools', 'AI Tools' ],
+  tags: [
+    'AI',
+    'Automation',
+    'Marketing',
+    'Free Trial',
+    'Productivity',
+    'Writing',
+    'Video',
+    'Image'
+  ],
+  image: 'https://postly.ai/images/postly-og.png',
+  icon: 'https://icons.duckduckgo.com/ip3/postly.ai.ico'
+}
+[86/1129] FAIL(no-data) https://playgroundai.com
+fetchItem, url: https://promptbase.com mergedData: {
+  link: 'https://promptbase.com',
+  name: 'promptbase',
+  description: 'PromptBase 是全球知名的 AI 提示词交易平台，支持购买、出售及探索适用于 ChatGPT、Midjourney、DALL-E 等主流 AI 模型的优质提示词。',
+  introduction: 'PromptBase 是领先的 AI 提示词交易平台与开发者社区，旨在帮助用户获取、销售和优化用于各种主流人工智能模型（如 ChatGPT、Midjourney、Gemini、FLUX、DALL-E 等）的高质量提示词（Prompts）。\n' +
+    '\n' +
+    '### 主要功能\n' +
+    '- **提示词交易集市**：浏览并购买超过 30 万个经过测试的高质量 AI 提示词，涵盖图像生成、文本写作、视频创作等多种场景。\n' +
+    '- **提示词变现**：创作者与提示词工程师可以上架自己的 Prompt，连接 Stripe 账号快速实现知识变现。\n' +
+    '- **提示词工程师雇佣**：提供定制化服务，用户可在线雇佣专业的 AI 创作专家来完成特定项目需求。\n' +
+    '- **AI 应用与 Agent 技能扩展**：支持基于 Prompt 构建 AI 应用，并探索和交易 Agent Skills。\n' +
+    '- **PromptBase Select 订阅**：提供按月订阅服务，灵活获取海量精选提示词资源。\n' +
+    '\n' +
+    '### 应用场景\n' +
+    '- **AI 绘画与设计**：获取 Midjourney、ChatGPT Image 等视觉模型的专业 Prompt，快速生成各种风格的艺术插图、电商矢量图和 Logo 设计。\n' +
+    '- **文案与营销创作**：使用针对 ChatGPT、Claude 等大语言模型优化过的 Prompt，高效撰写营销文案、博客文章和业务策划。\n' +
+    '- **视频与多媒体制作**：探索 Veo、Kling AI 等视频模型的生成提示词，制作高品质 AI 视频内容。',
+  categories: [ 'AI Tools', 'Image Generation', 'Writing Tools' ],
+  tags: [ 'AI', 'Image', 'Writing', 'Productivity' ],
+  image: undefined,
+  icon: 'https://icons.duckduckgo.com/ip3/promptbase.com.ico'
+}
+[87/1129] OK pollinations [Image Generation, Developer Tools, AI Tools]
+fetchItem, url: https://www.publicprompts.art mergedData: {
+  link: 'https://www.publicprompts.art',
+  name: 'public prompts',
+  description: 'Public Prompts 是一个专注于 AI 绘画与文本生成的开源 Prompt 资源库及 AI 工具目录，帮助用户免费获取高质量提示词与模型。',
+  introduction: '### 简介\n' +
+    '\n' +
+    'Public Prompts 是一个免费且开源的 AI 提示词（Prompt）资源平台与 AI 工具目录。该平台旨在帮助 AI 艺术创作者、开发者和爱好者轻松搜寻、使用和优化用于 Stable Diffusion、Midjourney 等 AI 绘画及文本生成工具的高质量 Prompt。\n' +
+    '\n' +
+    '### 主要功能与特点\n' +
+    '\n' +
+    '- **丰富提示词库**：提供包含多种风格（如真实人像、3D模型、矢量插画等）的优质 AI 绘图 Prompt。\n' +
+    '- **模型与 Embedding 支持**：分享配套的 Safetensors 模型文件、Embedding 及微调权重，提升生成效果。\n' +
+    '- **AI 工具索引**：整理并分类优质 AI 工具，帮助用户按使用场景和价格快速查找。\n' +
+    '- **完全免费与开源**：所有提示词与资源均可免费公开使用，方便二次创作与集成。\n' +
+    '\n' +
+    '### 适用场景\n' +
+    '\n' +
+    '- **AI 艺术创作**：为设计师和数字艺术家提供灵感与成熟的绘图参数组合。\n' +
+    '- **模型调优与实验**：协助 AI 研究者和开发者测试不同提示词与模型权重的匹配效果。',
+  categories: [ 'Image Generation', 'AI Tools' ],
+  tags: [ 'Image', 'AI', 'Open Source' ],
+  image: undefined,
+  icon: 'https://icons.duckduckgo.com/ip3/www.publicprompts.art.ico'
+}
+fetchItem, url: https://quizgecko.com mergedData: {
+  link: 'https://quizgecko.com',
+  name: 'quizgecko',
+  description: 'Quizgecko 是一款基于 AI 的自动测验生成工具，能够根据文本、文档、网页或视频快速生成测试题与记忆卡片。',
+  introduction: '### Quizgecko 简介\n' +
+    '\n' +
+    'Quizgecko 是一款先进的人工智能测验与评估生成工具，旨在帮助教育工作者、学生和企业培训人员快速创建高质量的测试题目。用户只需导入文档、网页链接、文本段落或 YouTube 视频，AI 即可在数秒内自动提取关键知识点并生成多样化的试题。\n' +
+    '\n' +
+    '#### 核心功能\n' +
+    '- **多源数据解析**：支持上传 PDF、Word、PPT 等文档，或直接粘贴文本、输入网页及视频 URL。\n' +
+    '- **丰富题型支持**：可生成单选题、多选题、判断题、填空题、问答题及简答题等多种格式。\n' +
+    '- **智能评分与反馈**：内置自动评分机制，并针对每一道题目提供详细的答题解析。\n' +
+    '- **灵活导出与共享**：支持将测验导出为 PDF、CSV 或格式化文本，也可集成至 LMS 学习管理系统中。\n' +
+    '\n' +
+    '#### 适用场景\n' +
+    '- **学校教学**：教师可快速根据课件生成随堂测试和课后作业。\n' +
+    '- **自主学习**：学生可将复习资料转化为互动式记忆卡片（Flashcards）进行自我检测。\n' +
+    '- **企业培训**：用于员工入职培训、合规考核及技能评估。',
+  categories: [ 'Design Tools', 'Office Tools', 'AI Tools' ],
+  tags: [ 'AI', 'Productivity', 'Free Trial', 'Automation' ],
+  image: undefined,
+  icon: 'https://icons.duckduckgo.com/ip3/quizgecko.com.ico'
+}
+[88/1129] OK postly [Writing Tools, Marketing Tools, AI Tools]
+[89/1129] OK promptbase [Image Generation, Writing Tools, AI Tools]
+[90/1129] OK public prompts [Image Generation, AI Tools]
+fetchItem, url: https://www.recall.it mergedData: {
+  link: 'https://www.recall.it',
+  name: 'recall',
+  description: 'Recall 是一款个人 AI 知识库工具，可帮助用户一键保存、总结并整理文章、视频、播客及文档，并支持使用 ChatGPT、Claude 或 Gemini 等 AI 模型与积累的知识进行对话。',
+  introduction: 'Recall 是一款结合人工智能技术的个人知识库工具，旨在帮助用户高效收集、整理和检索各种形式的信息。通过 Recall，用户可以轻松保存网页文章、YouTube 视频、播客、PDF 文件及个人笔记，并利用 AI 快速提炼摘要。\\n\\n### 主要功能\\n- **全平台剪藏**：提供 Chrome、Safari、Edge、Firefox 扩展及 iOS/Android 应用，支持一键保存各种类型的内容。\\n- **AI 智能摘要**：自动为长视频、音频播客和长篇文章生成精简摘要，支持将数小时的内容缩短至几分钟了解。\\n- **自动标签与知识连接**：内置智能标签系统，能自动关联相关概念，形成有机的知识图谱。\\n- **多模型 AI 对话**：允许用户使用 ChatGPT、Claude、Gemini 等主流大模型对个人知识库进行提问和交互。\\n- **间隔重复与 AI 测验**：根据保存的内容自动生成测验，利用间隔重复算法帮助强化记忆。\\n\\n### 适用场景\\n- **知识工作者与研究人员**：快速整理分析大量文献、行业报告与技术视频。\\n- **学生与终身学习者**：建立结构化的个人学习库，通过 AI 测验巩固知识。\\n- **信息流重度用户**：高效管理日常阅读与视听资源，避免信息过载。',
+  categories: [ 'AI Tools', 'Office Tools', 'Search and Research' ],
+  tags: [ 'AI', 'Productivity', 'Chatbot', 'Audio', 'Video' ],
+  image: 'https://www.recall.it/images/recall-ai-knowledge-base-og-preview.webp',
+  icon: 'https://icons.duckduckgo.com/ip3/www.recall.it.ico'
+}
+[91/1129] OK quizgecko [Design Tools, Office Tools, AI Tools]
+fetchItem, url: https://reccloud.com mergedData: {
+  link: 'https://reccloud.com',
+  name: 'reccloud',
+  description: 'RecCloud 是一款全能型 AI 音视频处理平台，提供语音转文字、字幕生成、视频翻译、文字转语音及音视频摘要等多种高效创作工具。',
+  introduction: '### RecCloud 简介\n' +
+    '\n' +
+    'RecCloud 是一款功能强大的 AI 音视频处理与创作平台，旨在帮助用户快速、智能地完成音视频剪辑、转写、翻译和生成。无论是内容创作者、教育工作者还是企业团队，RecCloud 都能极大地提升创作与协作效率。\n' +
+    '\n' +
+    '### 核心功能\n' +
+    '\n' +
+    '- **AI 语音转文字**：快速准确地将语音转化为文本，支持自动整理与摘要提取，适用于会议记录与课堂笔记。\n' +
+    '- **AI 字幕生成与翻译**：自动生成单语或多语字幕，并支持跨语言视频翻译，帮助视频内容拓展全球受众。\n' +
+    '- **AI 文字转语音**：将文本转化为自然流畅的语音，支持多语言及多种音色，满足配音与营销视频需求。\n' +
+    '- **AI 音视频摘要**：自动提取长视频或 YouTube 视频的核心要点，快速生成总结段落，节省浏览时间。\n' +
+    '- **在线屏幕录制与剪辑**：提供便捷的屏幕录制及基础的视频裁剪、合并和去水印功能。\n' +
+    '\n' +
+    '### 应用场景\n' +
+    '\n' +
+    '- **内容创作与社交媒体**：快速制作短视频、生成精美字幕及多语言配音，提升视频播放量与互动率。\n' +
+    '- **教育与在线培训**：为教学视频添加字幕及翻译，生成课程总结，方便学生学习与复习。\n' +
+    '- **企业会议与日常办公**：高效转写会议录音，快速提炼关键信息与行动项。',
+  categories: [ 'Video Generation', 'Audio Tools', 'AI Tools' ],
+  tags: [ 'Video', 'Audio', 'AI', 'Audio', 'Free Trial', 'Productivity' ],
+  image: 'https://cfcdn.apowersoft.info/local/reccloud.cn/img/reccloud-favicon.png',
+  icon: 'https://icons.duckduckgo.com/ip3/reccloud.com.ico'
+}
+fetchItem, url: https://www.remio.ai mergedData: {
+  link: 'https://www.remio.ai',
+  name: 'remio',
+  description: 'remio 是一款本地优先的个人 AI 助手与知识库，能够自动收集文件、会议、邮件和网页等上下文，打造高效的第二大脑。',
+  introduction: '### remio 简介\n' +
+    '\n' +
+    'remio 是一款面向知识工作者打造的个人 AI 助手与知识库工具。它通过自动收集网页、会议录音、电子邮件及本地文件，将分散的工作资料转化为可搜索、可关联的个人“第二大脑”，并结合上下文提供精准的 AI 回答与内容生成。\n' +
+    '\n' +
+    '### 核心功能\n' +
+    '\n' +
+    '- **全方位信息采集与整合**：支持 30+ 种文件格式（PDF、Word、Excel、PPT、音视频等），提供 40+ 个常用工具连接器（Google Drive、Gmail、Slack、GitHub 等），自动持续同步最新工作资料。\n' +
+    '- **本地优先与数据安全**：核心数据索引、搜索、录音及转写过程均在设备本地完成，确保隐私安全与快速响应。\n' +
+    '- **多模型支持与端云协同**：可按需灵活切换 ChatGPT、Claude、Gemini、DeepSeek、Kimi 等 30+ 主流大模型，降低 Token 消耗并提升生成效率。\n' +
+    '- **AI 演示文稿与表格处理**：支持自动生成与编辑原生 PowerPoint (PPT) 格式文件，并内置 10+ 种 Markdown、表格等查看编辑工具。\n' +
+    '- **不限时会议录音与转写**：无需邀请机器人即可录制线上/线下会议，自动转写并支持跨多场会议进行追问与总结。\n' +
+    '\n' +
+    '### 适用场景\n' +
+    '\n' +
+    '- **产品经理与工程师**：整理需求文档、技术研究与项目上下文，加速 MVP 计划制定。\n' +
+    '- **研究人员与学者**：汇总学术论文、YouTube 讲座与网页资料，快速生成文献综述与知识摘要。\n' +
+    '- **职场人士与顾问**：高效管理日常邮件、会议记录与竞品分析，大幅提升工作效率。',
+  categories: [ 'AI Tools', 'Office Tools', 'Search and Research' ],
+  tags: [
+    'AI',
+    'Productivity',
+    'Free Trial',
+    'Automation',
+    'Audio',
+    'Personal'
+  ],
+  image: 'https://static.wixstatic.com/media/80334c_3568eff39415491cbf6cb5dae41ad10a~mv2.png/v1/fill/w_2500,h_1406,al_c/80334c_3568eff39415491cbf6cb5dae41ad10a~mv2.png',
+  icon: 'https://icons.duckduckgo.com/ip3/www.remio.ai.ico'
+}
+fetchItem, url: https://replit.com mergedData: {
+  link: 'https://replit.com',
+  name: 'replit',
+  description: 'Replit 是一个集成了 AI 编码助手和云端开发环境（IDE）的在线协作编程平台，支持即时代码运行与一键部署。',
+  introduction: 'Replit 是全球领先的基于云端的在线开发环境（IDE）与协同编程平台，旨在简化软件开发与部署流程。用户无需进行繁琐的本地环境配置，只需通过浏览器即可随时随地编写、运行和调试数十种编程语言的代码。\n' +
+    '\n' +
+    '### 核心功能与特性\n' +
+    '- **云端 IDE**：提供开箱即用的开发环境，支持 Python、JavaScript、Go、C++ 等多种语言。\n' +
+    '- **Replit Agent 与 AI 助手**：内置强大的 AI 编码工具，支持自然语言代码生成、智能补全、重构与 Bug 修复。\n' +
+    '- **实时多人协作**：支持多人在线协同编辑与结对编程，方便团队协作与教学演示。\n' +
+    '- **一键部署与托管**：无需复杂的服务器配置，快速将应用程序、API 或 Bot 部署至云端。\n' +
+    '\n' +
+    '### 适用场景\n' +
+    '适用于开发者快速构建原型与 MVP、教育工作者教学、编程初学者学习以及团队跨平台协作开发。',
+  categories: [ 'Developer Tools', 'AI Tools' ],
+  tags: [ 'Coding', 'AI', 'Productivity', 'Free Trial' ],
+  image: undefined,
+  icon: 'https://icons.duckduckgo.com/ip3/replit.com.ico'
+}
+[92/1129] OK recall [Office Tools, AI Tools, Search and Research]
+[93/1129] OK reccloud [Video Generation, AI Tools, Audio Tools]
+[94/1129] OK remio [Office Tools, AI Tools, Search and Research]
+fetchItem, url: https://riffusion.org mergedData: {
+  link: 'https://riffusion.org',
+  name: 'riffusion',
+  description: 'Riffusion 是一款基于 AI 的文本生成音乐工具，能够将文本提示词即时转化为歌曲、人声、乐器演奏、音乐循环及原声配乐。',
+  introduction: 'Riffusion 是一款创新的 AI 音乐生成工具，利用扩散模型技术将文本提示词（Text Prompts）实时转换为高品质的音乐、人声、乐器伴奏和音效。\n' +
+    '\n' +
+    '### 主要功能与特点\n' +
+    '- **文本生成音乐**：只需输入简单的文字描述，即可迅速生成符合指定风格、情绪和节奏的音频片段。\n' +
+    '- **多样化音频类型**：支持生成完整歌曲、人声段落、乐器独奏、背景音轨以及无缝音乐 Loop。\n' +
+    '- **实时渲染与交互**：基于频谱图扩散算法，提供快速的音乐生成体验与风格过渡。\n' +
+    '- **便捷的在线创作**：用户无需安装复杂软件，直接通过浏览器即可快速创作和下载音频。\n' +
+    '\n' +
+    '### 应用场景\n' +
+    '- **音乐人与创作者灵感生成**：帮助音乐制作人快速探索新的旋律、曲风融合与编曲创意。\n' +
+    '- **多媒体背景音乐**：为视频创作者、播客主播及游戏开发者提供原创、无版权争议的背景音轨。\n' +
+    '- **声音设计与实验**：适用于音频爱好者和技术研究者探索 AI 在音频合成领域的无限可能。',
+  categories: [ 'Audio Tools', 'AI Tools' ],
+  tags: [ 'Audio', 'AI', 'Audio', 'AI', 'Free Trial' ],
+  image: 'https://riffusion.org/og.png',
+  icon: 'https://icons.duckduckgo.com/ip3/riffusion.org.ico'
+}
+[95/1129] OK replit [Developer Tools, AI Tools]
+fetchItem, url: https://rose.ai mergedData: {
+  link: 'https://rose.ai',
+  name: 'rose ai',
+  description: 'Rose AI 是一款基于人工智能的数据分析与科研平台，旨在帮助用户快速查找、清洗、可视化和共享数据。',
+  introduction: '### Rose AI 简介\n' +
+    '\n' +
+    'Rose AI 是一款专注于数据查找、分析和可视化的智能数据平台。它结合了自然语言处理技术与庞大的数据集成网络，使用户能够通过简单的提示词轻松检索、转换并生成交互式图表，极大提升了金融、经济及商业分析的效率。\n' +
+    '\n' +
+    '#### 主要功能\n' +
+    '- **自然语言数据查询**：支持使用简单的文字描述搜索大量公共及私有数据集。\n' +
+    '- **自动化数据清洗与转换**：智能处理格式不一致或缺失的数据，快速转换为可用格式。\n' +
+    '- **一键可视化**：自动将复杂的数据集转换为直观的图表与仪表板。\n' +
+    '- **数据共享与无缝集成**：支持与其他分析工具集成，方便团队协作与数据分发。\n' +
+    '\n' +
+    '#### 适用场景\n' +
+    '- **金融与经济研究**：分析师可快速获取市场指标和宏观经济数据并制作报告。\n' +
+    '- **商业智能分析**：帮助决策者自动化数据提取与可视化流程。',
+  categories: [ 'Data Tools', 'AI Tools', 'Search and Research' ],
+  tags: [ 'AI', 'Productivity', 'Tech', 'No Code', 'Automation' ],
+  image: undefined,
+  icon: 'https://icons.duckduckgo.com/ip3/rose.ai.ico'
+}
+fetchItem, url: https://rytr.me mergedData: {
+  link: 'https://rytr.me',
+  name: 'rytr',
+  description: 'Rytr 是一款功能强大的 AI 写作助手与内容生成工具，帮助用户快速创作高质量、个性化且防抄袭的原生文本内容。',
+  introduction: 'Rytr 是一款高效且易用的 AI 内容生成与写作辅助工具，专为营销人员、文案撰写人、博主及企业主设计。通过利用先进的自然语言处理技术，Rytr 能够模仿用户的写作语气，快速生成符合各种场景的高质量文本内容。\n' +
+    '\n' +
+    '### 核心功能与亮点\n' +
+    '\n' +
+    '- **丰富的应用场景与模板**：内置 40 多种写作场景与模板，包括电子邮件、博客段落、社交媒体文案、SEO 元标题、广告 CTA 等。\n' +
+    '- **个性化语气匹配 (My Voice)**：能够分析用户的写作样本并模仿其特定语气，支持创建多种自定义语气以适配不同项目与客户需求。\n' +
+    '- **内置抄袭检测**：集成了查重工具，确保生成的每一段文本均为原创内容。\n' +
+    '- **跨平台与扩展支持**：提供 Chrome 浏览器扩展程序及 API 接口，方便在任何网页或应用中随时调用。\n' +
+    '- **多语言与丰富音调支持**：支持 40 多种语言写作以及 20 多种不同情感语气。\n' +
+    '\n' +
+    '### 适用场景\n' +
+    '\n' +
+    '- **数字营销与广告**：快速撰写富有吸引力的广告文案、社交媒体帖子及营销邮件。\n' +
+    '- **SEO 与博客创作**：自动生成高质量的段落内容、SEO 标题与元描述，提升搜索引擎排名。\n' +
+    '- **日常办公与沟通**：高效撰写与回复各类商务邮件和用户评论，大幅提升写作与沟通效率。',
+  categories: [ 'Writing Tools', 'Marketing Tools', 'AI Tools' ],
+  tags: [ 'Writing', 'AI', 'Marketing', 'SEO', 'Free Trial', 'Productivity' ],
+  image: undefined,
+  icon: 'https://icons.duckduckgo.com/ip3/rytr.me.ico'
+}
+fetchItem, url: https://rosebud.ai mergedData: {
+  link: 'https://rosebud.ai',
+  name: 'rosebud',
+  description: 'Rosebud 是一款基于人工智能的游戏与网页开发平台，用户只需通过自然语言提示词即可快速生成、编辑和部署可玩的 2D/3D 游戏及 Web 应用。',
+  introduction: '## 简介\n' +
+    'Rosebud 是一款强大的 AI 游戏制作与开发平台，旨在通过自然语言交互大幅降低游戏制作和 Web 开发的门槛。用户只需输入简单的文本提示词或选择预设模板，Rosebud 即可自动生成完整的游戏逻辑、代码、3D 模型以及 AI NPC。\n' +
+    '\n' +
+    '## 主要功能\n' +
+    '- **提示词生成游戏 (AI Game Creator)**：支持通过自然语言描述游戏创意，自动生成可运行的 2D/3D 游戏。\n' +
+    '- **模板与资源库 (PixelVibe)**：提供丰富的游戏模板，并内置 AI 游戏资产生成器，支持精灵图与 3D 资源生成。\n' +
+    '- **AI NPC 与交互故事**：支持集成智能化 NPC 与交互式剧情，提升游戏趣味性。\n' +
+    '- **Web 与代码开发**：内置 AI 代码生成器、Three.js 编辑器以及 AI 网站构建工具。\n' +
+    '\n' +
+    '## 应用场景\n' +
+    '- **游戏概念原型设计**：独立开发者可快速验证游戏玩法与机制。\n' +
+    '- **零代码游戏创作**：非技术人员与爱好者轻松实现游戏制作梦。\n' +
+    '- **互动教育与娱乐**：用于教学演示、故事创作和沉浸式互动体验。',
+  categories: [ 'AI Tools', 'Developer Tools', 'Entertainment' ],
+  tags: [ 'AI', 'Coding', 'No Code', 'Tech', 'Productivity' ],
+  image: 'https://rosebud.ai/_next/static/media/rosebud-og-img.1yqlqo5pvhv8-.jpg',
+  icon: 'https://icons.duckduckgo.com/ip3/rosebud.ai.ico'
+}
+[97/1129] OK rose ai [Data Tools, AI Tools, Search and Research]
+[96/1129] OK riffusion [AI Tools, Audio Tools]
+[99/1129] OK rytr [Writing Tools, Marketing Tools, AI Tools]
+[98/1129] OK rosebud [Entertainment, Developer Tools, AI Tools]
+fetchItem, url: https://www.scalenut.com mergedData: {
+  link: 'https://www.scalenut.com',
+  name: 'scalenut',
+  description: 'Scalenut 是一款集成了 AI 内容创作与 SEO 优化的全流程营销平台，帮助企业与创作者高效规划、撰写并优化搜索引擎及 AI 检索（GEO）内容。',
+  introduction: '## Scalenut 简介\n' +
+    '\n' +
+    'Scalenut 是一款结合人工智能与专家策略的全流程 AI-SEO 和生成式引擎优化（GEO）平台。它整合了从关键词研究、主题规划、AI 文章撰写到内容优化及 AI 可见性追踪的全套工具，旨在帮助品牌不仅在 Google 等传统搜索引擎中提升排名，还能在 ChatGPT、Perplexity、Gemini 等 AI 检索中获得更高的引用率与曝光率。\n' +
+    '\n' +
+    '### 核心功能\n' +
+    '\n' +
+    '- ** Cruise Mode 智能长文写作**：基于 SERP 实时数据与竞争对手分析，几分钟内即可自动生成结构清晰、符合 SEO 与 AI 检索规范的高质量长文。\n' +
+    '- **AI 可见性监控（AI Visibility Tracker）**：追踪品牌在主流大语言模型（ChatGPT、Perplexity、Claude、Gemini 等）答案中的提及频次与覆盖率。\n' +
+    '- **GEO 内容优化与评分**：提供实时内容优化建议与 GEO 评分，精确补全内容缺口，增强权威度。\n' +
+    '- **反向链接与社媒追踪**：内置高质量反向链接市场，并集成 Reddit 等社区互动监测，无缝提升站点权威。\n' +
+    '- **AI Agent 与专家协作模式**：支持 AI 智能体自动化与资深策略专家审核相结合，兼顾大规模产出速度与品牌内容质量。\n' +
+    '\n' +
+    '### 适用场景\n' +
+    '\n' +
+    '- **内容营销团队与 SEO 专家**：快速制定内容增长策略，实现高效率批量化博客与文章创作。\n' +
+    '- **电商与 D2C 品牌**：全面提升产品及品牌在传统搜索和 AI 检索中的曝光，驱动流量与转化增长。\n' +
+    '- **企业与营销代理机构**：突破人力产能瓶颈，实现高质量内容规模化化输出与反向链接建设。',
+  categories: [ 'AI Tools', 'Marketing Tools', 'Writing Tools' ],
+  tags: [ 'AI', 'SEO', 'Marketing', 'Writing', 'Automation', 'Productivity' ],
+  image: 'https://cdn.prod.website-files.com/60ef088dd8fef919efabb412/611530ccf9a74fe807efc63e_open-graph.png',
+  icon: 'https://icons.duckduckgo.com/ip3/www.scalenut.com.ico'
+}
+fetchItem, url: https://scribblediffusion.net mergedData: {
+  link: 'https://scribblediffusion.net',
+  name: 'scribble diffusion',
+  description: 'Scribble Diffusion 是一款基于 AI 的草图转图像工具，可将简单的手绘涂鸦和文本提示快速转化为精美的 AI 生成图片。',
+  introduction: '### 什么是 Scribble Diffusion？\n' +
+    'Scribble Diffusion 是一款基于开源 AI 技术的图片生成工具，通过结合 ControlNet 与 Stable Diffusion 模型，使用户能够将随手绘制的草图与文字描述合成为高品质的艺术图像。\n' +
+    '\n' +
+    '### 主要特性与功能\n' +
+    '- **草图转图像（Sketch-to-Image）**：用户可以直接在在线画布上绘制简单线条或上传草图，系统将自动识别构图并进行智能化修饰。\n' +
+    '- **文本提示词引导**：支持输入 Prompt 描述，精准控制生成图像的风格、材质、场景与细节描述。\n' +
+    '- **极速生成**：只需数十秒即可将简易线条转化为逼真的高分辨率图片。\n' +
+    '- **低门槛易上手**：无需深厚的绘画功底或复杂的参数配置，无论是专业创作者还是普通用户均能轻松上手。\n' +
+    '\n' +
+    '### 适用场景\n' +
+    '- **创意设计与概念图构建**：设计师可快速验证视觉灵感，将手绘构思即时转化为概念效果图。\n' +
+    '- **亲子与娱乐创作**：将儿童的简笔画或日常涂鸦转变为趣味画作。\n' +
+    '- **社交媒体与插图素材**：为文章、海报及社交平台快速制作独一无二的定制插图。',
+  categories: [ 'Image Generation', 'AI Tools', 'Design Tools' ],
+  tags: [ 'Image', 'AI', 'Open Source' ],
+  image: 'URL OF IMAGE',
+  icon: 'https://icons.duckduckgo.com/ip3/scribblediffusion.net.ico'
+}
+fetchItem, url: https://seovendor.co/seo-gpt mergedData: {
+  link: 'https://seovendor.co/seo-gpt',
+  name: 'seo gpt',
+  description: 'SEO GPT 是一款免费的 AI 内容生成工具，拥有 300 多种优化撰写方式，结合 20 年 SEO 数据，助力精准生成高排名文案。',
+  introduction: 'SEO GPT 是由 SEO Vendor 推出的免费 AI 内容创作与优化工具，目前已有超过 50,000 名 SEO 专业人员使用。它结合了 20 年的 SEO 与营销经验数据，能够深入分析实际页面上下文与目标关键词，生成符合搜索意图且自然流畅的文本内容。\n' +
+    '\n' +
+    '### 主要功能\n' +
+    '\n' +
+    '- **300+ 内容生成类型**：支持生成和优化网页标题（Title）、元描述（Meta Description）、页面短文案以及多种特定营销内容。\n' +
+    '- **上下文感知生成**：区别于一般的通用 AI 写作工具，SEO GPT 能够结合实际页面内容（如服务细节、地理位置、品牌名称等）生成极具针对性的文本，避免千篇一律的机械化内容。\n' +
+    '- **Auto SEO GPT 智能化应用**：\n' +
+    '  - **Strategist（策略师）**：借助 CORE AI 分析竞争对手与页面差距，快速给出具体的优化建议与改进方向。\n' +
+    '  - **Mapping（优化映射）**：系统化、自动化地制定站内 SEO 优化方案，降低人工排查成本。\n' +
+    '- **基于实时网页数据**：整合实时网络数据与页面层级上下文，让文案输出更真实、更具实用价值。\n' +
+    '\n' +
+    '### 应用场景\n' +
+    '\n' +
+    '- **搜索引擎排名提升**：通过精准匹配目标关键词与页内 SEO 规范，快速批量输出高质内容，获取更多优质有机流量。\n' +
+    '- **网站转化率优化**：撰写清晰且具说服力的产品与服务页面文案，明确传递核心价值，促进访客向客户转化。\n' +
+    '- **营销团队与代理机构规模化输出**：帮助营销人员和 SEO 团队大幅缩短文案撰写周期，实现高质量内容的快速产出。',
+  categories: [ 'AI Chat', 'Writing Tools', 'Marketing Tools' ],
+  tags: [ 'SEO', 'Marketing', 'Writing', 'AI', 'Productivity' ],
+  image: 'https://seovendor.co/wp-content/uploads/2023/03/SEOGPT-100-optimization-types-sm.gif',
+  icon: 'https://icons.duckduckgo.com/ip3/seovendor.co.ico'
+}
+fetchItem, url: https://shadow.tech/us mergedData: {
+  link: 'https://shadow.tech/us',
+  name: 'shadow',
+  description: 'Shadow 是一款高性能云端 Windows PC 服务，允许用户在任何设备上流畅运行游戏、专业设计软件与工作负载。',
+  introduction: '## 什么是 Shadow？\n' +
+    '\n' +
+    'Shadow（shadow.tech）是一款强大的云端 PC（Cloud PC）服务，将高性能的 Windows 桌面环境直接传输到用户的任意设备上（如 Mac、iPad、低配电脑等）。无论是游戏玩家、内容创作者还是企业用户，都可以通过 Shadow 获得媲美高端物理电脑的计算与图形性能。\n' +
+    '\n' +
+    '### 主要功能与特点\n' +
+    '\n' +
+    '- **全功能 Windows 系统**：提供完整的 Windows 云端电脑体验，支持自主安装并运行任何兼容的软件和游戏。\n' +
+    '- **无缝跨平台访问**：支持在 Mac、Windows、iOS、Android 及 Web 浏览器中随时随地连接使用。\n' +
+    '- **专业算力与 GPU 支持**：针对游戏与高性能需求，提供专用 GPU 实例与云端工作站（Cloud Workstations）。\n' +
+    '- **企业级 Fleet 管理**：帮助团队与机构快速部署和管理虚拟桌面基础设施（VDI），简化 IT 运维管理。\n' +
+    '\n' +
+    '### 常见应用场景\n' +
+    '\n' +
+    '- **云端游戏**：在低配设备或 Mac 上畅玩大型 PC 游戏。\n' +
+    '- **创意设计与渲染**：远程使用 Blender、Adobe 渲染套件与 Unreal Engine 进行高效创作。\n' +
+    '- **远程办公与开发**：在安全受控的云端环境中进行代码开发、数据处理与系统部署。',
+  categories: [ 'Developer Tools', 'Entertainment' ],
+  tags: [ 'Tech', 'Productivity' ],
+  image: undefined,
+  icon: 'https://icons.duckduckgo.com/ip3/shadow.tech.ico'
+}
+[101/1129] OK scribble diffusion [Image Generation, Design Tools, AI Tools]
+[100/1129] OK scalenut [Writing Tools, Marketing Tools, AI Tools]
+[103/1129] OK shadow [Entertainment, Developer Tools]
+fetchItem, url: https://www.shortwave.com mergedData: {
+  link: 'https://www.shortwave.com',
+  name: 'shortwave',
+  description: 'Shortwave 是一款基于 AI 的智能邮件客户端与自动化助手，帮助用户高效整理、撰写、搜索及调度邮件。',
+  introduction: 'Shortwave 是一款基于人工智能的下一代智能邮件客户端，旨在重塑电子邮箱的使用体验。通过 Agentic AI 助手，Shortwave 能够帮助个人与团队从繁重的日常邮件处理中解脱出来，大幅提升沟通与协作效率。\n' +
+    '\n' +
+    '### 核心功能\n' +
+    '\n' +
+    '1. **AI 智能撰写与总结**：学习用户的表达风格自动生成邮件回复，并为长邮件提供一键摘要（tl;dr）。\n' +
+    '2. **收件箱自动化整理**：支持使用自然语言编写 AI 过滤规则，自动进行标记、星标或归档；结合 Bundles 功能实现邮件批量处理。\n' +
+    '3. **语义搜索与智能问答**：基于全量邮件及附件内容进行深度搜索，以问答形式快速提取关键数据与信息。\n' +
+    '4. **团队实时协作**：支持共享邮件会话、在邮件内部进行私密评论、指派任务并建立团队共享的 AI 知识库。\n' +
+    '5. **日程与工作流对接**：可直接通过 AI 检查空闲时间、安排日历事项，并可通过集成自动化平台连接 3,000+ 款应用。\n' +
+    '\n' +
+    '### 适用场景\n' +
+    '\n' +
+    '- **追求高效的专业人士**：减少每日邮件处理耗时，快速达成“收件箱清零”（Inbox Zero）。\n' +
+    '- **团队沟通与协作**：在收件箱内直接讨论邮件细节与分配下一步任务，避免跨平台截图与信息割裂。\n' +
+    '- **商务跟进与销售**：实时追踪邮件阅读状态，并自动设置跟进提醒以提升沟通转化率。',
+  categories: [ 'Office Tools', 'AI Tools' ],
+  tags: [ 'AI', 'Productivity', 'Automation', 'Writing' ],
+  image: 'https://www.shortwave.com/og-image.png',
+  icon: 'https://icons.duckduckgo.com/ip3/www.shortwave.com.ico'
+}
+[102/1129] OK seo gpt [AI Chat, Writing Tools, Marketing Tools]
+fetchItem, url: https://simplephones.ai mergedData: {
+  link: 'https://simplephones.ai',
+  name: 'simple phones',
+  description: 'Simple Phones 是一款智能 AI 语音接听与呼叫代理服务，帮企业自动接听未接来电、解答客户咨询并完成日程预约。',
+  introduction: '### 简介\n' +
+    'Simple Phones 是一款专为企业打造的 AI 语音电话代理服务。它可以自动接听漏接电话或提供全新的专有号码，利用人工智能技术全天候响应客户需求，确保企业不再错过任何潜在客户。\n' +
+    '\n' +
+    '### 主要功能\n' +
+    '- **智能接听与外呼**：支持自动接听来电解答客户疑问，并可用于自动跟进线索、进行客户回访等外呼任务。\n' +
+    '- **自定义知识库**：支持导入公司官网或 FAQ 文档，让 AI 代理能够精准回答专业业务问题、预订会议或处理服务请求。\n' +
+    '- **呼叫路由与转接**：可根据设定的规则将特定电话转接至人工客服，或通过短信、电子邮件和 Webhook 实时通知团队成员。\n' +
+    '- **多语言与音色定制**：支持中文、英语、法文、德文等多国语言及口音，可按企业品牌风格调整话术与音色。\n' +
+    '- **透明日志与系统集成**：提供透明的通话记录与转写文本，并支持对接主流 CRM、Zapier 及自定义后台。\n' +
+    '\n' +
+    '### 应用场景\n' +
+    '适用于需要全天候电话客服、自动预约挂号/会议、线索筛查与回访的小型企业、诊所、房产中介及各类服务型机构。',
+  categories: [ 'AI Tools', 'Audio Tools', 'Office Tools' ],
+  tags: [
+    'AI',
+    'Audio',
+    'Automation',
+    'Chatbot',
+    'Free Trial',
+    'Productivity'
+  ],
+  image: 'https://app.simplephones.ai/og_simplephones.png',
+  icon: 'https://icons.duckduckgo.com/ip3/simplephones.ai.ico'
+}
+fetchItem, url: https://simplified.com mergedData: {
+  link: 'https://simplified.com',
+  name: 'simplified',
+  description: 'Simplified 是一款集 AI 营销智能体、文案写作、图像与视频生成、平面设计及社交媒体管理于一体的一站式 AI 营销协作平台。',
+  introduction: '### Simplified 简介\n' +
+    '\n' +
+    'Simplified 是一款专为营销团队、创业者和内容创作者打造的全能型 AI 营销与内容创作平台。它将 AI 写作、图像生成、视频剪辑、设计工具与社交媒体排期发布完美结合，并通过 AI 智能体自动化重复性的营销工作流。\n' +
+    '\n' +
+    '### 核心功能与亮点\n' +
+    '\n' +
+    '- **AI 营销智能体 (Riley)**：能够根据简报自动进行营销策划、素材创作、审批流跟进与多平台发布，实现全流程营销自动化。\n' +
+    '- **全栈 AI 创作工具箱**：内置 AI 写作助手、AI 图片生成与修图工具、AI 视频生成与短视频剪辑器、AI 演示文稿及广告生成器。\n' +
+    '- **社交媒体一站式管理**：支持在统一视图内规划内容日历、排期自动发布、追踪多平台数据分析并统一回复评论与私信。\n' +
+    '- **品牌记忆 (Brand Memory)**：深度结合品牌的视觉规范、字体、语气偏好和产品知识，确保生成的每一份素材均保持品牌一致性。\n' +
+    '- **开发者与生态扩展**：支持 MCP (Model Context Protocol) 服务端、CLI 命令行工具和 API，允许连接 Claude、Codex 等外部 AI 智能体直接调用 Simplified 的执行层。\n' +
+    '\n' +
+    '### 适用场景\n' +
+    '\n' +
+    '- **初创团队与中小企业**：无需组建庞大团队，即可高效运转高频度的数字营销与内容运营。\n' +
+    '- **营销机构与代理商**：为不同客户建立独立工作空间与审批管道，提升交付效率与客户协同体验。\n' +
+    '- **自媒体与视频创作者**：快速将长视频裁切为短视频、批量生成图文及文案，实现多平台高效分发。',
+  categories: [ 'Marketing Tools', 'Writing Tools', 'Design Tools' ],
+  tags: [
+    'AI',
+    'Marketing',
+    'Automation',
+    'Video',
+    'Image',
+    'Writing',
+    'Productivity',
+    'Free Trial'
+  ],
+  image: 'https://lp-assets.simplified.com/og/en/home.png',
+  icon: 'https://icons.duckduckgo.com/ip3/simplified.com.ico'
+}
+fetchItem, url: https://sibyls.ai mergedData: {
+  link: 'https://sibyls.ai',
+  name: 'sibyl ai',
+  description: 'Sibyl AI 是一款专注于 AI 对话与动漫角色互动的智能聊天助手，提供沉浸式的角色扮演与个性化陪伴体验。',
+  introduction: '### 简介\n' +
+    '\n' +
+    'Sibyl AI 是一款基于人工智能技术的聊天与虚拟伴侣应用。用户可以通过该平台与多种动漫风格的 AI 角色进行实时对话，享受个性化互动与沉浸式体验。\n' +
+    '\n' +
+    '### 主要功能\n' +
+    '\n' +
+    '- **动漫角色聊天**：提供丰富的动漫及自定义 AI 角色，支持个性化对话与情境模拟。\n' +
+    '- **情感陪伴**：具备流畅的语言理解与情绪表达能力，为用户提供贴心的日常闲聊与情感陪伴。\n' +
+    '- **角色扮演 (RP)**：支持自由设定对话场景与剧情，带来高度自由的互动玩法。\n' +
+    '\n' +
+    '### 适用人群\n' +
+    '\n' +
+    '适用于动漫爱好者、寻找虚拟 AI 伴侣陪伴的用户以及喜欢角色扮演互动的玩家。',
+  categories: [ 'AI Chat', 'AI Tools', 'Entertainment' ],
+  tags: [ 'AI', 'Chatbot', 'Personal' ],
+  image: undefined,
+  icon: 'https://icons.duckduckgo.com/ip3/sibyls.ai.ico'
+}
+[104/1129] OK shortwave [Office Tools, AI Tools]
