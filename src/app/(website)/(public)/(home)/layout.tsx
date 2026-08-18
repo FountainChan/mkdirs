@@ -8,12 +8,12 @@ export default function HomeLayout({
   children,
 }: { children: React.ReactNode }) {
   return (
-    <Container className="mt-12 mb-16 flex flex-col gap-12">
+    <Container className="mt-12 mb-16 flex flex-col gap-12 max-w-[1400px]">
       <HomeHero />
 
-      <div className="flex flex-col md:flex-row gap-8">
+      <div className="flex flex-col md:flex-row gap-6">
         {/* left sidebar: category list */}
-        <div className="hidden md:block w-[250px] flex-shrink-0">
+        <div className="hidden md:block w-[200px] flex-shrink-0">
           <div className="sticky top-24">
             <HomeCategoryList urlPrefix="/" />
           </div>
