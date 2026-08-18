@@ -22,6 +22,32 @@ Mkdirs 者，以 Next.js 十四（App Router）所造目录网站之模板也。
 
 库中**无测试之框架，亦无测试之文件**。欲验所改，唯 `pnpm lint` 与 `pnpm build` 二途。
 
+### 批量导入新站点
+
+批量脚本（`scripts/batch-item.ts`）经本地 OpenAI 兼容网关调用 AI（`AI_BASE_URL` 等 env，默认 `http://localhost:20128/v1`），**无需代理**。流程：
+
+1. 改 `scripts/batch-item.ts` 之 `links` 数组，列入欲导入之 URL
+2. 单条试采：`npx tsx scripts/batch-item.ts fetch <url>`（观 AI 抓取与分类匹配之效）
+3. 正式入库：`npx tsx scripts/batch-item.ts import`（脚本径置 `pricePlan=free`、`freePlanStatus=approved`、`publishDate=now`，不经审核即发布）
+4. 移除所有条目：`npx tsx scripts/batch-item.ts remove`
+
+注：脚本依赖 `.env` 中 `NEXT_PUBLIC_SANITY_PROJECT_ID`、`NEXT_PUBLIC_SANITY_DATASET`、`SANITY_API_TOKEN`、`AI_BASE_URL`、`AI_API_KEY`、`AI_MODEL` 诸项齐备。AI 返回之分类/标签须站内已有方可匹配（空站会过滤为空），宜先在 `/studio` 或经 `scripts/batch-category.ts`、`scripts/batch-tag.ts` 建基础分类标签。
+
+### Cloudflare 反代 Vercel（国内直连）
+
+`*.vercel.app` 域被 DNS 污染、国内直连不通。以自有域名 + Cloudflare 橙云代理可绕开：用户 → Cloudflare 边缘（港/新/日）→ Vercel 源站，全程不接触 vercel.app 域名/IP。
+
+**两要件缺一不可**：
+1. DNS CNAME 记录开**橙云代理**（`proxied: true`，灰云则仍是直连 Vercel 被墙）
+2. Cloudflare **SSL/TLS 必须 Full / Full (strict)**（Flexible 时 CF→源走 HTTP，Vercel 强制 308 跳 HTTPS，成重定向死循环）
+
+**正确时序（先灰云后橙云，防 525）**：
+1. 先加**灰云** CNAME，让 Vercel 完成域名验证并签发证书
+2. 等 `vercel domains inspect` 配置正确、直连 https 返回 200（证书就绪）
+3. **再开橙云**——若此时 525（SSL 握手失败），查源站证书是否就绪，而非 SSL 模式；若改过模式为 Flexible 则调回 Full
+
+CF API 操作：Token 存 `.env` 之 `CF_API_TOKEN`；列表 `GET zones/{zoneId}/dns_records`，改代理 `PATCH .../dns_records/{id}` body `{"proxied":true|false}`。SSL 设置 `GET .../settings/ssl` 需更高权限 Token（仅 DNS 权限的 Token 会被拒），需人工在面板确认。
+
 ## 架构
 
 ### 路由之构（Next.js App Router）
