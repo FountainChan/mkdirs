@@ -30,7 +30,7 @@ export const siteConfig: SiteConfig = {
   image: `${SITE_URL}/og.png?v=1`,
   mail: "support@mkdirs.com",
   utm: {
-    source: "mkdirs.com",
+    source: SITE_URL,
     medium: "referral",
     campaign: "navigation",
   },
