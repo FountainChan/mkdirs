@@ -1,0 +1,187 @@
+importItems start
+total: 1145, existing: 242, pending: 903
+[1/903] FAIL(no-data) https://character.ai
+[2/903] FAIL(no-data) https://civitai.com
+[3/903] FAIL(no-data) https://claude.com
+[4/903] FAIL(no-data) https://www.craiyon.com
+[6/903] FAIL(no-data) https://www.heygen.com
+fetchItem, url: https://www.glean.com mergedData: {
+  link: 'https://www.glean.com',
+  name: 'glean',
+  description: 'Enterprise Work AI platform that connects knowledge, systems, and context to automate work with agents, assistants, and search.',
+  introduction: '## Glean — Enterprise Work AI Platform\n' +
+    '\n' +
+    "Glean is an enterprise AI platform designed to connect an organization's knowledge, systems, and context so that AI can effectively automate work and enhance productivity. It serves as a comprehensive 'Work AI' solution, integrating with a company's existing data and tools to enable intelligent search, content creation, and automated task execution.\n" +
+    '\n' +
+    '### Key Features\n' +
+    '\n' +
+    '*   **AI Assistant:** A personal AI assistant that helps with proactive intelligence, data analysis & research, content creation, and work execution.\n' +
+    '*   **AI Agents:** A platform to build, manage, and orchestrate AI agents that can automate workflows across various enterprise systems.\n' +
+    '*   **Enterprise Search:** Advanced hybrid search capabilities that are grounded in company context and respect user permissions.\n' +
+    '*   **Enterprise Context:** Features like Personal Graph, Enterprise Graph, and System of Context that provide deep, permission-aware understanding of how individuals and the organization work.\n' +
+    '*   **Integrations:** Offers over 250 connectors to popular enterprise tools like Slack, Google Drive, Jira, Confluence, SharePoint, GitHub, and Salesforce.\n' +
+    '*   **Model Hub & AI Gateway:** Provides access to multiple LLMs and tools for efficient, accurate AI interactions while managing token usage and costs.\n' +
+    '*   **Security & Governance:** Built with enterprise-grade security, full observability, and data governance features like ISO 27001, SOC 2 Type II, and GDPR compliance.\n' +
+    '\n' +
+    '### Use Cases\n' +
+    '\n' +
+    '*   **Engineering Teams:** Accelerate incident response, code documentation, and technical research with AI-powered insights.\n' +
+    '*   **Sales & Customer Service:** Quickly access customer data, generate personalized responses, and streamline support workflows.\n' +
+    '*   **HR & People Operations:** Automate onboarding, answer employee policy questions, and manage internal communications.\n' +
+    '*   **Marketing & Content Teams:** Generate brand-aligned content, research market trends, and repurpose existing assets.\n' +
+    '*   **IT & Support:** Build and deploy custom AI agents to handle routine requests and improve internal support efficiency.\n' +
+    '\n' +
+    '### Target Users\n' +
+    '\n' +
+    'Glean is built for large enterprises and organizations that need to harness the power of AI across their entire workforce while maintaining strict security and data governance. It is particularly valuable for teams seeking to reduce token waste, lower the cost of scaling AI, and achieve rapid ROI from their AI investments.',
+  categories: [ 'AI Tools', 'Office Tools', 'Productivity' ],
+  tags: [ 'AI', 'Automation', 'Productivity', 'Enterprise' ],
+  image: 'https://cdn.prod.website-files.com/6127a84dfe068e153ef20572/6a32d8d3a0ba8d6de9564470_Homepage.png',
+  icon: 'https://icons.duckduckgo.com/ip3/www.glean.com.ico'
+}
+[7/903] FAIL(no-data) https://insight7.io
+[5/903] OK glean [Office Tools, AI Tools]
+[8/903] FAIL(no-data) https://invideo.io
+fetchItem, url: https://lebesgue.io mergedData: {
+  link: 'https://lebesgue.io',
+  name: 'lebesgue',
+  description: 'AI-powered CMO platform for eCommerce, providing actionable insights, attribution, LTV analysis, and competitor tracking to boost ROI.',
+  introduction: '# Lebesgue: AI CMO\n' +
+    '\n' +
+    'Lebesgue is an all-in-one AI Chief Marketing Officer (CMO) platform designed specifically for eCommerce brands. It centralizes data from multiple sources to provide a single source of truth for marketing analytics, customer insights, and growth strategies.\n' +
+    '\n' +
+    '## Key Features\n' +
+    '\n' +
+    '*   **First-Party Attribution (Le Pixel):** Implements a proprietary pixel to track the true impact of advertising channels (Meta, Google, TikTok, etc.) using first-party data, moving beyond platform-reported metrics.\n' +
+    '*   **Customer Lifetime Value (LTV) Analysis:** Predicts and measures customer value to guide acquisition and retention strategies.\n' +
+    '*   **Marketing Mix Modeling (MMM):** Uses statistical models to determine the contribution of each marketing channel and optimize budget allocation.\n' +
+    '*   **Competitor Intelligence:** Monitors competitor ads, creative trends, and spend patterns across major platforms.\n' +
+    '*   **AI Agents & Henri AI:** Features a suite of AI agents (Balancer, Guardian, Spotlight, etc.) and an AI assistant (Henri) that analyzes store, competitor, and market data to deliver insights and action plans in natural language.\n' +
+    '*   **Product Intelligence & Inventory Management:** Identifies high-potential products and monitors stock levels to prevent stockouts.\n' +
+    '*   **Benchmarking:** Compares performance against a database of over 20,000 eCommerce brands.\n' +
+    '\n' +
+    '## Use Cases\n' +
+    '\n' +
+    '*   **eCommerce Growth:** For Shopify and WooCommerce store owners looking to scale profitably.\n' +
+    '*   **Marketing Budget Optimization:** For marketers needing to allocate spend across channels based on accurate attribution and LTV data.\n' +
+    '*   **Competitor Analysis:** For brands wanting to monitor and react to competitor strategies in real-time.\n' +
+    '*   **Data-Driven Decision Making:** For teams seeking to replace guesswork with AI-generated insights and forecasts.',
+  categories: [ 'AI Tools', 'Marketing Tools', 'Data Tools' ],
+  tags: [ 'AI', 'Marketing', 'Automation', 'Productivity', 'No Code', 'SEO' ],
+  image: 'https://lebesgue.io/wp-content/uploads/2024/05/img-web-1.png',
+  icon: 'https://icons.duckduckgo.com/ip3/lebesgue.io.ico'
+}
+[10/903] FAIL(no-data) https://www.meshy.ai
+[9/903] OK lebesgue [Data Tools, Marketing Tools, AI Tools]
+[11/903] FAIL(no-data) https://www.perplexity.ai
+[12/903] FAIL(no-data) https://pixlr.com
+[13/903] FAIL(no-data) https://playgroundai.com
+fetchItem, url: https://www.spellbook.com mergedData: {
+  link: 'https://www.spellbook.com',
+  name: 'spellbook',
+  description: 'AI contract review and drafting platform for legal teams, working directly in Microsoft Word.',
+  introduction: '## Spellbook: AI-Powered Contract Intelligence\n' +
+    '\n' +
+    'Spellbook is a leading AI contract review and drafting platform designed for transactional lawyers. It integrates directly into Microsoft Word, leveraging advanced language models like GPT-5 and Claude to help legal teams draft and review contracts with significantly greater speed and precision.\n' +
+    '\n' +
+    '### Key Features\n' +
+    '\n' +
+    "*   **AI Contract Review:** Automatically redlines contracts, flags risks, and identifies non-standard terms against your company's playbooks and industry standards.\n" +
+    '*   **AI Drafting:** Draft clauses and full documents from scratch or from a library of your preferred precedents, all within your existing Word workflow.\n' +
+    '*   **Ask (AI Q&A):** Get quick, cited answers to complex legal questions about your contract.\n' +
+    '*   **Market Comparison:** Benchmarks your contracts against thousands of similar agreements in the market.\n' +
+    '*   **Associate Agent:** An AI agent for complex, multi-document drafting and review workflows.\n' +
+    '*   **Enterprise Security:** Built for legal-grade confidentiality with SOC 2 Type II, HIPAA, GDPR compliance, and zero data retention by LLM providers.\n' +
+    '\n' +
+    '### Target Users & Use Cases\n' +
+    '\n' +
+    '*   **In-House Legal Teams:** Used by companies like Dropbox, eBay, and Panasonic to bring more work in-house, maintain consistency with playbooks, and accelerate review cycles.\n' +
+    '*   **Law Firms:** Firms like Kennedys and Westaway use Spellbook to reduce time on repetitive drafting, improve billing efficiency, and deliver faster service to clients.\n' +
+    '*   **Industries:** Solutions are tailored for sectors including Energy, Healthcare, Financial Services, Technology, Manufacturing, and Retail & Consumer Goods.\n' +
+    '\n' +
+    'Spellbook serves over 4,500 legal teams in 80+ countries, positioning itself as an end-to-end contract intelligence system from intake to insight.',
+  categories: [ 'Office Tools', 'AI Tools', 'Productivity' ],
+  tags: [ 'AI', 'Productivity', 'Automation', 'Writing' ],
+  image: 'https://cdn.prod.website-files.com/66fc4a00d70e086034b6699f/673fa3324b6c0b26078d4620_open-graph-screen.png',
+  icon: 'https://icons.duckduckgo.com/ip3/www.spellbook.com.ico'
+}
+fetchItem, url: https://www.spikes.studio mergedData: {
+  link: 'https://www.spikes.studio',
+  name: 'spikes studio',
+  description: 'An AI-powered video editor that transforms long videos into viral clips for social media platforms.',
+  introduction: '# spikes studio\n' +
+    '\n' +
+    'Spikes Studio is an AI-driven video editing platform designed to automatically convert long-form video content into short, engaging clips optimized for social media. It uses machine learning to identify key moments, apply platform-specific formatting, and streamline the publishing workflow.\n' +
+    '\n' +
+    '## Key Features\n' +
+    '\n' +
+    '- **AI-Powered Clip Generation**: Automatically detects the most engaging moments from raw footage.\n' +
+    '- **Multi-Platform Optimization**: Resizes and formats videos for TikTok, Instagram Reels, YouTube Shorts, and other social platforms.\n' +
+    '- **Animated Captions**: Adds customizable, eye-catching captions to enhance viewer engagement.\n' +
+    '- **Cross-Platform Scheduling**: Allows users to schedule and publish content across multiple social media channels from a single dashboard.\n' +
+    '- **Analytics & Insights**: Provides a unified dashboard to track video performance and engagement metrics.\n' +
+    '- **Team Collaboration**: Supports shared workspaces and scalable workflows for teams and agencies.\n' +
+    '\n' +
+    '## Target Users\n' +
+    '\n' +
+    '- **Content Creators**: Individuals looking to grow their audience and increase views.\n' +
+    '- **Marketing Teams & Agencies**: Businesses needing to produce high-quality video content at scale.\n' +
+    '- **Podcasters**: Users aiming to repurpose podcast episodes into shareable video clips.\n' +
+    '- **Media & Entertainment Companies**: Organizations seeking to streamline content workflows and expand reach.\n' +
+    '\n' +
+    '## Practical Applications\n' +
+    '\n' +
+    '- Transforming webinars or livestreams into highlight reels.\n' +
+    '- Creating platform-native short-form content for viral marketing campaigns.\n' +
+    '- Automating the editing process to save time and reduce production costs.\n' +
+    '- Analyzing content performance to inform future video strategies.',
+  categories: [ 'Video Generation', 'AI Tools', 'Marketing Tools' ],
+  tags: [ 'Video', 'AI', 'Automation', 'Marketing', 'Productivity' ],
+  image: undefined,
+  icon: 'https://icons.duckduckgo.com/ip3/www.spikes.studio.ico'
+}
+[14/903] OK spellbook [Office Tools, AI Tools]
+[15/903] OK spikes studio [Video Generation, Marketing Tools, AI Tools]
+[16/903] FAIL(no-data) https://suno.com/l/ai-music-app
+[17/903] FAIL(no-data) https://trickle.so
+[18/903] FAIL(no-data) https://www.tripo3d.ai
+[19/903] FAIL(no-data) https://www.typeface.ai
+[20/903] FAIL(no-data) https://vidiq.com
+[21/903] FAIL(no-data) https://writesonic.com
+fetchItem, url: https://my.clevelandclinic.org/health/articles/22611-epinephrine-adrenaline mergedData: {
+  link: 'https://my.clevelandclinic.org/health/articles/22611-epinephrine-adrenaline',
+  name: 'adrenaline',
+  description: 'A medical information article explaining epinephrine (adrenaline), its biological functions, and its use as a life-saving medication.',
+  introduction: '# Epinephrine (Adrenaline): Function, Role, and Medical Use\n' +
+    '\n' +
+    'This article from the Cleveland Clinic Health Library provides a comprehensive overview of **epinephrine**, commonly known as **adrenaline**. It is a critical biochemical compound that acts as both a neurotransmitter and a hormone within the human body.\n' +
+    '\n' +
+    '## Key Biological Functions\n' +
+    '\n' +
+    '*   **Fight-or-Flight Response:** Epinephrine is the primary hormone released by the adrenal glands during moments of acute stress or danger. This triggers a cascade of physiological changes, including increased heart rate, elevated blood pressure, dilated pupils, and the redirection of blood flow to essential muscles.\n' +
+    '*   **Neurotransmitter Role:** In the central nervous system, it helps transmit nerve signals, playing a role in metabolism, attention, focus, panic, and excitement.\n' +
+    '\n' +
+    '## Medical Applications\n' +
+    '\n' +
+    'Synthetic epinephrine is a vital medication used to treat several life-threatening conditions:\n' +
+    '\n' +
+    '*   **Anaphylaxis:** First-response treatment for severe allergic reactions.\n' +
+    '*   **Severe Asthma:** Helps open airways and reduce spasms.\n' +
+    '*   **Cardiac Arrest:** Used during CPR to stimulate the heart.\n' +
+    '*   **Septic Shock & Low Blood Pressure:** Helps increase blood pressure in critical situations.\n' +
+    '*   **Eye Surgery:** Maintains pupil dilation.\n' +
+    '\n' +
+    '## Health Implications of Imbalance\n' +
+    '\n' +
+    'The article details the health conditions that can result from abnormal levels:\n' +
+    '\n' +
+    '*   **Low Levels:** May be associated with anxiety, depression, headaches, sleep problems, and low blood sugar.\n' +
+    '*   **High Levels:** Can lead to hypertension, rapid heartbeat, excessive sweating, severe headaches, and jitters. A specific adrenal gland tumor called a **pheochromocytoma** is also a known cause of high levels.\n' +
+    '\n' +
+    'The resource includes a comparison table contrasting epinephrine with the related compound **norepinephrine (noradrenaline)**, highlighting their different primary functions and origins.',
+  categories: [ 'Search and Research' ],
+  tags: [ 'Tech', 'Tutorial' ],
+  image: 'https://assets.clevelandclinic.org/transform/LargeFeatureImage/aa41aba3-3189-4d99-9f49-b70fe103eef2/',
+  icon: 'https://icons.duckduckgo.com/ip3/my.clevelandclinic.org.ico'
+}
+[22/903] FAIL(no-data) https://www.urbandictionary.com/define.php?term=accountabilibuddy

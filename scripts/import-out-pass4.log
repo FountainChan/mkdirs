@@ -1,0 +1,58 @@
+importItems start
+total: 1145, existing: 246, pending: 899
+[1/899] FAIL(no-data) https://character.ai
+[2/899] FAIL(no-data) https://civitai.com
+[3/899] FAIL(no-data) https://claude.com
+[4/899] FAIL(no-data) https://www.craiyon.com
+[5/899] FAIL(no-data) https://www.heygen.com
+[6/899] FAIL(no-data) https://insight7.io
+[7/899] FAIL(no-data) https://invideo.io
+[8/899] FAIL(no-data) https://www.meshy.ai
+[9/899] FAIL(no-data) https://www.perplexity.ai
+[10/899] FAIL(no-data) https://pixlr.com
+[11/899] FAIL(no-data) https://playgroundai.com
+[12/899] FAIL(no-data) https://suno.com/l/ai-music-app
+[13/899] FAIL(no-data) https://trickle.so
+[14/899] FAIL(no-data) https://www.tripo3d.ai
+[15/899] FAIL(no-data) https://www.typeface.ai
+[16/899] FAIL(no-data) https://vidiq.com
+[17/899] FAIL(no-data) https://writesonic.com
+[18/899] FAIL(no-data) https://www.urbandictionary.com/define.php?term=accountabilibuddy
+fetchItem, url: https://my.clevelandclinic.org/health/articles/22611-epinephrine-adrenaline mergedData: {
+  link: 'https://my.clevelandclinic.org/health/articles/22611-epinephrine-adrenaline',
+  name: 'adrenaline',
+  description: 'A medical information article explaining epinephrine (adrenaline), its biological functions, and its use as a life-saving medication.',
+  introduction: '# Epinephrine (Adrenaline): Function, Role, and Medical Use\n' +
+    '\n' +
+    'This article from the Cleveland Clinic Health Library provides a comprehensive overview of **epinephrine**, commonly known as **adrenaline**. It is a critical biochemical compound that acts as both a neurotransmitter and a hormone within the human body.\n' +
+    '\n' +
+    '## Key Biological Functions\n' +
+    '\n' +
+    '*   **Fight-or-Flight Response:** Epinephrine is the primary hormone released by the adrenal glands during moments of acute stress or danger. This triggers a cascade of physiological changes, including increased heart rate, elevated blood pressure, dilated pupils, and the redirection of blood flow to essential muscles.\n' +
+    '*   **Neurotransmitter Role:** In the central nervous system, it helps transmit nerve signals, playing a role in metabolism, attention, focus, panic, and excitement.\n' +
+    '\n' +
+    '## Medical Applications\n' +
+    '\n' +
+    'Synthetic epinephrine is a vital medication used to treat several life-threatening conditions:\n' +
+    '\n' +
+    '*   **Anaphylaxis:** First-response treatment for severe allergic reactions.\n' +
+    '*   **Severe Asthma:** Helps open airways and reduce spasms.\n' +
+    '*   **Cardiac Arrest:** Used during CPR to stimulate the heart.\n' +
+    '*   **Septic Shock & Low Blood Pressure:** Helps increase blood pressure in critical situations.\n' +
+    '*   **Eye Surgery:** Maintains pupil dilation.\n' +
+    '\n' +
+    '## Health Implications of Imbalance\n' +
+    '\n' +
+    'The article details the health conditions that can result from abnormal levels:\n' +
+    '\n' +
+    '*   **Low Levels:** May be associated with anxiety, depression, headaches, sleep problems, and low blood sugar.\n' +
+    '*   **High Levels:** Can lead to hypertension, rapid heartbeat, excessive sweating, severe headaches, and jitters. A specific adrenal gland tumor called a **pheochromocytoma** is also a known cause of high levels.\n' +
+    '\n' +
+    'The resource includes a comparison table contrasting epinephrine with the related compound **norepinephrine (noradrenaline)**, highlighting their different primary functions and origins.',
+  categories: [ 'Search and Research' ],
+  tags: [ 'Tech', 'Tutorial' ],
+  image: 'https://assets.clevelandclinic.org/transform/LargeFeatureImage/aa41aba3-3189-4d99-9f49-b70fe103eef2/',
+  icon: 'https://icons.duckduckgo.com/ip3/my.clevelandclinic.org.ico'
+}
+[19/899] OK adrenaline [Search and Research]
+[20/899] FAIL(no-data) https://aigallery.app

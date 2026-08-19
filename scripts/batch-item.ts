@@ -212,7 +212,6 @@ export const fetchItemWithAISdk = async (
       title: z.string().describe("A short, concise name without description"),
       description: z
         .string()
-        .max(160)
         .describe("One sentence summary, max 160 characters"),
       introduction: z
         .string()
@@ -225,11 +224,19 @@ export const fetchItemWithAISdk = async (
         .describe("Array of tag names that best match the content")
     });
 
-    const response = await fetch(url);
-    const htmlContent = (await response.text())
-      .replace(/class="[^"]*"/g, '')
-      .replace(/<svg[^>]*>.*?<\/svg>/g, '')
-      .replace(/<script\b[^<]*(?:(?!<\/script>)<[^<]*)*<\/script>/gi, '');
+    // 抓取目标站 HTML，超时/被墙时仍交给 AI 凭元数据知识写简介；截断防超上游 token 上限
+    let htmlContent = "";
+    try {
+      const response = await fetch(url, { signal: AbortSignal.timeout(30000) as never });
+      htmlContent = (await response.text())
+        .replace(/class="[^"]*"/g, '')
+        .replace(/<svg[^>]*>.*?<\/svg>/g, '')
+        .replace(/<script\b[^<]*(?:(?!<\/script>)<[^<]*)*<\/script>/gi, '')
+        .slice(0, 30000);
+    } catch (e) {
+      console.error(`fetchItemWithAISdk: html fetch failed for ${url}:`, e instanceof Error ? e.message : e);
+      htmlContent = "";
+    }
 
     const mappedCategory = meta ? CATEGORY_MAPPING[meta.category] : undefined;
     const hintText = meta
@@ -248,7 +255,7 @@ export const fetchItemWithAISdk = async (
     const promptText = `Analyze the following webpage content and provide structured information:
 ${hintText}
       Content to analyze:
-      ${htmlContent}
+${htmlContent || "(unavailable — fetch failed or was blocked. Rely on the known tool information above and your own knowledge.)"}
 
       Available Categories:
       ${availableCategories.join(", ")}
@@ -332,6 +339,10 @@ ${hintText}
           );
         }
         object = schema.parse(JSON.parse(content));
+        // 描述超长截断（schema 不再硬卡 160，避免整条失败）
+        if (object.description && object.description.length > 160) {
+          object.description = `${object.description.slice(0, 157).trimEnd()}...`;
+        }
         // 修复模型双重转义：字面 \n → 真实换行（否则 markdown 挤成一行无法渲染）
         if (object.introduction?.includes("\\n")) {
           object.introduction = object.introduction.replace(/\\n/g, "\n");
@@ -340,7 +351,8 @@ ${hintText}
       } catch (e) {
         lastError = e;
         if (attempt < 3) {
-          await new Promise((r) => setTimeout(r, 3000 * attempt));
+          // 跨过网关 5 分钟配额重置窗口
+          await new Promise((r) => setTimeout(r, 20000 * attempt));
         }
       }
     }
@@ -420,7 +432,7 @@ export const importItems = async () => {
     `total: ${links.length}, existing: ${links.length - pending.length}, pending: ${pending.length}`,
   );
 
-  const CONCURRENCY = Number(process.env.IMPORT_CONCURRENCY || 4);
+  const CONCURRENCY = Number(process.env.IMPORT_CONCURRENCY || 2);
   let ok = 0;
   let fail = 0;
   let idx = 0;

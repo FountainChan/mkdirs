@@ -1,0 +1,391 @@
+importItems start
+total: 1145, existing: 1113, pending: 32
+fetchItem, url: https://www.capitol.ai/about mergedData: {
+  link: 'https://www.capitol.ai/about',
+  name: 'capitol ai',
+  description: 'Capitol AI provides governed AI infrastructure and intelligent content creation tools for high-stakes environments and research.',
+  introduction: '## Introduction\n' +
+    'Capitol AI is an advanced AI-powered platform designed to build governed AI infrastructure for high-stakes environments. It enables users and enterprise teams to create, research, and refine complex documents and data-driven narratives with strong governance, precision, and design integration.\n' +
+    '\n' +
+    '## Key Features\n' +
+    '- **Governed AI Infrastructure**: Ensures data governance, reliability, and security compliance required for mission-critical and high-stakes operations.\n' +
+    '- **Intelligent Document Generation**: Transforms raw ideas, notes, and research into polished reports, presentations, and structured documents.\n' +
+    '- **Dynamic Research & Synthesis**: Facilitates deep research synthesis, combining information retrieval with multi-modal content formatting.\n' +
+    '- **Iterative Editing & Customization**: Allows teams to dynamically edit, format, and adapt AI-generated narratives to fit organizational standards.\n' +
+    '\n' +
+    '## Use Cases\n' +
+    '- **Enterprise Research**: Synthesizing complex data into actionable business and strategy reports.\n' +
+    '- **Policy & Compliance Documentation**: Crafting governed content for regulated industries and high-stakes environments.\n' +
+    '- **Professional Storytelling**: Enabling teams to create visually rich and factually grounded documents efficiently.',
+  categories: [ 'Office Tools', 'Writing Tools', 'AI Tools' ],
+  tags: [ 'AI', 'Productivity', 'Writing', 'Automation' ],
+  image: 'https://framerusercontent.com/images/EJRPEsQHUEc28S0nWJeYSarxfw0.png',
+  icon: 'https://icons.duckduckgo.com/ip3/www.capitol.ai.ico'
+}
+fetchItem, url: https://coverler.com/ai-cover-letter-generator mergedData: {
+  link: 'https://coverler.com/ai-cover-letter-generator',
+  name: 'coverler',
+  description: 'Coverler is an AI-powered cover letter generator that creates tailored, professional cover letters in seconds to boost your job application success.',
+  introduction: '## Overview\n' +
+    'Coverler is an intelligent writing tool designed to streamline the job application process by generating customized, high-quality cover letters. By leveraging advanced AI technology, Coverler analyzes job descriptions and user qualifications to craft compelling cover letters tailored to specific career opportunities.\n' +
+    '\n' +
+    '## Key Features\n' +
+    '- **AI-Driven Generation:** Automatically crafts personalized cover letters tailored to specific job roles and user experience.\n' +
+    '- **Professional Tone & Structure:** Ensures proper formatting, tone, and persuasive language suitable for diverse industries.\n' +
+    '- **Rapid Drafting:** Saves time by producing complete drafts in seconds, allowing candidates to apply to multiple openings faster.\n' +
+    '- **Flexible Editing:** Allows users to easily adjust highlights, key achievements, and specific skills before sending.\n' +
+    '\n' +
+    '## Use Cases\n' +
+    '- **Active Job Seekers:** Effortlessly customize cover letters for every application to increase interview callback rates.\n' +
+    '- **Career Changers:** Highlight transferable skills effectively when transitioning into new professional fields.\n' +
+    '- **Recent Graduates:** Easily generate professional cover letters without extensive writing experience.',
+  categories: [ 'Writing Tools', 'Office Tools', 'AI Tools' ],
+  tags: [ 'Writing', 'AI', 'Productivity', 'Automation' ],
+  image: undefined,
+  icon: 'https://icons.duckduckgo.com/ip3/coverler.com.ico'
+}
+[1/32] OK capitol ai [Office Tools, Writing Tools, AI Tools]
+[2/32] OK coverler [Office Tools, Writing Tools, AI Tools]
+fetchItem, url: https://www.droxy.ai mergedData: {
+  link: 'https://www.droxy.ai',
+  name: 'droxy ai',
+  description: 'Droxy AI is an automated customer interaction platform designed to turn multi-channel customer engagements into sales revenue using AI chatbots.',
+  introduction: '## Droxy AI Overview\n' +
+    'Droxy AI is an AI-powered customer interaction platform built to help businesses manage conversations across multiple channels and improve lead conversion rates.\n' +
+    '\n' +
+    '### Key Features\n' +
+    '- **Omnichannel Support**: Automate and centralize customer communications across website and messaging channels.\n' +
+    '- **Lead Conversion & Sales**: Engages visitors proactively to turn inquiries into revenue opportunities.\n' +
+    '- **24/7 Automated Assistance**: Delivers instant, consistent support for customer queries around the clock.\n' +
+    '- **Easy Workflow Integration**: Designed to seamlessly connect with existing websites and business tools.\n' +
+    '\n' +
+    '### Practical Applications\n' +
+    '- **E-commerce Customer Care**: Assist online shoppers with product details, recommendation queries, and support.\n' +
+    '- **Lead Generation**: Qualify incoming sales leads automatically through intelligent chat interactions.',
+  categories: [ 'AI Chat', 'AI Tools', 'Marketing Tools' ],
+  tags: [ 'AI', 'Chatbot', 'Automation', 'Marketing', 'Productivity' ],
+  image: 'https://framerusercontent.com/images/6HYMh1lq5GvoLWFkmqkQ9pJ7qXs.png',
+  icon: 'https://icons.duckduckgo.com/ip3/www.droxy.ai.ico'
+}
+fetchItem, url: https://imgcreatorai.io mergedData: {
+  link: 'https://imgcreatorai.io',
+  name: 'imgcreator ai',
+  description: 'imgcreator ai is a free online AI image generator and editing suite that transforms text prompts into high-quality visual content without registration.',
+  introduction: '## Overview\n' +
+    'imgcreator ai is an online creative platform designed to transform text prompts and existing photos into high-quality visual content using state-of-the-art AI models. Operating completely online and free of mandatory account sign-ups, it provides instant access to image generation, editing, and enhancement capabilities.\n' +
+    '\n' +
+    '## Key Features\n' +
+    '- **Text to Image Generation**: Transform descriptive text prompts into detailed artwork, photorealistic images, and digital graphics.\n' +
+    '- **Image to Image Transformations**: Upload photos to re-style, modify, or blend them using advanced AI model controls.\n' +
+    '- **Advanced AI Models**: Access multiple model backends including Nano Banana 2, Nano Banana Pro, and GPT Image 2 for tailored prompt accuracy and style rendering.\n' +
+    '- **Utility Image Tools**: Features built-in tools like Background Remover, Image Upscaler, and specialized photo editors.\n' +
+    '- **Flexible Aspect Ratios & Customization**: Customize output dimensions, resolution, and composition with ratio presets (1:1, 16:9, 9:16, 4:3, etc.).\n' +
+    '- **AI Video Capabilities**: Animate static images and apply video generation effects directly from the suite.\n' +
+    '\n' +
+    '## Use Cases\n' +
+    '- **Social Media & Marketing**: Create graphics, banners, and eye-catching promotional imagery without design software.\n' +
+    '- **Digital Art & Concept Design**: Generate conceptual artwork, storyboards, and background assets quickly.\n' +
+    '- **Photo Retouching & Editing**: Clean up background elements, upscale low-resolution images, and apply stylized edits.',
+  categories: [ 'Image Generation', 'AI Tools' ],
+  tags: [ 'Image', 'AI', 'Productivity' ],
+  image: undefined,
+  icon: 'https://icons.duckduckgo.com/ip3/imgcreatorai.io.ico'
+}
+[4/32] OK imgcreator ai [Image Generation, AI Tools]
+[3/32] OK droxy ai [AI Chat, Marketing Tools, AI Tools]
+fetchItem, url: https://keepitshot.com mergedData: {
+  link: 'https://keepitshot.com',
+  name: 'keep it shot',
+  description: 'Keep It Shot is an AI-powered Mac application that automatically renames, organizes, and creates a private offline search index for screenshots.',
+  introduction: 'Keep It Shot is an AI-powered macOS application designed to solve screenshot clutter by automatically generating descriptive file names and enabling fast, private search capabilities. By leveraging image recognition and OCR, it turns unorganized screenshot folders into a searchable second brain.\n' +
+    '\n' +
+    '### Key Features\n' +
+    '- **AI-Powered Automatic Renaming**: Automatically analyzes screenshot content using computer vision and OCR to assign clean, meaningful filenames.\n' +
+    '- **Batch Renaming**: Effortlessly rename large batches of media files in just two clicks with visual progress tracking.\n' +
+    '- **Private & Offline Search**: Builds a local search index directly on your Mac, allowing you to instantly search screenshots by keywords or embedded text without uploading media to external servers.\n' +
+    '- **Customizable Automation**: Configure custom renaming rules, set up auto-renaming upon screenshot capture, and easily revert filenames back to originals when needed.\n' +
+    '\n' +
+    '### Use Cases\n' +
+    '- **Digital Asset Management**: Automatically organize daily work screenshots, research notes, and design inspirations.\n' +
+    '- **Document Retrieval**: Instantly retrieve receipts, error logs, code snippets, or reference images using simple keyword searches.',
+  categories: [ 'AI Tools', 'Office Tools' ],
+  tags: [ 'Image', 'AI', 'Productivity', 'Automation', 'Free Trial' ],
+  image: 'https://cdn.keepitshot.com/keepitshot.png',
+  icon: 'https://icons.duckduckgo.com/ip3/keepitshot.com.ico'
+}
+[5/32] OK keep it shot [Office Tools, AI Tools]
+[6/32] FAIL(no-data) https://www.kickresume.com/en
+fetchItem, url: https://www.limelinepaintsupply.com mergedData: {
+  link: 'https://www.limelinepaintsupply.com',
+  name: 'limeline',
+  description: 'Limeline is an intuitive timeline creation tool for designing visual roadmaps, project schedules, and presentation templates effortlessly.',
+  introduction: '### Overview\n' +
+    '\n' +
+    'Limeline is a specialized timeline visualization tool designed to help project managers, educators, and presenters build clear, visually appealing timelines and roadmaps. Whether preparing business pitch decks, tracking project schedules, or outlining historical events, Limeline offers flexible design options and templates to streamline the workflow.\n' +
+    '\n' +
+    '### Key Features\n' +
+    '\n' +
+    '- **Timeline Generation**: Easily construct sequential timelines, event milestones, and project deadlines.\n' +
+    '- **Presentation Templates**: Generate and export timeline layouts optimized for PowerPoint (PPT) and key presentations.\n' +
+    '- **Customizable Styling**: Tailor color schemes, typography, and structural layouts to suit your brand or project style.\n' +
+    '- **Intuitive Visual Editing**: Simple controls allow users to quickly add, edit, and reorganize events without complex design tools.\n' +
+    '\n' +
+    '### Use Cases\n' +
+    '\n' +
+    '- **Project Management**: Track project milestones, release dates, and workflow phases effectively.\n' +
+    '- **Business Pitching**: Present product roadmaps and company growth milestones to investors and stakeholders.\n' +
+    '- **Education & Training**: Illustrate historical timelines and sequential processes for instructional materials.',
+  categories: [ 'Design Tools', 'Office Tools' ],
+  tags: [ 'Productivity', 'Tech', 'No Code' ],
+  image: 'http://cdn.shopify.com/s/files/1/0589/2836/5730/files/40785-header-removebg-preview.png?height=628&pad_color=ffffff&v=1771268027&width=1200',
+  icon: 'https://icons.duckduckgo.com/ip3/www.limelinepaintsupply.com.ico'
+}
+[8/32] OK limeline [Design Tools, Office Tools]
+[7/32] FAIL(no-data) https://leonardo.ai
+[9/32] FAIL(no-data) https://www.lagofast.com/en
+[10/32] FAIL(no-data) https://www.loudly.com
+[11/32] FAIL(no-data) https://luxand.cloud
+fetchItem, url: https://www.marketingblocks.ai mergedData: {
+  link: 'https://www.marketingblocks.ai',
+  name: 'marketingblocks ai',
+  description: 'MarketingBlocks AI is an all-in-one AI marketing platform that automatically generates landing pages, ad copy, graphics, videos, and voiceovers.',
+  introduction: '### MarketingBlocks AI\n' +
+    '\n' +
+    'MarketingBlocks AI is an all-in-one AI-powered marketing platform designed to generate high-converting marketing assets from simple prompt inputs. It empowers marketers, agencies, and business owners to create comprehensive marketing campaigns, including websites, promotional videos, banner ads, and copy, without requiring design or coding technical skills.\n' +
+    '\n' +
+    '### Key Features\n' +
+    '\n' +
+    '- **AI Page Builder:** Instantly generates complete, responsive landing pages populated with copy, images, and lead capture forms.\n' +
+    '- **Comprehensive Copywriting:** Produces ad copy, email sequences, blog posts, and sales scripts tailored to specific audience target personas.\n' +
+    '- **Graphics & Asset Design:** Automatically creates promotional banners, social media posts, logos, and business cards.\n' +
+    '- **Video & Voiceover Creation:** Generates engaging promotional videos, complete with AI voiceovers in multiple languages.\n' +
+    '- **Workflow Automation:** Integrates asset creation into streamlined workflows to accelerate campaign deployment.\n' +
+    '\n' +
+    '### Use Cases\n' +
+    '\n' +
+    '- **Digital Agencies:** Scale client campaigns by rapidly creating customized marketing collateral and sales funnels.\n' +
+    '- **Small Business Owners:** Launch products quickly with complete marketing kits without hiring external freelancers.\n' +
+    '- **Affiliate Marketers:** Build high-converting landing pages and promotional ad creatives in minutes.',
+  categories: [ 'Marketing Tools', 'AI Tools', 'Design Tools' ],
+  tags: [
+    'Marketing',
+    'AI',
+    'Automation',
+    'Productivity',
+    'No Code',
+    'Writing',
+    'Video',
+    'Image'
+  ],
+  image: undefined,
+  icon: 'https://icons.duckduckgo.com/ip3/www.marketingblocks.ai.ico'
+}
+[12/32] FAIL(no-data) https://machined.ai
+[13/32] OK marketingblocks ai [Design Tools, Marketing Tools, AI Tools]
+[14/32] FAIL(no-data) https://microsoft.design/articles/ai-powered-creativity-with-microsoft-designer
+[15/32] FAIL(no-data) https://info.mindsdb.com
+[16/32] FAIL(no-data) https://www.munchstudio.com
+[17/32] FAIL(no-data) https://www.myreport.fr
+fetchItem, url: https://novelistai.com mergedData: {
+  link: 'https://novelistai.com',
+  name: 'novelistai',
+  description: 'NovelistAI is an AI-powered story generation platform for writing novels, creating gamebooks, designing cover art, and converting text to audiobooks.',
+  introduction: '## Overview\n' +
+    'NovelistAI is an advanced AI-driven creative writing platform designed to assist authors, storytellers, and creators in writing novels, interactive gamebooks, visually appealing cover designs, and natural-sounding audiobooks.\n' +
+    '\n' +
+    '## Key Features\n' +
+    '- **AI Novel & Gamebook Generator**: Create captivating stories across various genres with multi-language support in over 88 languages.\n' +
+    '- **Cover Design Tools**: Generate high-quality book covers and visual artwork powered by AI.\n' +
+    '- **Text-to-Audiobook**: Convert written text into expressive, high-quality audiobooks.\n' +
+    '- **Community & Library**: Explore a growing library of user-generated books to read, share, and bookmark favorites.\n' +
+    '\n' +
+    '## Use Cases\n' +
+    "- **Writers & Authors**: Overcome writer's block and draft full-length novels or story chapters.\n" +
+    '- **Interactive Fiction Creators**: Build branching gamebooks and interactive story experiences.\n' +
+    '- **Publishers & Content Creators**: Produce complete book assets, including text, graphics, and audio versions.',
+  categories: [ 'Writing Tools', 'AI Tools', 'Audio Tools' ],
+  tags: [ 'Writing', 'AI', 'Audio', 'Image', 'Productivity' ],
+  image: 'https://novelistai.com/bundles/project/images/cover.webp',
+  icon: 'https://icons.duckduckgo.com/ip3/novelistai.com.ico'
+}
+[19/32] OK novelistai [Writing Tools, AI Tools, Audio Tools]
+[18/32] FAIL(no-data) https://noty.ai
+fetchItem, url: https://novita.ai mergedData: {
+  link: 'https://novita.ai',
+  name: 'novita ai',
+  description: 'Novita AI is an AI-native cloud platform offering 200+ model APIs, secure agent sandboxes, and flexible GPU compute for developers.',
+  introduction: '## Overview\n' +
+    'Novita AI is an AI-native cloud platform designed for developers and AI agents. It simplifies building, deploying, and scaling AI applications by providing access to over 200 serverless model APIs, dedicated endpoints, secure agent sandboxes, and flexible GPU infrastructure.\n' +
+    '\n' +
+    '## Key Features\n' +
+    '- **Serverless Model APIs**: Access 200+ LLM, image, audio, video, and vision models (including DeepSeek, MiniMax, GLM, Kimi, Gemma, and Qwen) through a single API billed per token.\n' +
+    '- **Agent Sandbox**: Run secure, isolated execution environments optimized for AI agents to run code, use tools, and carry out tasks safely with low startup latency.\n' +
+    '- **GPU Cloud**: Deploy dedicated GPU instances (such as RTX 4090, A100, H100) or leverage serverless GPU jobs that automatically scale to zero when idle.\n' +
+    '- **Dedicated Endpoints**: Host private model endpoints with guaranteed compute resources, consistent low latency, and isolated compute.\n' +
+    '\n' +
+    '## Use Cases\n' +
+    '- **AI Agent Execution**: Build and run autonomous coding agents, workflow automation, and multi-tool agent environments in secure sandboxes.\n' +
+    '- **Multi-Modal AI Integration**: Seamlessly connect applications to top-tier text, image, audio, and video models without managing infrastructure.\n' +
+    '- **Custom Model Deployment**: Scale specialized or fine-tuned AI models on high-performance GPUs with flexible pay-per-second or serverless pricing.',
+  categories: [ 'Developer Tools', 'AI Tools' ],
+  tags: [ 'AI', 'Coding', 'Automation', 'Tech' ],
+  image: 'https://novita.ai/mainpage/media-logo.png',
+  icon: 'https://icons.duckduckgo.com/ip3/novita.ai.ico'
+}
+fetchItem, url: https://obviously.ai mergedData: {
+  link: 'https://obviously.ai',
+  name: 'obviously ai',
+  description: 'Obviously AI is a no-code machine learning platform that enables users to build, deploy, and monitor predictive AI models in minutes.',
+  introduction: '### Overview\n' +
+    'Obviously AI is a no-code data science platform designed to transform raw tabular data into predictive machine learning models in minutes. By removing the need for programming knowledge and complex DevOps overhead, it allows business analysts, operations teams, executives, and developers to leverage advanced predictive analytics effortlessly.\n' +
+    '\n' +
+    '### Key Features\n' +
+    '- **No-Code Model Building:** Easily construct classification, regression, and time-series predictive models directly from tabular datasets.\n' +
+    '- **One-Click Deployment:** Instantly deploy models into production, generating shareable dynamic web applications and integration-ready API endpoints.\n' +
+    '- **Automated AutoML Engine:** Automatically selects, trains, and fine-tunes the optimal algorithms to deliver accurate predictive outcomes.\n' +
+    '- **Model Monitoring & Automation:** Continuously track model performance and integrate with third-party tools like Zapier, Salesforce, and Airtable to automate actions based on prediction confidence.\n' +
+    '- **Explainable AI:** Provides clear insights and feature-importance breakdowns so teams can understand the factors driving each prediction.\n' +
+    '\n' +
+    '### Key Use Cases\n' +
+    '- **Classification:** Predict customer churn, lead conversion, loan defaults, and fraud risk.\n' +
+    '- **Regression:** Estimate dynamic pricing, deal sizes, sales revenue, and yield.\n' +
+    '- **Time-Series Forecasting:** Forecast future sales, inventory demand, and financial metrics based on date-driven historical data.',
+  categories: [ 'Data Tools', 'AI Tools' ],
+  tags: [ 'No Code', 'AI', 'Automation', 'Productivity', 'Free Trial' ],
+  image: 'https://i.imgur.com/q8Hu76D.png',
+  icon: 'https://icons.duckduckgo.com/ip3/obviously.ai.ico'
+}
+[20/32] OK novita ai [Developer Tools, AI Tools]
+[21/32] OK obviously ai [Data Tools, AI Tools]
+fetchItem, url: https://www.onvo.ai mergedData: {
+  link: 'https://www.onvo.ai',
+  name: 'onvo ai',
+  description: 'Onvo AI connects spreadsheets and databases, automatically cleans raw data, and generates interactive live dashboards without requiring SQL or manual coding.',
+  introduction: '## Overview\n' +
+    'Onvo AI is an intelligent data platform that transforms messy spreadsheets, databases, and APIs into interactive live dashboards within minutes. Designed for teams seeking quick data visualization without writing complex SQL queries or building custom front-end components, Onvo AI automates everything from data cleansing to report generation.\n' +
+    '\n' +
+    '## Key Features\n' +
+    '- **Automated Data Cleaning**: Automatically scans connected sources to fix merged cells, inconsistent date formats, broken formulas, and missing values prior to visualization.\n' +
+    '- **Plain English AI Analyst**: Allows users to ask natural language questions about their data to generate custom charts, reveal underlying trends, and detect revenue anomalies instantly.\n' +
+    '- **Broad Data Integration**: Works out of the box with PostgreSQL, MySQL, Microsoft SQL, ClickHouse, MongoDB, Snowflake, Google Sheets, Excel files, CSVs, and custom REST APIs.\n' +
+    '- **Embeddable Analytics SDK**: Embed white-labeled dashboards into existing SaaS products via iFrames or React SDKs with robust per-user data isolation.\n' +
+    '- **Scheduled Reporting & Alerts**: Configures automated PDF dashboard deliveries to team inboxes and triggers instant alerts when key business metrics cross designated thresholds.\n' +
+    '\n' +
+    '## Use Cases\n' +
+    '- **Internal Operations & Business Intelligence**: Quickly construct real-time operational dashboards from multi-source data files without waiting for specialized data engineering resources.\n' +
+    "- **SaaS Embedded Dashboards**: Deliver client-facing analytics natively inside your web app using Onvo's ready-to-use embedding components.\n" +
+    '- **Automated Monitoring**: Receive proactive anomaly alerts whenever sales, active users, or inventory figures deviate from expected patterns.',
+  categories: [ 'Data Tools', 'AI Tools', 'Developer Tools' ],
+  tags: [
+    'Free Trial',
+    'Automation',
+    'Tech',
+    'AI',
+    'Productivity',
+    'No Code'
+  ],
+  image: 'https://www.onvo.ai/og/home.png',
+  icon: 'https://icons.duckduckgo.com/ip3/www.onvo.ai.ico'
+}
+[23/32] OK onvo ai [Data Tools, Developer Tools, AI Tools]
+fetchItem, url: https://www.wikihow.com/Care-for-Orchids mergedData: {
+  link: 'https://www.wikihow.com/Care-for-Orchids',
+  name: 'orchids',
+  description: 'orchids provides comprehensive guides and actionable techniques on orchid care, environmental optimization, and routine maintenance for plant enthusiasts.',
+  introduction: '### Overview\n' +
+    '\n' +
+    'orchids is a dedicated instructional guide and resource designed to help plant enthusiasts, home growers, and hobbyists successfully cultivate and care for orchids. It covers essential environmental management, maintenance routines, and troubleshooting strategies to maintain long-term plant health and vibrant blooms.\n' +
+    '\n' +
+    '### Key Features\n' +
+    '\n' +
+    '- **Optimal Growth Conditions**: Detailed instructions on light exposure, watering schedules, humidity, and temperature control tailored specifically for orchids.\n' +
+    '- **Repotting & Substrates**: Guidance on selecting the right potting media, root management, and proper repotting timing.\n' +
+    '- **Pest & Disease Prevention**: Practical tips for identifying, preventing, and treating common orchid diseases and infestations.\n' +
+    '- **Bloom Encouragement**: Proven strategies to foster healthy root systems and stimulate consistent reblooming cycles.\n' +
+    '\n' +
+    '### Use Cases\n' +
+    '\n' +
+    '- **Indoor Gardening**: Helps home gardeners create optimal indoor environments for growing thriving orchids.\n' +
+    '- **Botanical Enthusiasts**: Serves as a quick reference guide for hobbyists seeking reliable care instructions and troubleshooting advice.',
+  categories: [ 'Tech Tutorials' ],
+  tags: [ 'Tech', 'Tutorial' ],
+  image: undefined,
+  icon: 'https://icons.duckduckgo.com/ip3/www.wikihow.com.ico'
+}
+fetchItem, url: https://oneai.media/login mergedData: {
+  link: 'https://oneai.media/login',
+  name: 'one ai',
+  description: 'One AI provides developer-friendly AI APIs for natural language processing, audio transcription, text analytics, and content generation.',
+  introduction: '# One AI\n' +
+    '\n' +
+    'One AI is a comprehensive platform offering customizable AI Language Capabilities via simple, developer-friendly API endpoints. Designed for developers, product teams, and businesses, it enables seamless integration of generative AI, text analytics, summarization, and audio processing into any application or workflow.\n' +
+    '\n' +
+    '### Key Features\n' +
+    '- **Multimodal Language APIs**: Process text, audio, and structured data with unified, easy-to-use API endpoints.\n' +
+    '- **Content Summarization & Analytics**: Extract key insights, entities, topics, sentiment, and concise summaries from long-form text and documents.\n' +
+    '- **Audio Transcription & Analysis**: Convert speech to text while automatically identifying key concepts, action items, and sentiment.\n' +
+    '- **Custom Skill Pipelines**: Mix and match AI capabilities to build tailored processing workflows suited to specific business needs.\n' +
+    '\n' +
+    '### Use Cases\n' +
+    '- **Customer Support**: Automate ticket analysis, derive sentiment insights, and generate summaries of customer interactions.\n' +
+    '- **Media & Content Creation**: Generate automated transcripts, summary bullets, and topic tags for articles and podcasts.\n' +
+    '- **Business Intelligence**: Analyze unstructured corporate documents, feedback, and market research data at scale.',
+  categories: [ 'AI Tools', 'Developer Tools' ],
+  tags: [ 'AI', 'Coding', 'Automation', 'Productivity', 'Tech' ],
+  image: undefined,
+  icon: 'https://icons.duckduckgo.com/ip3/oneai.media.ico'
+}
+[24/32] OK orchids [Tech Tutorials]
+[22/32] OK one ai [Developer Tools, AI Tools]
+fetchItem, url: https://storyai.cc mergedData: {
+  link: 'https://storyai.cc',
+  name: 'storyai',
+  description: 'storyai is an AI-powered storytelling platform for generating interactive branching narratives, full written stories, creative ideas, and character portraits.',
+  introduction: '### Overview\n' +
+    'storyai is an AI-driven creative writing platform designed to turn simple prompts into rich interactive narratives, full-length written stories, and visual character assets. Featuring a single, unified workspace, storyai enables creators to craft branching plotlines, explore narrative concepts, and design cast portraits seamlessly.\n' +
+    '\n' +
+    '### Key Features\n' +
+    '- **Interactive Story Creation:** Build branching choice-driven stories and visual novel experiences where reader decisions shape the plot.\n' +
+    '- **Full Story Generator:** Transform simple prompts into complete narratives and continue expanding existing stories.\n' +
+    '- **Story Ideas & Conceptualization:** Generate plot directions, story outlines, and creative prompts to spark inspiration.\n' +
+    '- **Character Portrait Generator:** Design and store custom visual character artwork to visually represent your narrative cast.\n' +
+    '- **Unified Creative Workspace:** Access all generation formats and assets from a centralized dashboard without jumping between separate tools.\n' +
+    '\n' +
+    '### Target Audience & Use Cases\n' +
+    "- **Authors & Fiction Writers:** Overcome writer's block, develop plot outlines, and experiment with alternate story directions.\n" +
+    '- **Game Developers & Narrative Designers:** Draft branching dialogue trees, interactive choices, and character concepts for visual novels or games.\n' +
+    '- **Casual Storytellers:** Create and read custom AI-generated interactive fiction without requiring coding expertise.',
+  categories: [ 'Writing Tools', 'AI Tools', 'Entertainment' ],
+  tags: [ 'Writing', 'AI', 'Free Trial', 'Image' ],
+  image: undefined,
+  icon: 'https://icons.duckduckgo.com/ip3/storyai.cc.ico'
+}
+[25/32] OK storyai [Writing Tools, Entertainment, AI Tools]
+[26/32] FAIL(no-data) https://www.together.ai
+[27/32] FAIL(no-data) https://www.upwork.com
+fetchItem, url: https://www.visily.ai mergedData: {
+  link: 'https://www.visily.ai',
+  name: 'visily',
+  description: 'Visily is an AI-powered UI design tool that enables teams to quickly create high-fidelity wireframes and interactive prototypes with zero learning curve.',
+  introduction: 'Visily is an advanced AI-powered UI design software built to streamline the product design process for designers, product managers, and developers. By combining intelligent AI features with an intuitive drag-and-drop interface, Visily helps users transform text prompts, sketches, or screenshots into high-fidelity wireframes and interactive prototypes in minutes.\n' +
+    '\n' +
+    '### Key Features\n' +
+    '- **AI UI Generator**: Generate screen layouts and wireframes directly from natural language prompts, hand-drawn sketches, or app screenshots.\n' +
+    '- **Rich Component Library**: Access an extensive library of pre-built UI components, design templates, and customizable themes.\n' +
+    '- **Interactive Prototyping**: Easily connect screens and create interactive user flows without writing any code.\n' +
+    '- **Real-time Collaboration**: Work together with team members on the same canvas with live editing and commenting.\n' +
+    '- **Seamless Export Options**: Export design assets to Figma or standard graphic formats for downstream development.\n' +
+    '\n' +
+    '### Practical Applications\n' +
+    'Visily is ideal for software product teams, startup founders, UI/UX designers, and business analysts who need to rapidly conceptualize, prototype, and test digital product ideas.',
+  categories: [ 'Design Tools', 'AI Tools' ],
+  tags: [ 'AI', 'Productivity', 'No Code' ],
+  image: 'https://www.visily.ai/wp-content/uploads/2025/08/OG-1-1.png',
+  icon: 'https://icons.duckduckgo.com/ip3/www.visily.ai.ico'
+}
+[28/32] FAIL(no-data) https://vimeo.com/features/vimeo-ai
+[29/32] OK visily [Design Tools, AI Tools]
+[30/32] FAIL(no-data) https://vizard.ai
+[31/32] FAIL(no-data) https://wirestock.io
+[32/32] FAIL(no-data) https://www.wolframalpha.com
+importItems done: ok=15, fail=17

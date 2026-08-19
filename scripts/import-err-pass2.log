@@ -1,0 +1,1536 @@
+fetchItemWithMicrolink, Error processing url for https://civitai.com: Error [MicrolinkError]: ERATE, Your daily rate limit has been reached. Upgrade to a PRO plan.
+    at new Error (D:/WorkDev/github_repositories/mkdirs/node_modules/.pnpm/whoops@4.1.7/node_modules/whoops/src/create-extend-error.js:11:19)
+    at fetchFromApi (D:/WorkDev/github_repositories/mkdirs/node_modules/.pnpm/@microlink+mql@0.13.12/node_modules/@microlink/mql/src/factory.js:89:13)
+    at async fetchItemWithMicrolink (D:/WorkDev/github_repositories/mkdirs/scripts/batch-item.ts:175:22)
+    at async fetchItem (D:/WorkDev/github_repositories/mkdirs/scripts/batch-item.ts:116:25)
+    at async worker (D:/WorkDev/github_repositories/mkdirs/scripts/batch-item.ts:435:22)
+    at async Promise.all (index 1)
+    at async importItems (D:/WorkDev/github_repositories/mkdirs/scripts/batch-item.ts:515:3)
+    at async runOperation (D:/WorkDev/github_repositories/mkdirs/scripts/batch-item.ts:561:7) {
+  status: 'fail',
+  code: 'ERATE',
+  more: 'https://microlink.io/erate',
+  url: 'https://api.microlink.io/?url=https%3A%2F%2Fcivitai.com',
+  statusCode: 429,
+  headers: {
+    date: 'Tue, 18 Aug 2026 22:30:48 GMT',
+    'content-type': 'application/json; charset=utf-8',
+    'content-length': '138',
+    connection: 'keep-alive',
+    'x-amzn-remapped-date': 'Tue, 18 Aug 2026 22:30:48 GMT',
+    'x-amzn-requestid': '3db96b1a-b929-4229-b346-a3a311ccc216',
+    'x-dns-prefetch-control': 'off',
+    'referrer-policy': 'no-referrer',
+    'x-permitted-cross-domain-policies': 'none',
+    'x-xss-protection': '0',
+    'access-control-allow-origin': '*',
+    'x-response-time': '2ms',
+    'x-pricing-plan': 'free',
+    'x-rate-limit-reset': '1787171774',
+    'content-encoding': 'gzip',
+    'strict-transport-security': 'max-age=31536000; includeSubDomains',
+    'x-region': 'iad',
+    'x-amzn-remapped-content-length': '143',
+    'x-robots-tag': 'noindex, nofollow, nosnippet',
+    'content-security-policy': "default-src 'self';base-uri 'self';font-src 'self' https: data:;form-action 'self';img-src 'self' data:;object-src 'none';script-src 'self';script-src-attr 'none';style-src 'self' https: 'unsafe-inline';upgrade-insecure-requests",
+    'origin-agent-cluster': '?1',
+    'x-rate-limit-remaining': '0',
+    'x-amzn-remapped-connection': 'keep-alive',
+    'cross-origin-opener-policy': 'same-origin',
+    'x-download-options': 'noopen',
+    'x-request-id': 'iad:ed5e1ff1-0ed9-4d1a-857f-0dc27743b6f3',
+    'x-rate-limit-limit': '25',
+    'x-amz-apigw-id': 'CUd71EZ2oAMEJlg=',
+    'x-content-type-options': 'nosniff',
+    'server-timing': 'total;dur=2',
+    'x-client-ip': '120.235.162.24',
+    'access-control-expose-headers': 'server-timing,x-cache-stale-ttl,x-cache-status,x-cache-ttl,x-cache-ttl,x-fetch-mode,x-fetch-time,x-pricing-plan,x-rate-limit-limit,x-rate-limit-remaining,x-rate-limit-reset,x-region,x-request-id,x-response-time,x-timestamp',
+    'x-cache': 'Error from cloudfront',
+    via: '1.1 18c50b82118fb5135bce2ab6ce5a9b9a.cloudfront.net (CloudFront)',
+    'x-amz-cf-pop': 'SEA900-P5',
+    'x-amz-cf-id': 'Drp4AdUTxAyHTnr7lfG0hkswMs8Llcnzaz-oCLIXnNU_9bGgWMxcjg==',
+    'cf-cache-status': 'BYPASS',
+    vary: 'accept-encoding',
+    nel: '{"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}',
+    'report-to': '{"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=XZHJjpL275NtqqWHSqCbWZ6afgLrHV1MonnPcLFUoTBLmBM4NEmGoHWv8Zj1%2F%2BYPCVLdtcaZrcOJCCVOtqOdOnlJjCHL9KN2A7WLRRKOXQ6ZN1cW%2BBCX1YmfeyyOExhw8Eo%3D"}]}',
+    server: 'cloudflare',
+    'cf-ray': 'a2d45d755b62e7f7-SEA',
+    'alt-svc': 'h3=":443"; ma=86400'
+  },
+  description: 'Your daily rate limit has been reached. Upgrade to a PRO plan.'
+}
+fetchItemWithAISdk, Error processing url for https://character.ai: request to https://character.ai/ failed, reason: connect ETIMEDOUT 199.16.156.75:443
+fetchItem: aisdkData is null, url: https://character.ai
+fetchItemWithAISdk, Error processing url for https://civitai.com: request to https://civitai.com/ failed, reason: connect ETIMEDOUT 69.162.134.178:443
+fetchItem: aisdkData is null, url: https://civitai.com
+fetchItemWithMicrolink, Error processing url for https://claude.com: Error [MicrolinkError]: ERATE, Your daily rate limit has been reached. Upgrade to a PRO plan.
+    at new Error (D:/WorkDev/github_repositories/mkdirs/node_modules/.pnpm/whoops@4.1.7/node_modules/whoops/src/create-extend-error.js:11:19)
+    at fetchFromApi (D:/WorkDev/github_repositories/mkdirs/node_modules/.pnpm/@microlink+mql@0.13.12/node_modules/@microlink/mql/src/factory.js:89:13)
+    at async fetchItemWithMicrolink (D:/WorkDev/github_repositories/mkdirs/scripts/batch-item.ts:175:22)
+    at async fetchItem (D:/WorkDev/github_repositories/mkdirs/scripts/batch-item.ts:116:25)
+    at async worker (D:/WorkDev/github_repositories/mkdirs/scripts/batch-item.ts:435:22)
+    at async Promise.all (index 0)
+    at async importItems (D:/WorkDev/github_repositories/mkdirs/scripts/batch-item.ts:515:3)
+    at async runOperation (D:/WorkDev/github_repositories/mkdirs/scripts/batch-item.ts:561:7) {
+  status: 'fail',
+  code: 'ERATE',
+  more: 'https://microlink.io/erate',
+  url: 'https://api.microlink.io/?url=https%3A%2F%2Fclaude.com',
+  statusCode: 429,
+  headers: {
+    date: 'Tue, 18 Aug 2026 22:31:10 GMT',
+    'content-type': 'application/json; charset=utf-8',
+    'content-length': '138',
+    connection: 'keep-alive',
+    'x-amzn-remapped-date': 'Tue, 18 Aug 2026 22:31:10 GMT',
+    'x-amzn-requestid': 'c5977ee0-3140-4ee0-8d01-1a0d420bcba4',
+    'x-dns-prefetch-control': 'off',
+    'referrer-policy': 'no-referrer',
+    'x-permitted-cross-domain-policies': 'none',
+    'x-xss-protection': '0',
+    'access-control-allow-origin': '*',
+    'x-response-time': '3ms',
+    'x-pricing-plan': 'free',
+    'x-rate-limit-reset': '1787171774',
+    'content-encoding': 'gzip',
+    'strict-transport-security': 'max-age=31536000; includeSubDomains',
+    'x-region': 'iad',
+    'x-amzn-remapped-content-length': '143',
+    'x-robots-tag': 'noindex, nofollow, nosnippet',
+    'content-security-policy': "default-src 'self';base-uri 'self';font-src 'self' https: data:;form-action 'self';img-src 'self' data:;object-src 'none';script-src 'self';script-src-attr 'none';style-src 'self' https: 'unsafe-inline';upgrade-insecure-requests",
+    'origin-agent-cluster': '?1',
+    'x-rate-limit-remaining': '0',
+    'x-amzn-remapped-connection': 'keep-alive',
+    'cross-origin-opener-policy': 'same-origin',
+    'x-download-options': 'noopen',
+    'x-request-id': 'iad:74af32a5-0020-49fe-a6ea-840ac3e3b339',
+    'x-rate-limit-limit': '25',
+    'x-amz-apigw-id': 'CUd_YGr6oAMEX1A=',
+    'x-content-type-options': 'nosniff',
+    'server-timing': 'total;dur=3',
+    'x-client-ip': '120.235.162.24',
+    'access-control-expose-headers': 'server-timing,x-cache-stale-ttl,x-cache-status,x-cache-ttl,x-cache-ttl,x-fetch-mode,x-fetch-time,x-pricing-plan,x-rate-limit-limit,x-rate-limit-remaining,x-rate-limit-reset,x-region,x-request-id,x-response-time,x-timestamp',
+    'x-cache': 'Error from cloudfront',
+    via: '1.1 49e5a5770577a9e2e523f98b1849f914.cloudfront.net (CloudFront)',
+    'x-amz-cf-pop': 'SEA900-P5',
+    'x-amz-cf-id': 'CJjcCO8cXELFJvIBoDxNJOoKdHDUjypqjaj4uI2SN4We4XhvRLsfcQ==',
+    'cf-cache-status': 'BYPASS',
+    vary: 'accept-encoding',
+    nel: '{"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}',
+    'report-to': '{"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=H9uLGZQ0OiWkTnBcbARzUyhh7qtZQPqNo0FQyusNqTVY6LWBRdasw63HYSrUInIWmB0QoaHqUa9cJxVvVN%2BvmSCDitrIzYfQQxzVFCQzlikNgEU969cgsUE1bMHbDn2%2F78k%3D"}]}',
+    server: 'cloudflare',
+    'cf-ray': 'a2d45e03184cfcac-SEA',
+    'alt-svc': 'h3=":443"; ma=86400'
+  },
+  description: 'Your daily rate limit has been reached. Upgrade to a PRO plan.'
+}
+fetchItemWithMicrolink, Error processing url for https://www.craiyon.com: Error [MicrolinkError]: ERATE, Your daily rate limit has been reached. Upgrade to a PRO plan.
+    at new Error (D:/WorkDev/github_repositories/mkdirs/node_modules/.pnpm/whoops@4.1.7/node_modules/whoops/src/create-extend-error.js:11:19)
+    at fetchFromApi (D:/WorkDev/github_repositories/mkdirs/node_modules/.pnpm/@microlink+mql@0.13.12/node_modules/@microlink/mql/src/factory.js:89:13)
+    at async fetchItemWithMicrolink (D:/WorkDev/github_repositories/mkdirs/scripts/batch-item.ts:175:22)
+    at async fetchItem (D:/WorkDev/github_repositories/mkdirs/scripts/batch-item.ts:116:25)
+    at async worker (D:/WorkDev/github_repositories/mkdirs/scripts/batch-item.ts:435:22)
+    at async Promise.all (index 1)
+    at async importItems (D:/WorkDev/github_repositories/mkdirs/scripts/batch-item.ts:515:3)
+    at async runOperation (D:/WorkDev/github_repositories/mkdirs/scripts/batch-item.ts:561:7) {
+  status: 'fail',
+  code: 'ERATE',
+  more: 'https://microlink.io/erate',
+  url: 'https://api.microlink.io/?url=https%3A%2F%2Fwww.craiyon.com',
+  statusCode: 429,
+  headers: {
+    date: 'Tue, 18 Aug 2026 22:31:14 GMT',
+    'content-type': 'application/json; charset=utf-8',
+    'content-length': '138',
+    connection: 'keep-alive',
+    'x-amzn-remapped-date': 'Tue, 18 Aug 2026 22:31:14 GMT',
+    'x-amzn-requestid': 'd5fe3bdd-26b8-4537-beaa-c74c2149f8b5',
+    'x-dns-prefetch-control': 'off',
+    'referrer-policy': 'no-referrer',
+    'x-permitted-cross-domain-policies': 'none',
+    'x-xss-protection': '0',
+    'access-control-allow-origin': '*',
+    'x-response-time': '2ms',
+    'x-pricing-plan': 'free',
+    'x-rate-limit-reset': '1787171774',
+    'content-encoding': 'gzip',
+    'strict-transport-security': 'max-age=31536000; includeSubDomains',
+    'x-region': 'iad',
+    'x-amzn-remapped-content-length': '143',
+    'x-robots-tag': 'noindex, nofollow, nosnippet',
+    'content-security-policy': "default-src 'self';base-uri 'self';font-src 'self' https: data:;form-action 'self';img-src 'self' data:;object-src 'none';script-src 'self';script-src-attr 'none';style-src 'self' https: 'unsafe-inline';upgrade-insecure-requests",
+    'origin-agent-cluster': '?1',
+    'x-rate-limit-remaining': '0',
+    'x-amzn-remapped-connection': 'keep-alive',
+    'cross-origin-opener-policy': 'same-origin',
+    'x-download-options': 'noopen',
+    'x-request-id': 'iad:682de208-2f23-400a-b77e-64c281c0dfd9',
+    'x-rate-limit-limit': '25',
+    'x-amz-apigw-id': 'CUd_5EZdIAMEbgg=',
+    'x-content-type-options': 'nosniff',
+    'server-timing': 'total;dur=2',
+    'x-client-ip': '120.235.162.24',
+    'access-control-expose-headers': 'server-timing,x-cache-stale-ttl,x-cache-status,x-cache-ttl,x-cache-ttl,x-fetch-mode,x-fetch-time,x-pricing-plan,x-rate-limit-limit,x-rate-limit-remaining,x-rate-limit-reset,x-region,x-request-id,x-response-time,x-timestamp',
+    'x-cache': 'Error from cloudfront',
+    via: '1.1 3401a77bb2c18effb6138333cd3b081e.cloudfront.net (CloudFront)',
+    'x-amz-cf-pop': 'SEA900-P5',
+    'x-amz-cf-id': 'W1CW3bN93wUTAQy35o_pHoJo6nR6DyVEZBkW3MpbnA9KN-3yHrfaiw==',
+    'cf-cache-status': 'BYPASS',
+    vary: 'accept-encoding',
+    nel: '{"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}',
+    'report-to': '{"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=T0HqNpivVWAHilJvDcEmnTpeJ1uSpSVoTqFLBDY0ZyMlVA9kMCyXykxngokEfdh0TpLHxtY2lu%2BxfLjrSpl9JadXZhXw3j19knbkefiHtePLPKqxlDEhIwupQSumWioRl0I%3D"}]}',
+    server: 'cloudflare',
+    'cf-ray': 'a2d45e17a933fcac-SEA',
+    'alt-svc': 'h3=":443"; ma=86400'
+  },
+  description: 'Your daily rate limit has been reached. Upgrade to a PRO plan.'
+}
+fetchItemWithAISdk, Error processing url for https://claude.com: request to https://claude.com/ failed, reason: connect ETIMEDOUT 128.242.245.93:443
+fetchItem: aisdkData is null, url: https://claude.com
+fetchItemWithAISdk, Error processing url for https://www.craiyon.com: request to https://www.craiyon.com/ failed, reason: connect ETIMEDOUT 157.240.10.36:443
+fetchItem: aisdkData is null, url: https://www.craiyon.com
+fetchItemWithMicrolink, Error processing url for https://cursor.com: Error [MicrolinkError]: ERATE, Your daily rate limit has been reached. Upgrade to a PRO plan.
+    at new Error (D:/WorkDev/github_repositories/mkdirs/node_modules/.pnpm/whoops@4.1.7/node_modules/whoops/src/create-extend-error.js:11:19)
+    at fetchFromApi (D:/WorkDev/github_repositories/mkdirs/node_modules/.pnpm/@microlink+mql@0.13.12/node_modules/@microlink/mql/src/factory.js:89:13)
+    at async fetchItemWithMicrolink (D:/WorkDev/github_repositories/mkdirs/scripts/batch-item.ts:175:22)
+    at async fetchItem (D:/WorkDev/github_repositories/mkdirs/scripts/batch-item.ts:116:25)
+    at async worker (D:/WorkDev/github_repositories/mkdirs/scripts/batch-item.ts:435:22)
+    at async Promise.all (index 0)
+    at async importItems (D:/WorkDev/github_repositories/mkdirs/scripts/batch-item.ts:515:3)
+    at async runOperation (D:/WorkDev/github_repositories/mkdirs/scripts/batch-item.ts:561:7) {
+  status: 'fail',
+  code: 'ERATE',
+  more: 'https://microlink.io/erate',
+  url: 'https://api.microlink.io/?url=https%3A%2F%2Fcursor.com',
+  statusCode: 429,
+  headers: {
+    date: 'Tue, 18 Aug 2026 22:31:37 GMT',
+    'content-type': 'application/json; charset=utf-8',
+    'content-length': '138',
+    connection: 'keep-alive',
+    'x-amzn-remapped-date': 'Tue, 18 Aug 2026 22:31:37 GMT',
+    'x-amzn-requestid': 'a21ccfc3-7bf8-4a48-85df-83e3f1f729d8',
+    'x-dns-prefetch-control': 'off',
+    'referrer-policy': 'no-referrer',
+    'x-permitted-cross-domain-policies': 'none',
+    'x-xss-protection': '0',
+    'access-control-allow-origin': '*',
+    'x-response-time': '2ms',
+    'x-pricing-plan': 'free',
+    'x-rate-limit-reset': '1787171774',
+    'content-encoding': 'gzip',
+    'strict-transport-security': 'max-age=31536000; includeSubDomains',
+    'x-region': 'iad',
+    'x-amzn-remapped-content-length': '143',
+    'x-robots-tag': 'noindex, nofollow, nosnippet',
+    'content-security-policy': "default-src 'self';base-uri 'self';font-src 'self' https: data:;form-action 'self';img-src 'self' data:;object-src 'none';script-src 'self';script-src-attr 'none';style-src 'self' https: 'unsafe-inline';upgrade-insecure-requests",
+    'origin-agent-cluster': '?1',
+    'x-rate-limit-remaining': '0',
+    'x-amzn-remapped-connection': 'keep-alive',
+    'cross-origin-opener-policy': 'same-origin',
+    'x-download-options': 'noopen',
+    'x-request-id': 'iad:1418f849-31ed-45e5-b671-5e2494b0ffb2',
+    'x-rate-limit-limit': '25',
+    'x-amz-apigw-id': 'CUeDhGaloAMECdA=',
+    'x-content-type-options': 'nosniff',
+    'server-timing': 'total;dur=2',
+    'x-client-ip': '120.235.162.24',
+    'access-control-expose-headers': 'server-timing,x-cache-stale-ttl,x-cache-status,x-cache-ttl,x-cache-ttl,x-fetch-mode,x-fetch-time,x-pricing-plan,x-rate-limit-limit,x-rate-limit-remaining,x-rate-limit-reset,x-region,x-request-id,x-response-time,x-timestamp',
+    'x-cache': 'Error from cloudfront',
+    via: '1.1 ccd80bade77fd2bbb09f5b5036b4b632.cloudfront.net (CloudFront)',
+    'x-amz-cf-pop': 'SEA900-P5',
+    'x-amz-cf-id': 'Inb9LcvAciYiMrNTUq1Jf7xNapTMMvgW3R7iQD-nnFdSTM8sDqgdBw==',
+    'cf-cache-status': 'BYPASS',
+    vary: 'accept-encoding',
+    nel: '{"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}',
+    'report-to': '{"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=G7Gw%2B7B%2BOKv7M6wBRIRUcUNK5xtsOvRzdMl3qChwJ2V1cglnKOFYi1kfbT9CnDKLXDimTjdFjpd5MV2qMT6Nkpz3sSE7LHqg2oPPpuVhXbzO%2FhcK8G95USjYWuN1OkXP59g%3D"}]}',
+    server: 'cloudflare',
+    'cf-ray': 'a2d45ea97d9c629c-SEA',
+    'alt-svc': 'h3=":443"; ma=86400'
+  },
+  description: 'Your daily rate limit has been reached. Upgrade to a PRO plan.'
+}
+fetchItemWithMicrolink, Error processing url for https://www.glean.com: Error [MicrolinkError]: ERATE, Your daily rate limit has been reached. Upgrade to a PRO plan.
+    at new Error (D:/WorkDev/github_repositories/mkdirs/node_modules/.pnpm/whoops@4.1.7/node_modules/whoops/src/create-extend-error.js:11:19)
+    at fetchFromApi (D:/WorkDev/github_repositories/mkdirs/node_modules/.pnpm/@microlink+mql@0.13.12/node_modules/@microlink/mql/src/factory.js:89:13)
+    at async fetchItemWithMicrolink (D:/WorkDev/github_repositories/mkdirs/scripts/batch-item.ts:175:22)
+    at async fetchItem (D:/WorkDev/github_repositories/mkdirs/scripts/batch-item.ts:116:25)
+    at async worker (D:/WorkDev/github_repositories/mkdirs/scripts/batch-item.ts:435:22)
+    at async Promise.all (index 1)
+    at async importItems (D:/WorkDev/github_repositories/mkdirs/scripts/batch-item.ts:515:3)
+    at async runOperation (D:/WorkDev/github_repositories/mkdirs/scripts/batch-item.ts:561:7) {
+  status: 'fail',
+  code: 'ERATE',
+  more: 'https://microlink.io/erate',
+  url: 'https://api.microlink.io/?url=https%3A%2F%2Fwww.glean.com',
+  statusCode: 429,
+  headers: {
+    date: 'Tue, 18 Aug 2026 22:31:40 GMT',
+    'content-type': 'application/json; charset=utf-8',
+    'content-length': '138',
+    connection: 'keep-alive',
+    'x-amzn-remapped-date': 'Tue, 18 Aug 2026 22:31:40 GMT',
+    'x-amzn-requestid': '8c1c79a6-c273-48a0-88e6-873b0542c5d8',
+    'x-dns-prefetch-control': 'off',
+    'referrer-policy': 'no-referrer',
+    'x-permitted-cross-domain-policies': 'none',
+    'x-xss-protection': '0',
+    'access-control-allow-origin': '*',
+    'x-response-time': '3ms',
+    'x-pricing-plan': 'free',
+    'x-rate-limit-reset': '1787171774',
+    'content-encoding': 'gzip',
+    'strict-transport-security': 'max-age=31536000; includeSubDomains',
+    'x-region': 'iad',
+    'x-amzn-remapped-content-length': '143',
+    'x-robots-tag': 'noindex, nofollow, nosnippet',
+    'content-security-policy': "default-src 'self';base-uri 'self';font-src 'self' https: data:;form-action 'self';img-src 'self' data:;object-src 'none';script-src 'self';script-src-attr 'none';style-src 'self' https: 'unsafe-inline';upgrade-insecure-requests",
+    'origin-agent-cluster': '?1',
+    'x-rate-limit-remaining': '0',
+    'x-amzn-remapped-connection': 'keep-alive',
+    'cross-origin-opener-policy': 'same-origin',
+    'x-download-options': 'noopen',
+    'x-request-id': 'iad:16185ee0-e964-4939-bc10-575ff4d56a2e',
+    'x-rate-limit-limit': '25',
+    'x-amz-apigw-id': 'CUeD9FiZIAMEfCg=',
+    'x-content-type-options': 'nosniff',
+    'server-timing': 'total;dur=3',
+    'x-client-ip': '120.235.162.24',
+    'access-control-expose-headers': 'server-timing,x-cache-stale-ttl,x-cache-status,x-cache-ttl,x-cache-ttl,x-fetch-mode,x-fetch-time,x-pricing-plan,x-rate-limit-limit,x-rate-limit-remaining,x-rate-limit-reset,x-region,x-request-id,x-response-time,x-timestamp',
+    'x-cache': 'Error from cloudfront',
+    via: '1.1 9d24fb6901704d681d826c5ee6d59ba8.cloudfront.net (CloudFront)',
+    'x-amz-cf-pop': 'SEA900-P5',
+    'x-amz-cf-id': '5wWmUOpn5EGzmdtV_h-NvTfg865s9epVsPu8Vws3bMhuVpHg7TSqyw==',
+    'cf-cache-status': 'BYPASS',
+    vary: 'accept-encoding',
+    nel: '{"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}',
+    'report-to': '{"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=Y7bn8J8W%2FbPMSfosVb7U63djnnoDrP66dwKnQtxJj3o%2BJvA3hsjwY3QRcz%2B60oAqUIUYSaq4ggMMXg9OaRtdzE3%2F0mAkC7BhKMu5WKfuLoWHnjcOPdPpiHHSzxIcC27kc7Q%3D"}]}',
+    server: 'cloudflare',
+    'cf-ray': 'a2d45eba7e197cc8-SEA',
+    'alt-svc': 'h3=":443"; ma=86400'
+  },
+  description: 'Your daily rate limit has been reached. Upgrade to a PRO plan.'
+}
+fetchItemWithAISdk: failed after 3 attempts for https://cursor.com: empty content, raw: {"error":{"message":"[antigravity/gemini-3.6-flash-high] All antigravity accounts have exhausted their quota (reset after 5m)"}}
+fetchItem: aisdkData is null, url: https://cursor.com
+fetchItemWithAISdk: failed after 3 attempts for https://www.glean.com: empty content, raw: {"error":{"message":"[antigravity/gemini-3.6-flash-high] All antigravity accounts have exhausted their quota (reset after 5m)"}}
+fetchItem: aisdkData is null, url: https://www.glean.com
+fetchItemWithMicrolink, Error processing url for https://www.heygen.com: Error [MicrolinkError]: ERATE, Your daily rate limit has been reached. Upgrade to a PRO plan.
+    at new Error (D:/WorkDev/github_repositories/mkdirs/node_modules/.pnpm/whoops@4.1.7/node_modules/whoops/src/create-extend-error.js:11:19)
+    at fetchFromApi (D:/WorkDev/github_repositories/mkdirs/node_modules/.pnpm/@microlink+mql@0.13.12/node_modules/@microlink/mql/src/factory.js:89:13)
+    at async fetchItemWithMicrolink (D:/WorkDev/github_repositories/mkdirs/scripts/batch-item.ts:175:22)
+    at async fetchItem (D:/WorkDev/github_repositories/mkdirs/scripts/batch-item.ts:116:25)
+    at async worker (D:/WorkDev/github_repositories/mkdirs/scripts/batch-item.ts:435:22)
+    at async Promise.all (index 0)
+    at async importItems (D:/WorkDev/github_repositories/mkdirs/scripts/batch-item.ts:515:3)
+    at async runOperation (D:/WorkDev/github_repositories/mkdirs/scripts/batch-item.ts:561:7) {
+  status: 'fail',
+  code: 'ERATE',
+  more: 'https://microlink.io/erate',
+  url: 'https://api.microlink.io/?url=https%3A%2F%2Fwww.heygen.com',
+  statusCode: 429,
+  headers: {
+    date: 'Tue, 18 Aug 2026 22:32:42 GMT',
+    'content-type': 'application/json; charset=utf-8',
+    'content-length': '138',
+    connection: 'keep-alive',
+    'x-amzn-remapped-date': 'Tue, 18 Aug 2026 22:32:42 GMT',
+    'x-amzn-requestid': 'ddb2f2a1-e853-47e6-bace-0c0fcbf25b4a',
+    'x-dns-prefetch-control': 'off',
+    'referrer-policy': 'no-referrer',
+    'x-permitted-cross-domain-policies': 'none',
+    'x-xss-protection': '0',
+    'access-control-allow-origin': '*',
+    'x-response-time': '2ms',
+    'x-pricing-plan': 'free',
+    'x-rate-limit-reset': '1787171774',
+    'content-encoding': 'gzip',
+    'strict-transport-security': 'max-age=31536000; includeSubDomains',
+    'x-region': 'iad',
+    'x-amzn-remapped-content-length': '143',
+    'x-robots-tag': 'noindex, nofollow, nosnippet',
+    'content-security-policy': "default-src 'self';base-uri 'self';font-src 'self' https: data:;form-action 'self';img-src 'self' data:;object-src 'none';script-src 'self';script-src-attr 'none';style-src 'self' https: 'unsafe-inline';upgrade-insecure-requests",
+    'origin-agent-cluster': '?1',
+    'x-rate-limit-remaining': '0',
+    'x-amzn-remapped-connection': 'keep-alive',
+    'cross-origin-opener-policy': 'same-origin',
+    'x-download-options': 'noopen',
+    'x-request-id': 'iad:3f08b11b-00cf-4838-947d-d67f4d28e1a6',
+    'x-rate-limit-limit': '25',
+    'x-amz-apigw-id': 'CUeNwFJrIAMES9g=',
+    'x-content-type-options': 'nosniff',
+    'server-timing': 'total;dur=2',
+    'x-client-ip': '120.235.162.24',
+    'access-control-expose-headers': 'server-timing,x-cache-stale-ttl,x-cache-status,x-cache-ttl,x-cache-ttl,x-fetch-mode,x-fetch-time,x-pricing-plan,x-rate-limit-limit,x-rate-limit-remaining,x-rate-limit-reset,x-region,x-request-id,x-response-time,x-timestamp',
+    'x-cache': 'Error from cloudfront',
+    via: '1.1 6ce71f2acae797baa15cbac520b237a2.cloudfront.net (CloudFront)',
+    'x-amz-cf-pop': 'SEA900-P5',
+    'x-amz-cf-id': 'uEGpdxUdNg0tokuUSwt7Ur6wY2IeZwanHouhxc1wcYiRpbi3sH5IBg==',
+    'cf-cache-status': 'BYPASS',
+    vary: 'accept-encoding',
+    nel: '{"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}',
+    'report-to': '{"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=EhdF1wnC77ZUOiwbCfc%2FXDRBrQ9ogMbSMEJpZtP1y9khMtdSPFbXVy6P5%2FoYisdvEGN%2Fi%2B7rZFT4gXpyL7qdjdQrRvbfeAIP3Omix6t1eXsrJv8m6Rm%2Btke2FCIyX5MxOts%3D"}]}',
+    server: 'cloudflare',
+    'cf-ray': 'a2d460422c935100-SEA',
+    'alt-svc': 'h3=":443"; ma=86400'
+  },
+  description: 'Your daily rate limit has been reached. Upgrade to a PRO plan.'
+}
+fetchItemWithMicrolink, Error processing url for https://insight7.io: Error [MicrolinkError]: ERATE, Your daily rate limit has been reached. Upgrade to a PRO plan.
+    at new Error (D:/WorkDev/github_repositories/mkdirs/node_modules/.pnpm/whoops@4.1.7/node_modules/whoops/src/create-extend-error.js:11:19)
+    at fetchFromApi (D:/WorkDev/github_repositories/mkdirs/node_modules/.pnpm/@microlink+mql@0.13.12/node_modules/@microlink/mql/src/factory.js:89:13)
+    at async fetchItemWithMicrolink (D:/WorkDev/github_repositories/mkdirs/scripts/batch-item.ts:175:22)
+    at async fetchItem (D:/WorkDev/github_repositories/mkdirs/scripts/batch-item.ts:116:25)
+    at async worker (D:/WorkDev/github_repositories/mkdirs/scripts/batch-item.ts:435:22)
+    at async Promise.all (index 1)
+    at async importItems (D:/WorkDev/github_repositories/mkdirs/scripts/batch-item.ts:515:3)
+    at async runOperation (D:/WorkDev/github_repositories/mkdirs/scripts/batch-item.ts:561:7) {
+  status: 'fail',
+  code: 'ERATE',
+  more: 'https://microlink.io/erate',
+  url: 'https://api.microlink.io/?url=https%3A%2F%2Finsight7.io',
+  statusCode: 429,
+  headers: {
+    date: 'Tue, 18 Aug 2026 22:32:46 GMT',
+    'content-type': 'application/json; charset=utf-8',
+    'content-length': '138',
+    connection: 'keep-alive',
+    'x-amzn-remapped-date': 'Tue, 18 Aug 2026 22:32:46 GMT',
+    'x-amzn-requestid': '9c4900b2-eb2a-44db-b8f3-9e20fc301911',
+    'x-dns-prefetch-control': 'off',
+    'referrer-policy': 'no-referrer',
+    'x-permitted-cross-domain-policies': 'none',
+    'x-xss-protection': '0',
+    'access-control-allow-origin': '*',
+    'x-response-time': '2ms',
+    'x-pricing-plan': 'free',
+    'x-rate-limit-reset': '1787171774',
+    'content-encoding': 'gzip',
+    'strict-transport-security': 'max-age=31536000; includeSubDomains',
+    'x-region': 'iad',
+    'x-amzn-remapped-content-length': '143',
+    'x-robots-tag': 'noindex, nofollow, nosnippet',
+    'content-security-policy': "default-src 'self';base-uri 'self';font-src 'self' https: data:;form-action 'self';img-src 'self' data:;object-src 'none';script-src 'self';script-src-attr 'none';style-src 'self' https: 'unsafe-inline';upgrade-insecure-requests",
+    'origin-agent-cluster': '?1',
+    'x-rate-limit-remaining': '0',
+    'x-amzn-remapped-connection': 'keep-alive',
+    'cross-origin-opener-policy': 'same-origin',
+    'x-download-options': 'noopen',
+    'x-request-id': 'iad:827a9084-8fda-468c-8d83-95c78c4f1748',
+    'x-rate-limit-limit': '25',
+    'x-amz-apigw-id': 'CUeORHQ_IAMEBhQ=',
+    'x-content-type-options': 'nosniff',
+    'server-timing': 'total;dur=2',
+    'x-client-ip': '120.235.162.24',
+    'access-control-expose-headers': 'server-timing,x-cache-stale-ttl,x-cache-status,x-cache-ttl,x-cache-ttl,x-fetch-mode,x-fetch-time,x-pricing-plan,x-rate-limit-limit,x-rate-limit-remaining,x-rate-limit-reset,x-region,x-request-id,x-response-time,x-timestamp',
+    'x-cache': 'Error from cloudfront',
+    via: '1.1 3dd55c11c72ef969f5e46a679c8244ba.cloudfront.net (CloudFront)',
+    'x-amz-cf-pop': 'SEA900-P5',
+    'x-amz-cf-id': 'ByTypUaD54ZgHArrKNyQA2kWOZnZLxhd1igXKDaDbhmyIbINqEqyNw==',
+    'cf-cache-status': 'BYPASS',
+    vary: 'accept-encoding',
+    nel: '{"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}',
+    'report-to': '{"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=g%2BwvFWA8R8JTA7sCpcK%2FDRgKSNJEkxAjF7Fflbqa2y7KdMYHYWLM%2BtG%2FeMjbpmTxFc7vlRyf%2Bxgi7TkVLGNJxSoFAub63lp6pzjucDwOC5pcSZaYAafdFHPO5tKMF49%2BYJI%3D"}]}',
+    server: 'cloudflare',
+    'cf-ray': 'a2d460569b715100-SEA',
+    'alt-svc': 'h3=":443"; ma=86400'
+  },
+  description: 'Your daily rate limit has been reached. Upgrade to a PRO plan.'
+}
+fetchItemWithAISdk, Error processing url for https://insight7.io: request to https://insight7.io/ failed, reason: socket hang up
+fetchItem: aisdkData is null, url: https://insight7.io
+fetchItemWithMicrolink, Error processing url for https://invideo.io: Error [MicrolinkError]: ERATE, Your daily rate limit has been reached. Upgrade to a PRO plan.
+    at new Error (D:/WorkDev/github_repositories/mkdirs/node_modules/.pnpm/whoops@4.1.7/node_modules/whoops/src/create-extend-error.js:11:19)
+    at fetchFromApi (D:/WorkDev/github_repositories/mkdirs/node_modules/.pnpm/@microlink+mql@0.13.12/node_modules/@microlink/mql/src/factory.js:89:13)
+    at async fetchItemWithMicrolink (D:/WorkDev/github_repositories/mkdirs/scripts/batch-item.ts:175:22)
+    at async fetchItem (D:/WorkDev/github_repositories/mkdirs/scripts/batch-item.ts:116:25)
+    at async worker (D:/WorkDev/github_repositories/mkdirs/scripts/batch-item.ts:435:22)
+    at async Promise.all (index 1)
+    at async importItems (D:/WorkDev/github_repositories/mkdirs/scripts/batch-item.ts:515:3)
+    at async runOperation (D:/WorkDev/github_repositories/mkdirs/scripts/batch-item.ts:561:7) {
+  status: 'fail',
+  code: 'ERATE',
+  more: 'https://microlink.io/erate',
+  url: 'https://api.microlink.io/?url=https%3A%2F%2Finvideo.io',
+  statusCode: 429,
+  headers: {
+    date: 'Tue, 18 Aug 2026 22:32:51 GMT',
+    'content-type': 'application/json; charset=utf-8',
+    'content-length': '138',
+    connection: 'keep-alive',
+    'x-amzn-remapped-date': 'Tue, 18 Aug 2026 22:32:51 GMT',
+    'x-amzn-requestid': 'a7457c9d-1caf-45a4-92dd-62fcda8fa1b6',
+    'x-dns-prefetch-control': 'off',
+    'referrer-policy': 'no-referrer',
+    'x-permitted-cross-domain-policies': 'none',
+    'x-xss-protection': '0',
+    'access-control-allow-origin': '*',
+    'x-response-time': '2ms',
+    'x-pricing-plan': 'free',
+    'x-rate-limit-reset': '1787171774',
+    'content-encoding': 'gzip',
+    'strict-transport-security': 'max-age=31536000; includeSubDomains',
+    'x-region': 'iad',
+    'x-amzn-remapped-content-length': '143',
+    'x-robots-tag': 'noindex, nofollow, nosnippet',
+    'content-security-policy': "default-src 'self';base-uri 'self';font-src 'self' https: data:;form-action 'self';img-src 'self' data:;object-src 'none';script-src 'self';script-src-attr 'none';style-src 'self' https: 'unsafe-inline';upgrade-insecure-requests",
+    'origin-agent-cluster': '?1',
+    'x-rate-limit-remaining': '0',
+    'x-amzn-remapped-connection': 'keep-alive',
+    'cross-origin-opener-policy': 'same-origin',
+    'x-download-options': 'noopen',
+    'x-request-id': 'iad:f39a6fed-6b8c-4936-96a5-29b940c721f3',
+    'x-rate-limit-limit': '25',
+    'x-amz-apigw-id': 'CUePIG2xoAMEA9Q=',
+    'x-content-type-options': 'nosniff',
+    'server-timing': 'total;dur=2,ssrf;dur=1',
+    'x-client-ip': '120.235.162.24',
+    'access-control-expose-headers': 'server-timing,x-cache-stale-ttl,x-cache-status,x-cache-ttl,x-cache-ttl,x-fetch-mode,x-fetch-time,x-pricing-plan,x-rate-limit-limit,x-rate-limit-remaining,x-rate-limit-reset,x-region,x-request-id,x-response-time,x-timestamp',
+    'x-cache': 'Error from cloudfront',
+    via: '1.1 ab46854462c3986bd1b6e6c909d2ad6e.cloudfront.net (CloudFront)',
+    'x-amz-cf-pop': 'SEA900-P5',
+    'x-amz-cf-id': '1hqCOK0uZmPUCEoKgGLr6RYSIAvN3kRMAZPqZs5aDvBUnwcq1RNAVA==',
+    'cf-cache-status': 'BYPASS',
+    vary: 'accept-encoding',
+    nel: '{"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}',
+    'report-to': '{"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=dGJt3sOp4qjr2ybo0JFZVC4%2F%2FRcF76D%2FYOxy13p8v5dgXIv0yIXb3OuL3nsFUNuqXwZq4Kvf98c8siPT7xJQ46vMJ9gs9apraK2MVHdpHsbueb%2FupKf2JSBKWOUHvwTvbMM%3D"}]}',
+    server: 'cloudflare',
+    'cf-ray': 'a2d4607a1fd55100-SEA',
+    'alt-svc': 'h3=":443"; ma=86400'
+  },
+  description: 'Your daily rate limit has been reached. Upgrade to a PRO plan.'
+}
+fetchItemWithAISdk, Error processing url for https://www.heygen.com: request to https://www.heygen.com/ failed, reason: connect ETIMEDOUT 104.244.43.182:443
+fetchItem: aisdkData is null, url: https://www.heygen.com
+fetchItemWithMicrolink, Error processing url for https://lebesgue.io: Error [MicrolinkError]: ERATE, Your daily rate limit has been reached. Upgrade to a PRO plan.
+    at new Error (D:/WorkDev/github_repositories/mkdirs/node_modules/.pnpm/whoops@4.1.7/node_modules/whoops/src/create-extend-error.js:11:19)
+    at fetchFromApi (D:/WorkDev/github_repositories/mkdirs/node_modules/.pnpm/@microlink+mql@0.13.12/node_modules/@microlink/mql/src/factory.js:89:13)
+    at async fetchItemWithMicrolink (D:/WorkDev/github_repositories/mkdirs/scripts/batch-item.ts:175:22)
+    at async fetchItem (D:/WorkDev/github_repositories/mkdirs/scripts/batch-item.ts:116:25)
+    at async worker (D:/WorkDev/github_repositories/mkdirs/scripts/batch-item.ts:435:22)
+    at async Promise.all (index 0)
+    at async importItems (D:/WorkDev/github_repositories/mkdirs/scripts/batch-item.ts:515:3)
+    at async runOperation (D:/WorkDev/github_repositories/mkdirs/scripts/batch-item.ts:561:7) {
+  status: 'fail',
+  code: 'ERATE',
+  more: 'https://microlink.io/erate',
+  url: 'https://api.microlink.io/?url=https%3A%2F%2Flebesgue.io',
+  statusCode: 429,
+  headers: {
+    date: 'Tue, 18 Aug 2026 22:33:09 GMT',
+    'content-type': 'application/json; charset=utf-8',
+    'content-length': '138',
+    connection: 'keep-alive',
+    'x-amzn-remapped-date': 'Tue, 18 Aug 2026 22:33:09 GMT',
+    'x-amzn-requestid': '4ee3e4de-7293-4a31-92af-3406e59e59aa',
+    'x-dns-prefetch-control': 'off',
+    'referrer-policy': 'no-referrer',
+    'x-permitted-cross-domain-policies': 'none',
+    'x-xss-protection': '0',
+    'access-control-allow-origin': '*',
+    'x-response-time': '2ms',
+    'x-pricing-plan': 'free',
+    'x-rate-limit-reset': '1787171774',
+    'content-encoding': 'gzip',
+    'strict-transport-security': 'max-age=31536000; includeSubDomains',
+    'x-region': 'iad',
+    'x-amzn-remapped-content-length': '143',
+    'x-robots-tag': 'noindex, nofollow, nosnippet',
+    'content-security-policy': "default-src 'self';base-uri 'self';font-src 'self' https: data:;form-action 'self';img-src 'self' data:;object-src 'none';script-src 'self';script-src-attr 'none';style-src 'self' https: 'unsafe-inline';upgrade-insecure-requests",
+    'origin-agent-cluster': '?1',
+    'x-rate-limit-remaining': '0',
+    'x-amzn-remapped-connection': 'keep-alive',
+    'cross-origin-opener-policy': 'same-origin',
+    'x-download-options': 'noopen',
+    'x-request-id': 'iad:982b67ea-59da-4420-af13-9540834ff998',
+    'x-rate-limit-limit': '25',
+    'x-amz-apigw-id': 'CUeR4GEdoAMEdwA=',
+    'x-content-type-options': 'nosniff',
+    'server-timing': 'total;dur=2',
+    'x-client-ip': '120.235.162.24',
+    'access-control-expose-headers': 'server-timing,x-cache-stale-ttl,x-cache-status,x-cache-ttl,x-cache-ttl,x-fetch-mode,x-fetch-time,x-pricing-plan,x-rate-limit-limit,x-rate-limit-remaining,x-rate-limit-reset,x-region,x-request-id,x-response-time,x-timestamp',
+    'x-cache': 'Error from cloudfront',
+    via: '1.1 8e6570118b87577ac0e4b2d91be03f80.cloudfront.net (CloudFront)',
+    'x-amz-cf-pop': 'SEA900-P5',
+    'x-amz-cf-id': 'hZSglAEAsD3Z5U5icRgX70P_11nr017fKLf9FP9mISVV8qraJv9mNQ==',
+    'cf-cache-status': 'BYPASS',
+    vary: 'accept-encoding',
+    nel: '{"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}',
+    'report-to': '{"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=ttQIO8%2F5%2BWCtoLume4GcR9nJBXRfcv2OzzBnXNuHnAV%2BCA1nHseluoW43XT%2Bol788Hus1j48QXrdbo4dzRo734o94Ag1XjrUvjnYkAJdrSkMyWpDHEwk7MlxtkMTfhj9%2Bps%3D"}]}',
+    server: 'cloudflare',
+    'cf-ray': 'a2d460e6dc75ffeb-SEA',
+    'alt-svc': 'h3=":443"; ma=86400'
+  },
+  description: 'Your daily rate limit has been reached. Upgrade to a PRO plan.'
+}
+fetchItemWithAISdk, Error processing url for https://invideo.io: request to https://invideo.io/ failed, reason: connect ETIMEDOUT 23.225.141.210:443
+fetchItem: aisdkData is null, url: https://invideo.io
+fetchItemWithMicrolink, Error processing url for https://magicstudio.com: Error [MicrolinkError]: ERATE, Your daily rate limit has been reached. Upgrade to a PRO plan.
+    at new Error (D:/WorkDev/github_repositories/mkdirs/node_modules/.pnpm/whoops@4.1.7/node_modules/whoops/src/create-extend-error.js:11:19)
+    at fetchFromApi (D:/WorkDev/github_repositories/mkdirs/node_modules/.pnpm/@microlink+mql@0.13.12/node_modules/@microlink/mql/src/factory.js:89:13)
+    at async fetchItemWithMicrolink (D:/WorkDev/github_repositories/mkdirs/scripts/batch-item.ts:175:22)
+    at async fetchItem (D:/WorkDev/github_repositories/mkdirs/scripts/batch-item.ts:116:25)
+    at async worker (D:/WorkDev/github_repositories/mkdirs/scripts/batch-item.ts:435:22)
+    at async Promise.all (index 1)
+    at async importItems (D:/WorkDev/github_repositories/mkdirs/scripts/batch-item.ts:515:3)
+    at async runOperation (D:/WorkDev/github_repositories/mkdirs/scripts/batch-item.ts:561:7) {
+  status: 'fail',
+  code: 'ERATE',
+  more: 'https://microlink.io/erate',
+  url: 'https://api.microlink.io/?url=https%3A%2F%2Fmagicstudio.com',
+  statusCode: 429,
+  headers: {
+    date: 'Tue, 18 Aug 2026 22:33:17 GMT',
+    'content-type': 'application/json; charset=utf-8',
+    'content-length': '138',
+    connection: 'keep-alive',
+    'x-amzn-remapped-date': 'Tue, 18 Aug 2026 22:33:17 GMT',
+    'x-amzn-requestid': '8821a846-ee9d-43c3-b977-e1b2bc8ecfcd',
+    'x-dns-prefetch-control': 'off',
+    'referrer-policy': 'no-referrer',
+    'x-permitted-cross-domain-policies': 'none',
+    'x-xss-protection': '0',
+    'access-control-allow-origin': '*',
+    'x-response-time': '2ms',
+    'x-pricing-plan': 'free',
+    'x-rate-limit-reset': '1787171774',
+    'content-encoding': 'gzip',
+    'strict-transport-security': 'max-age=31536000; includeSubDomains',
+    'x-region': 'iad',
+    'x-amzn-remapped-content-length': '143',
+    'x-robots-tag': 'noindex, nofollow, nosnippet',
+    'content-security-policy': "default-src 'self';base-uri 'self';font-src 'self' https: data:;form-action 'self';img-src 'self' data:;object-src 'none';script-src 'self';script-src-attr 'none';style-src 'self' https: 'unsafe-inline';upgrade-insecure-requests",
+    'origin-agent-cluster': '?1',
+    'x-rate-limit-remaining': '0',
+    'x-amzn-remapped-connection': 'keep-alive',
+    'cross-origin-opener-policy': 'same-origin',
+    'x-download-options': 'noopen',
+    'x-request-id': 'iad:e2bc28c7-3627-465d-9d4b-f4df411340b8',
+    'x-rate-limit-limit': '25',
+    'x-amz-apigw-id': 'CUeTME-foAMECLw=',
+    'x-content-type-options': 'nosniff',
+    'server-timing': 'total;dur=2,ssrf;dur=0',
+    'x-client-ip': '120.235.162.24',
+    'access-control-expose-headers': 'server-timing,x-cache-stale-ttl,x-cache-status,x-cache-ttl,x-cache-ttl,x-fetch-mode,x-fetch-time,x-pricing-plan,x-rate-limit-limit,x-rate-limit-remaining,x-rate-limit-reset,x-region,x-request-id,x-response-time,x-timestamp',
+    'x-cache': 'Error from cloudfront',
+    via: '1.1 3dd55c11c72ef969f5e46a679c8244ba.cloudfront.net (CloudFront)',
+    'x-amz-cf-pop': 'SEA900-P5',
+    'x-amz-cf-id': 'VyT-ukxELahpwwq0MOLFmwub0NhYTq0fyuhggdqJ2osTJRFR7rramw==',
+    'cf-cache-status': 'BYPASS',
+    vary: 'accept-encoding',
+    nel: '{"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}',
+    'report-to': '{"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=oMyAM5kBsdojP5wKq6Z%2FpSTK1f29iOqRLA2tfrpYNmmG3%2BY93AFkfz6jpFA91xz8MLPjESd1Lx8SsCauVCMRrGXkseHcyvoH8kKLtVmCsWVmcv8FXlg%2BP4J4%2F%2FIBp6d%2Bv6k%3D"}]}',
+    server: 'cloudflare',
+    'cf-ray': 'a2d4611bd9f8ffeb-SEA',
+    'alt-svc': 'h3=":443"; ma=86400'
+  },
+  description: 'Your daily rate limit has been reached. Upgrade to a PRO plan.'
+}
+fetchItemWithAISdk: failed after 3 attempts for https://lebesgue.io: empty content, raw: {"error":{"message":"[antigravity/gemini-3.6-flash-high] All antigravity accounts have exhausted their quota (reset after 5m)"}}
+fetchItem: aisdkData is null, url: https://lebesgue.io
+fetchItemWithMicrolink, Error processing url for https://www.meshy.ai: Error [MicrolinkError]: ERATE, Your daily rate limit has been reached. Upgrade to a PRO plan.
+    at new Error (D:/WorkDev/github_repositories/mkdirs/node_modules/.pnpm/whoops@4.1.7/node_modules/whoops/src/create-extend-error.js:11:19)
+    at fetchFromApi (D:/WorkDev/github_repositories/mkdirs/node_modules/.pnpm/@microlink+mql@0.13.12/node_modules/@microlink/mql/src/factory.js:89:13)
+    at async fetchItemWithMicrolink (D:/WorkDev/github_repositories/mkdirs/scripts/batch-item.ts:175:22)
+    at async fetchItem (D:/WorkDev/github_repositories/mkdirs/scripts/batch-item.ts:116:25)
+    at async worker (D:/WorkDev/github_repositories/mkdirs/scripts/batch-item.ts:435:22)
+    at async Promise.all (index 0)
+    at async importItems (D:/WorkDev/github_repositories/mkdirs/scripts/batch-item.ts:515:3)
+    at async runOperation (D:/WorkDev/github_repositories/mkdirs/scripts/batch-item.ts:561:7) {
+  status: 'fail',
+  code: 'ERATE',
+  more: 'https://microlink.io/erate',
+  url: 'https://api.microlink.io/?url=https%3A%2F%2Fwww.meshy.ai',
+  statusCode: 429,
+  headers: {
+    date: 'Tue, 18 Aug 2026 22:34:15 GMT',
+    'content-type': 'application/json; charset=utf-8',
+    'content-length': '138',
+    connection: 'keep-alive',
+    'x-amzn-remapped-date': 'Tue, 18 Aug 2026 22:34:15 GMT',
+    'x-amzn-requestid': 'be3fdc52-7337-4cd4-99fe-24877117c6fc',
+    'x-dns-prefetch-control': 'off',
+    'referrer-policy': 'no-referrer',
+    'x-permitted-cross-domain-policies': 'none',
+    'x-xss-protection': '0',
+    'access-control-allow-origin': '*',
+    'x-response-time': '2ms',
+    'x-pricing-plan': 'free',
+    'x-rate-limit-reset': '1787171774',
+    'content-encoding': 'gzip',
+    'strict-transport-security': 'max-age=31536000; includeSubDomains',
+    'x-region': 'iad',
+    'x-amzn-remapped-content-length': '143',
+    'x-robots-tag': 'noindex, nofollow, nosnippet',
+    'content-security-policy': "default-src 'self';base-uri 'self';font-src 'self' https: data:;form-action 'self';img-src 'self' data:;object-src 'none';script-src 'self';script-src-attr 'none';style-src 'self' https: 'unsafe-inline';upgrade-insecure-requests",
+    'origin-agent-cluster': '?1',
+    'x-rate-limit-remaining': '0',
+    'x-amzn-remapped-connection': 'keep-alive',
+    'cross-origin-opener-policy': 'same-origin',
+    'x-download-options': 'noopen',
+    'x-request-id': 'iad:ee4934bf-c36f-443a-8540-b223aabd30d6',
+    'x-rate-limit-limit': '25',
+    'x-amz-apigw-id': 'CUecMHWuIAMEFXg=',
+    'x-content-type-options': 'nosniff',
+    'server-timing': 'total;dur=2',
+    'x-client-ip': '120.235.162.24',
+    'access-control-expose-headers': 'server-timing,x-cache-stale-ttl,x-cache-status,x-cache-ttl,x-cache-ttl,x-fetch-mode,x-fetch-time,x-pricing-plan,x-rate-limit-limit,x-rate-limit-remaining,x-rate-limit-reset,x-region,x-request-id,x-response-time,x-timestamp',
+    'x-cache': 'Error from cloudfront',
+    via: '1.1 9d24fb6901704d681d826c5ee6d59ba8.cloudfront.net (CloudFront)',
+    'x-amz-cf-pop': 'SEA900-P5',
+    'x-amz-cf-id': 'Rp4DhpSH-RvsfJ1y-2vNr4dK17VuNDOI_9gJAo3mR7_gUNRCFmBHpg==',
+    'cf-cache-status': 'BYPASS',
+    vary: 'accept-encoding',
+    nel: '{"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}',
+    'report-to': '{"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=3FdRbHy4GEAUGs7IMzjwZR0QN1gyYJqx0Z5Lv9Q%2BV%2FQFYD%2F2BlM%2FN1N0i%2FEEtwS%2BP%2F%2BkvazZ6ju0w%2F%2BIvJ1p1NKLl%2F57fW0TYVPe2dYWoeF%2FKRoFLK51N8G4R7T%2Bmky7BB0%3D"}]}',
+    server: 'cloudflare',
+    'cf-ray': 'a2d462836de8756f-SEA',
+    'alt-svc': 'h3=":443"; ma=86400'
+  },
+  description: 'Your daily rate limit has been reached. Upgrade to a PRO plan.'
+}
+fetchItemWithAISdk: failed after 3 attempts for https://magicstudio.com: empty content, raw: {"error":{"message":"[antigravity/gemini-3.6-flash-high] All antigravity accounts have exhausted their quota (reset after 5m)"}}
+fetchItem: aisdkData is null, url: https://magicstudio.com
+fetchItemWithMicrolink, Error processing url for https://www.perplexity.ai: Error [MicrolinkError]: ERATE, Your daily rate limit has been reached. Upgrade to a PRO plan.
+    at new Error (D:/WorkDev/github_repositories/mkdirs/node_modules/.pnpm/whoops@4.1.7/node_modules/whoops/src/create-extend-error.js:11:19)
+    at fetchFromApi (D:/WorkDev/github_repositories/mkdirs/node_modules/.pnpm/@microlink+mql@0.13.12/node_modules/@microlink/mql/src/factory.js:89:13)
+    at async fetchItemWithMicrolink (D:/WorkDev/github_repositories/mkdirs/scripts/batch-item.ts:175:22)
+    at async fetchItem (D:/WorkDev/github_repositories/mkdirs/scripts/batch-item.ts:116:25)
+    at async worker (D:/WorkDev/github_repositories/mkdirs/scripts/batch-item.ts:435:22)
+    at async Promise.all (index 1)
+    at async importItems (D:/WorkDev/github_repositories/mkdirs/scripts/batch-item.ts:515:3)
+    at async runOperation (D:/WorkDev/github_repositories/mkdirs/scripts/batch-item.ts:561:7) {
+  status: 'fail',
+  code: 'ERATE',
+  more: 'https://microlink.io/erate',
+  url: 'https://api.microlink.io/?url=https%3A%2F%2Fwww.perplexity.ai',
+  statusCode: 429,
+  headers: {
+    date: 'Tue, 18 Aug 2026 22:34:23 GMT',
+    'content-type': 'application/json; charset=utf-8',
+    'content-length': '138',
+    connection: 'keep-alive',
+    'x-amzn-remapped-date': 'Tue, 18 Aug 2026 22:34:22 GMT',
+    'x-amzn-requestid': 'bfd772f9-74bb-4642-9c4d-bdff00bb67a6',
+    'x-dns-prefetch-control': 'off',
+    'referrer-policy': 'no-referrer',
+    'x-permitted-cross-domain-policies': 'none',
+    'x-xss-protection': '0',
+    'access-control-allow-origin': '*',
+    'x-response-time': '2ms',
+    'x-pricing-plan': 'free',
+    'x-rate-limit-reset': '1787171774',
+    'content-encoding': 'gzip',
+    'strict-transport-security': 'max-age=31536000; includeSubDomains',
+    'x-region': 'iad',
+    'x-amzn-remapped-content-length': '143',
+    'x-robots-tag': 'noindex, nofollow, nosnippet',
+    'content-security-policy': "default-src 'self';base-uri 'self';font-src 'self' https: data:;form-action 'self';img-src 'self' data:;object-src 'none';script-src 'self';script-src-attr 'none';style-src 'self' https: 'unsafe-inline';upgrade-insecure-requests",
+    'origin-agent-cluster': '?1',
+    'x-rate-limit-remaining': '0',
+    'x-amzn-remapped-connection': 'keep-alive',
+    'cross-origin-opener-policy': 'same-origin',
+    'x-download-options': 'noopen',
+    'x-request-id': 'iad:9cd5d167-3445-4744-9c72-8d74d5d66747',
+    'x-rate-limit-limit': '25',
+    'x-amz-apigw-id': 'CUedaHb2IAMEkdw=',
+    'x-content-type-options': 'nosniff',
+    'server-timing': 'total;dur=2',
+    'x-client-ip': '120.235.162.24',
+    'access-control-expose-headers': 'server-timing,x-cache-stale-ttl,x-cache-status,x-cache-ttl,x-cache-ttl,x-fetch-mode,x-fetch-time,x-pricing-plan,x-rate-limit-limit,x-rate-limit-remaining,x-rate-limit-reset,x-region,x-request-id,x-response-time,x-timestamp',
+    'x-cache': 'Error from cloudfront',
+    via: '1.1 5f667b25f028e9a1db412b50fa0372fa.cloudfront.net (CloudFront)',
+    'x-amz-cf-pop': 'SEA900-P5',
+    'x-amz-cf-id': 'A1PdsCzmGOCq0UhgD6AW3zSpLsdq6v1GXCxBEjFCokfL88cINxUutQ==',
+    'cf-cache-status': 'BYPASS',
+    vary: 'accept-encoding',
+    nel: '{"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}',
+    'report-to': '{"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=gljpySU%2BKrmDCK1KRPbiHQ5P%2FRp9H%2BGkLDe2op9nsbz1cFAISx3zlbq7RYy6MAveysRKH2rZ3G6mn7C%2BqmQGz25SWJ8ND%2BN7ZE5%2B4uW2HGBbsUkf3oHmA9Vvy%2B49zZ2azDM%3D"}]}',
+    server: 'cloudflare',
+    'cf-ray': 'a2d462b458f8756f-SEA',
+    'alt-svc': 'h3=":443"; ma=86400'
+  },
+  description: 'Your daily rate limit has been reached. Upgrade to a PRO plan.'
+}
+fetchItemWithAISdk, Error processing url for https://www.meshy.ai: request to https://www.meshy.ai/ failed, reason: connect ETIMEDOUT 50.87.93.246:443
+fetchItem: aisdkData is null, url: https://www.meshy.ai
+fetchItemWithMicrolink, Error processing url for https://pixlr.com: Error [MicrolinkError]: ERATE, Your daily rate limit has been reached. Upgrade to a PRO plan.
+    at new Error (D:/WorkDev/github_repositories/mkdirs/node_modules/.pnpm/whoops@4.1.7/node_modules/whoops/src/create-extend-error.js:11:19)
+    at fetchFromApi (D:/WorkDev/github_repositories/mkdirs/node_modules/.pnpm/@microlink+mql@0.13.12/node_modules/@microlink/mql/src/factory.js:89:13)
+    at async fetchItemWithMicrolink (D:/WorkDev/github_repositories/mkdirs/scripts/batch-item.ts:175:22)
+    at async fetchItem (D:/WorkDev/github_repositories/mkdirs/scripts/batch-item.ts:116:25)
+    at async worker (D:/WorkDev/github_repositories/mkdirs/scripts/batch-item.ts:435:22)
+    at async Promise.all (index 0)
+    at async importItems (D:/WorkDev/github_repositories/mkdirs/scripts/batch-item.ts:515:3)
+    at async runOperation (D:/WorkDev/github_repositories/mkdirs/scripts/batch-item.ts:561:7) {
+  status: 'fail',
+  code: 'ERATE',
+  more: 'https://microlink.io/erate',
+  url: 'https://api.microlink.io/?url=https%3A%2F%2Fpixlr.com',
+  statusCode: 429,
+  headers: {
+    date: 'Tue, 18 Aug 2026 22:34:41 GMT',
+    'content-type': 'application/json; charset=utf-8',
+    'content-length': '138',
+    connection: 'keep-alive',
+    'x-amzn-remapped-date': 'Tue, 18 Aug 2026 22:34:41 GMT',
+    'x-amzn-requestid': '3f27ea3b-7475-4231-8985-5cb998abea4f',
+    'x-dns-prefetch-control': 'off',
+    'referrer-policy': 'no-referrer',
+    'x-permitted-cross-domain-policies': 'none',
+    'x-xss-protection': '0',
+    'access-control-allow-origin': '*',
+    'x-response-time': '2ms',
+    'x-pricing-plan': 'free',
+    'x-rate-limit-reset': '1787171774',
+    'content-encoding': 'gzip',
+    'strict-transport-security': 'max-age=31536000; includeSubDomains',
+    'x-region': 'iad',
+    'x-amzn-remapped-content-length': '143',
+    'x-robots-tag': 'noindex, nofollow, nosnippet',
+    'content-security-policy': "default-src 'self';base-uri 'self';font-src 'self' https: data:;form-action 'self';img-src 'self' data:;object-src 'none';script-src 'self';script-src-attr 'none';style-src 'self' https: 'unsafe-inline';upgrade-insecure-requests",
+    'origin-agent-cluster': '?1',
+    'x-rate-limit-remaining': '0',
+    'x-amzn-remapped-connection': 'keep-alive',
+    'cross-origin-opener-policy': 'same-origin',
+    'x-download-options': 'noopen',
+    'x-request-id': 'iad:cfacc079-52cc-4851-a36b-ffbd7f0f76a7',
+    'x-rate-limit-limit': '25',
+    'x-amz-apigw-id': 'CUegQEGQoAMEs0g=',
+    'x-content-type-options': 'nosniff',
+    'server-timing': 'total;dur=2',
+    'x-client-ip': '120.235.162.24',
+    'access-control-expose-headers': 'server-timing,x-cache-stale-ttl,x-cache-status,x-cache-ttl,x-cache-ttl,x-fetch-mode,x-fetch-time,x-pricing-plan,x-rate-limit-limit,x-rate-limit-remaining,x-rate-limit-reset,x-region,x-request-id,x-response-time,x-timestamp',
+    'x-cache': 'Error from cloudfront',
+    via: '1.1 7f908c32ed2ff2036a2c0fe12120ac4a.cloudfront.net (CloudFront)',
+    'x-amz-cf-pop': 'SEA900-P5',
+    'x-amz-cf-id': 'dOTLueh_lRMZ-g_BykPVY1tN2r9XUefnLMP1JKEGCXu3HLn-toGu-w==',
+    'cf-cache-status': 'BYPASS',
+    vary: 'accept-encoding',
+    nel: '{"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}',
+    'report-to': '{"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=7yqexSjP1xCpT%2F3jQV%2BzP3cWo6rVheucJAs7Gt9IxshvdcOGPwHo%2BwftdEzvRqL8tIjZcXYcBKmuVBIEu0QCaf2DF9U8sn5qFJ6rMo%2FX6F3NmJk%2BaQnsfoL5xH2NrZxvXKQ%3D"}]}',
+    server: 'cloudflare',
+    'cf-ray': 'a2d463272eb752ab-SEA',
+    'alt-svc': 'h3=":443"; ma=86400'
+  },
+  description: 'Your daily rate limit has been reached. Upgrade to a PRO plan.'
+}
+fetchItemWithAISdk, Error processing url for https://www.perplexity.ai: request to https://www.perplexity.ai/ failed, reason: connect ETIMEDOUT 199.59.149.210:443
+fetchItem: aisdkData is null, url: https://www.perplexity.ai
+fetchItemWithMicrolink, Error processing url for https://playgroundai.com: Error [MicrolinkError]: ERATE, Your daily rate limit has been reached. Upgrade to a PRO plan.
+    at new Error (D:/WorkDev/github_repositories/mkdirs/node_modules/.pnpm/whoops@4.1.7/node_modules/whoops/src/create-extend-error.js:11:19)
+    at fetchFromApi (D:/WorkDev/github_repositories/mkdirs/node_modules/.pnpm/@microlink+mql@0.13.12/node_modules/@microlink/mql/src/factory.js:89:13)
+    at async fetchItemWithMicrolink (D:/WorkDev/github_repositories/mkdirs/scripts/batch-item.ts:175:22)
+    at async fetchItem (D:/WorkDev/github_repositories/mkdirs/scripts/batch-item.ts:116:25)
+    at async worker (D:/WorkDev/github_repositories/mkdirs/scripts/batch-item.ts:435:22)
+    at async Promise.all (index 1)
+    at async importItems (D:/WorkDev/github_repositories/mkdirs/scripts/batch-item.ts:515:3)
+    at async runOperation (D:/WorkDev/github_repositories/mkdirs/scripts/batch-item.ts:561:7) {
+  status: 'fail',
+  code: 'ERATE',
+  more: 'https://microlink.io/erate',
+  url: 'https://api.microlink.io/?url=https%3A%2F%2Fplaygroundai.com',
+  statusCode: 429,
+  headers: {
+    date: 'Tue, 18 Aug 2026 22:34:48 GMT',
+    'content-type': 'application/json; charset=utf-8',
+    'content-length': '138',
+    connection: 'keep-alive',
+    'x-amzn-remapped-date': 'Tue, 18 Aug 2026 22:34:48 GMT',
+    'x-amzn-requestid': '40dd3c7e-2db1-45bd-8f7f-1220fee7d444',
+    'x-dns-prefetch-control': 'off',
+    'referrer-policy': 'no-referrer',
+    'x-permitted-cross-domain-policies': 'none',
+    'x-xss-protection': '0',
+    'access-control-allow-origin': '*',
+    'x-response-time': '2ms',
+    'x-pricing-plan': 'free',
+    'x-rate-limit-reset': '1787171774',
+    'content-encoding': 'gzip',
+    'strict-transport-security': 'max-age=31536000; includeSubDomains',
+    'x-region': 'iad',
+    'x-amzn-remapped-content-length': '143',
+    'x-robots-tag': 'noindex, nofollow, nosnippet',
+    'content-security-policy': "default-src 'self';base-uri 'self';font-src 'self' https: data:;form-action 'self';img-src 'self' data:;object-src 'none';script-src 'self';script-src-attr 'none';style-src 'self' https: 'unsafe-inline';upgrade-insecure-requests",
+    'origin-agent-cluster': '?1',
+    'x-rate-limit-remaining': '0',
+    'x-amzn-remapped-connection': 'keep-alive',
+    'cross-origin-opener-policy': 'same-origin',
+    'x-download-options': 'noopen',
+    'x-request-id': 'iad:c5abea5a-9f00-4caa-9fed-31096e7c085f',
+    'x-rate-limit-limit': '25',
+    'x-amz-apigw-id': 'CUehcEwjIAMEt3Q=',
+    'x-content-type-options': 'nosniff',
+    'server-timing': 'total;dur=2',
+    'x-client-ip': '120.235.162.24',
+    'access-control-expose-headers': 'server-timing,x-cache-stale-ttl,x-cache-status,x-cache-ttl,x-cache-ttl,x-fetch-mode,x-fetch-time,x-pricing-plan,x-rate-limit-limit,x-rate-limit-remaining,x-rate-limit-reset,x-region,x-request-id,x-response-time,x-timestamp',
+    'x-cache': 'Error from cloudfront',
+    via: '1.1 836f0dfed3818c2bc3109f08a90e9554.cloudfront.net (CloudFront)',
+    'x-amz-cf-pop': 'SEA900-P5',
+    'x-amz-cf-id': 'gxNBT5vZXhIUTAgGMyL12O3QZqMsSfSif4tKA2fhG2IKEnilPsYFVg==',
+    'cf-cache-status': 'BYPASS',
+    vary: 'accept-encoding',
+    nel: '{"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}',
+    'report-to': '{"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=Vcj2YXT5U0XHGGnT4O40An1uJpKsCWAGuU1lt4mMcBvULLS14SJ8walH18axI89In0mxTL11%2B3vC%2B0txmQLRznWHJTP5GMHpYJ34F9K%2FRa33X6jy6QeA9PaNDsJnr4Nzc08%3D"}]}',
+    server: 'cloudflare',
+    'cf-ray': 'a2d463563a2752ab-SEA',
+    'alt-svc': 'h3=":443"; ma=86400'
+  },
+  description: 'Your daily rate limit has been reached. Upgrade to a PRO plan.'
+}
+fetchItemWithAISdk, Error processing url for https://pixlr.com: request to https://pixlr.com/ failed, reason: connect ETIMEDOUT 31.13.95.18:443
+fetchItem: aisdkData is null, url: https://pixlr.com
+fetchItemWithMicrolink, Error processing url for https://www.spellbook.com: Error [MicrolinkError]: ERATE, Your daily rate limit has been reached. Upgrade to a PRO plan.
+    at new Error (D:/WorkDev/github_repositories/mkdirs/node_modules/.pnpm/whoops@4.1.7/node_modules/whoops/src/create-extend-error.js:11:19)
+    at fetchFromApi (D:/WorkDev/github_repositories/mkdirs/node_modules/.pnpm/@microlink+mql@0.13.12/node_modules/@microlink/mql/src/factory.js:89:13)
+    at async fetchItemWithMicrolink (D:/WorkDev/github_repositories/mkdirs/scripts/batch-item.ts:175:22)
+    at async fetchItem (D:/WorkDev/github_repositories/mkdirs/scripts/batch-item.ts:116:25)
+    at async worker (D:/WorkDev/github_repositories/mkdirs/scripts/batch-item.ts:435:22)
+    at async Promise.all (index 0)
+    at async importItems (D:/WorkDev/github_repositories/mkdirs/scripts/batch-item.ts:515:3)
+    at async runOperation (D:/WorkDev/github_repositories/mkdirs/scripts/batch-item.ts:561:7) {
+  status: 'fail',
+  code: 'ERATE',
+  more: 'https://microlink.io/erate',
+  url: 'https://api.microlink.io/?url=https%3A%2F%2Fwww.spellbook.com',
+  statusCode: 429,
+  headers: {
+    date: 'Tue, 18 Aug 2026 22:35:07 GMT',
+    'content-type': 'application/json; charset=utf-8',
+    'content-length': '138',
+    connection: 'keep-alive',
+    'x-amzn-remapped-date': 'Tue, 18 Aug 2026 22:35:07 GMT',
+    'x-amzn-requestid': 'cd3d531a-973a-4a4e-a3a1-8813168ac1c3',
+    'x-dns-prefetch-control': 'off',
+    'referrer-policy': 'no-referrer',
+    'x-permitted-cross-domain-policies': 'none',
+    'x-xss-protection': '0',
+    'access-control-allow-origin': '*',
+    'x-response-time': '2ms',
+    'x-pricing-plan': 'free',
+    'x-rate-limit-reset': '1787171774',
+    'content-encoding': 'gzip',
+    'strict-transport-security': 'max-age=31536000; includeSubDomains',
+    'x-region': 'iad',
+    'x-amzn-remapped-content-length': '143',
+    'x-robots-tag': 'noindex, nofollow, nosnippet',
+    'content-security-policy': "default-src 'self';base-uri 'self';font-src 'self' https: data:;form-action 'self';img-src 'self' data:;object-src 'none';script-src 'self';script-src-attr 'none';style-src 'self' https: 'unsafe-inline';upgrade-insecure-requests",
+    'origin-agent-cluster': '?1',
+    'x-rate-limit-remaining': '0',
+    'x-amzn-remapped-connection': 'keep-alive',
+    'cross-origin-opener-policy': 'same-origin',
+    'x-download-options': 'noopen',
+    'x-request-id': 'iad:65cda2c2-6cbb-4723-be29-35ed15ff451a',
+    'x-rate-limit-limit': '25',
+    'x-amz-apigw-id': 'CUekXF8IoAMEPNg=',
+    'x-content-type-options': 'nosniff',
+    'server-timing': 'total;dur=2',
+    'x-client-ip': '120.235.162.24',
+    'access-control-expose-headers': 'server-timing,x-cache-stale-ttl,x-cache-status,x-cache-ttl,x-cache-ttl,x-fetch-mode,x-fetch-time,x-pricing-plan,x-rate-limit-limit,x-rate-limit-remaining,x-rate-limit-reset,x-region,x-request-id,x-response-time,x-timestamp',
+    'x-cache': 'Error from cloudfront',
+    via: '1.1 49e5a5770577a9e2e523f98b1849f914.cloudfront.net (CloudFront)',
+    'x-amz-cf-pop': 'SEA900-P5',
+    'x-amz-cf-id': 'KnIiGa_KE8dhEKJKLDLBEqYnq6RZ996_4kJax8AvXOMi-_MM40w5HQ==',
+    'cf-cache-status': 'BYPASS',
+    vary: 'accept-encoding',
+    nel: '{"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}',
+    'report-to': '{"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=iH9XpHHpK%2FEgZd%2F4O9OCIOJ6MY0jqW8KGPYYb1MVncDec%2Fi3bP9ED4ClibKy7CilqkQJwCbOKIk8DGnuXCt%2BXwlc3%2BlKxe0jxs8WQlzBTYliwOZAji8y1tYbZEq%2BTx6DV8Y%3D"}]}',
+    server: 'cloudflare',
+    'cf-ray': 'a2d463cab94223ef-SEA',
+    'alt-svc': 'h3=":443"; ma=86400'
+  },
+  description: 'Your daily rate limit has been reached. Upgrade to a PRO plan.'
+}
+fetchItemWithAISdk, Error processing url for https://playgroundai.com: request to https://playgroundai.com/ failed, reason: connect ETIMEDOUT 65.49.26.97:443
+fetchItem: aisdkData is null, url: https://playgroundai.com
+fetchItemWithMicrolink, Error processing url for https://www.spikes.studio: Error [MicrolinkError]: ERATE, Your daily rate limit has been reached. Upgrade to a PRO plan.
+    at new Error (D:/WorkDev/github_repositories/mkdirs/node_modules/.pnpm/whoops@4.1.7/node_modules/whoops/src/create-extend-error.js:11:19)
+    at fetchFromApi (D:/WorkDev/github_repositories/mkdirs/node_modules/.pnpm/@microlink+mql@0.13.12/node_modules/@microlink/mql/src/factory.js:89:13)
+    at async fetchItemWithMicrolink (D:/WorkDev/github_repositories/mkdirs/scripts/batch-item.ts:175:22)
+    at async fetchItem (D:/WorkDev/github_repositories/mkdirs/scripts/batch-item.ts:116:25)
+    at async worker (D:/WorkDev/github_repositories/mkdirs/scripts/batch-item.ts:435:22)
+    at async Promise.all (index 1)
+    at async importItems (D:/WorkDev/github_repositories/mkdirs/scripts/batch-item.ts:515:3)
+    at async runOperation (D:/WorkDev/github_repositories/mkdirs/scripts/batch-item.ts:561:7) {
+  status: 'fail',
+  code: 'ERATE',
+  more: 'https://microlink.io/erate',
+  url: 'https://api.microlink.io/?url=https%3A%2F%2Fwww.spikes.studio',
+  statusCode: 429,
+  headers: {
+    date: 'Tue, 18 Aug 2026 22:35:15 GMT',
+    'content-type': 'application/json; charset=utf-8',
+    'content-length': '138',
+    connection: 'keep-alive',
+    'x-amzn-remapped-date': 'Tue, 18 Aug 2026 22:35:14 GMT',
+    'x-amzn-requestid': '306e155c-73ef-40f3-b0dd-a1f91f52ad63',
+    'x-dns-prefetch-control': 'off',
+    'referrer-policy': 'no-referrer',
+    'x-permitted-cross-domain-policies': 'none',
+    'x-xss-protection': '0',
+    'access-control-allow-origin': '*',
+    'x-response-time': '3ms',
+    'x-pricing-plan': 'free',
+    'x-rate-limit-reset': '1787171774',
+    'content-encoding': 'gzip',
+    'strict-transport-security': 'max-age=31536000; includeSubDomains',
+    'x-region': 'iad',
+    'x-amzn-remapped-content-length': '143',
+    'x-robots-tag': 'noindex, nofollow, nosnippet',
+    'content-security-policy': "default-src 'self';base-uri 'self';font-src 'self' https: data:;form-action 'self';img-src 'self' data:;object-src 'none';script-src 'self';script-src-attr 'none';style-src 'self' https: 'unsafe-inline';upgrade-insecure-requests",
+    'origin-agent-cluster': '?1',
+    'x-rate-limit-remaining': '0',
+    'x-amzn-remapped-connection': 'keep-alive',
+    'cross-origin-opener-policy': 'same-origin',
+    'x-download-options': 'noopen',
+    'x-request-id': 'iad:8615a6c5-e8ec-4397-af02-ac7eec486b19',
+    'x-rate-limit-limit': '25',
+    'x-amz-apigw-id': 'CUelfGf8IAMEnqA=',
+    'x-content-type-options': 'nosniff',
+    'server-timing': 'total;dur=3',
+    'x-client-ip': '120.235.162.24',
+    'access-control-expose-headers': 'server-timing,x-cache-stale-ttl,x-cache-status,x-cache-ttl,x-cache-ttl,x-fetch-mode,x-fetch-time,x-pricing-plan,x-rate-limit-limit,x-rate-limit-remaining,x-rate-limit-reset,x-region,x-request-id,x-response-time,x-timestamp',
+    'x-cache': 'Error from cloudfront',
+    via: '1.1 4f94cdb07d6f082a79d5338a94655816.cloudfront.net (CloudFront)',
+    'x-amz-cf-pop': 'SEA900-P5',
+    'x-amz-cf-id': 'nYdO43ZLRKmM7AjEBEnF3-Vg01CaSQdDNHMAl9Dcof0QVfMI17RAqA==',
+    'cf-cache-status': 'BYPASS',
+    vary: 'accept-encoding',
+    nel: '{"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}',
+    'report-to': '{"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=IdSEr4%2F6vkkcspenCkQ%2F0S%2FwFTnItWX2DHrgUthYDB%2BUS4g5fQud1zOuR%2BhXP9v3S4IYXHycTiicrThiY49eAgfqoZgIhLAFB3a6sRuqybxaSMvCAafgz%2F%2FxUKr59i3id4w%3D"}]}',
+    server: 'cloudflare',
+    'cf-ray': 'a2d463f86eda23ef-SEA',
+    'alt-svc': 'h3=":443"; ma=86400'
+  },
+  description: 'Your daily rate limit has been reached. Upgrade to a PRO plan.'
+}
+fetchItemWithAISdk: failed after 3 attempts for https://www.spellbook.com: [
+  {
+    "code": "too_big",
+    "maximum": 160,
+    "type": "string",
+    "inclusive": true,
+    "exact": false,
+    "message": "String must contain at most 160 character(s)",
+    "path": [
+      "description"
+    ]
+  }
+]
+fetchItem: aisdkData is null, url: https://www.spellbook.com
+fetchItemWithAISdk: failed after 3 attempts for https://www.spikes.studio: [
+  {
+    "code": "too_big",
+    "maximum": 160,
+    "type": "string",
+    "inclusive": true,
+    "exact": false,
+    "message": "String must contain at most 160 character(s)",
+    "path": [
+      "description"
+    ]
+  }
+]
+fetchItem: aisdkData is null, url: https://www.spikes.studio
+fetchItemWithMicrolink, Error processing url for https://trickle.so: Error [MicrolinkError]: ERATE, Your daily rate limit has been reached. Upgrade to a PRO plan.
+    at new Error (D:/WorkDev/github_repositories/mkdirs/node_modules/.pnpm/whoops@4.1.7/node_modules/whoops/src/create-extend-error.js:11:19)
+    at fetchFromApi (D:/WorkDev/github_repositories/mkdirs/node_modules/.pnpm/@microlink+mql@0.13.12/node_modules/@microlink/mql/src/factory.js:89:13)
+    at async fetchItemWithMicrolink (D:/WorkDev/github_repositories/mkdirs/scripts/batch-item.ts:175:22)
+    at async fetchItem (D:/WorkDev/github_repositories/mkdirs/scripts/batch-item.ts:116:25)
+    at async worker (D:/WorkDev/github_repositories/mkdirs/scripts/batch-item.ts:435:22)
+    at async Promise.all (index 1)
+    at async importItems (D:/WorkDev/github_repositories/mkdirs/scripts/batch-item.ts:515:3)
+    at async runOperation (D:/WorkDev/github_repositories/mkdirs/scripts/batch-item.ts:561:7) {
+  status: 'fail',
+  code: 'ERATE',
+  more: 'https://microlink.io/erate',
+  url: 'https://api.microlink.io/?url=https%3A%2F%2Ftrickle.so',
+  statusCode: 429,
+  headers: {
+    date: 'Tue, 18 Aug 2026 22:36:21 GMT',
+    'content-type': 'application/json; charset=utf-8',
+    'content-length': '138',
+    connection: 'keep-alive',
+    'x-amzn-remapped-date': 'Tue, 18 Aug 2026 22:36:21 GMT',
+    'x-amzn-requestid': '1c9314a4-1a98-47a3-a313-e0dec79f1160',
+    'x-dns-prefetch-control': 'off',
+    'referrer-policy': 'no-referrer',
+    'x-permitted-cross-domain-policies': 'none',
+    'x-xss-protection': '0',
+    'access-control-allow-origin': '*',
+    'x-response-time': '3ms',
+    'x-pricing-plan': 'free',
+    'x-rate-limit-reset': '1787171774',
+    'content-encoding': 'gzip',
+    'strict-transport-security': 'max-age=31536000; includeSubDomains',
+    'x-region': 'iad',
+    'x-amzn-remapped-content-length': '143',
+    'x-robots-tag': 'noindex, nofollow, nosnippet',
+    'content-security-policy': "default-src 'self';base-uri 'self';font-src 'self' https: data:;form-action 'self';img-src 'self' data:;object-src 'none';script-src 'self';script-src-attr 'none';style-src 'self' https: 'unsafe-inline';upgrade-insecure-requests",
+    'origin-agent-cluster': '?1',
+    'x-rate-limit-remaining': '0',
+    'x-amzn-remapped-connection': 'keep-alive',
+    'cross-origin-opener-policy': 'same-origin',
+    'x-download-options': 'noopen',
+    'x-request-id': 'iad:4d59cee6-8bed-4a86-aba4-76635726d980',
+    'x-rate-limit-limit': '25',
+    'x-amz-apigw-id': 'CUev4GaAoAMEGNw=',
+    'x-content-type-options': 'nosniff',
+    'server-timing': 'total;dur=3',
+    'x-client-ip': '120.235.162.24',
+    'access-control-expose-headers': 'server-timing,x-cache-stale-ttl,x-cache-status,x-cache-ttl,x-cache-ttl,x-fetch-mode,x-fetch-time,x-pricing-plan,x-rate-limit-limit,x-rate-limit-remaining,x-rate-limit-reset,x-region,x-request-id,x-response-time,x-timestamp',
+    'x-cache': 'Error from cloudfront',
+    via: '1.1 4f94cdb07d6f082a79d5338a94655816.cloudfront.net (CloudFront)',
+    'x-amz-cf-pop': 'SEA900-P5',
+    'x-amz-cf-id': 'QV2GfBDpnTxb1qJnc1FM7mbRgXQlSm25SOI1t7TcrJbo2wgTe0IbEg==',
+    'cf-cache-status': 'BYPASS',
+    vary: 'accept-encoding',
+    nel: '{"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}',
+    'report-to': '{"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=1EZRDLADPaBBI0RwJ9qsIzyTX1TzSc7k64c35TvAkj1WADTpJQScw3uoTUR5Ppo1W0j%2Fx3%2F59%2FMccyUqWXknNs4sfnTZ%2BAfHMs8URbk3DjtuHZcz3Lfuorb7MArYrO5TQd0%3D"}]}',
+    server: 'cloudflare',
+    'cf-ray': 'a2d46597bdb9f979-SEA',
+    'alt-svc': 'h3=":443"; ma=86400'
+  },
+  description: 'Your daily rate limit has been reached. Upgrade to a PRO plan.'
+}
+fetchItemWithMicrolink, Error processing url for https://suno.com/l/ai-music-app: Error [MicrolinkError]: ERATE, Your daily rate limit has been reached. Upgrade to a PRO plan.
+    at new Error (D:/WorkDev/github_repositories/mkdirs/node_modules/.pnpm/whoops@4.1.7/node_modules/whoops/src/create-extend-error.js:11:19)
+    at fetchFromApi (D:/WorkDev/github_repositories/mkdirs/node_modules/.pnpm/@microlink+mql@0.13.12/node_modules/@microlink/mql/src/factory.js:89:13)
+    at async fetchItemWithMicrolink (D:/WorkDev/github_repositories/mkdirs/scripts/batch-item.ts:175:22)
+    at async fetchItem (D:/WorkDev/github_repositories/mkdirs/scripts/batch-item.ts:116:25)
+    at async worker (D:/WorkDev/github_repositories/mkdirs/scripts/batch-item.ts:435:22)
+    at async Promise.all (index 0)
+    at async importItems (D:/WorkDev/github_repositories/mkdirs/scripts/batch-item.ts:515:3)
+    at async runOperation (D:/WorkDev/github_repositories/mkdirs/scripts/batch-item.ts:561:7) {
+  status: 'fail',
+  code: 'ERATE',
+  more: 'https://microlink.io/erate',
+  url: 'https://api.microlink.io/?url=https%3A%2F%2Fsuno.com%2Fl%2Fai-music-app',
+  statusCode: 429,
+  headers: {
+    date: 'Tue, 18 Aug 2026 22:36:21 GMT',
+    'content-type': 'application/json; charset=utf-8',
+    'content-length': '138',
+    connection: 'keep-alive',
+    'x-amzn-remapped-date': 'Tue, 18 Aug 2026 22:36:21 GMT',
+    'x-amzn-requestid': '55ac88ac-ba3b-4f23-8ac8-4f6d3383a33b',
+    'x-dns-prefetch-control': 'off',
+    'referrer-policy': 'no-referrer',
+    'x-permitted-cross-domain-policies': 'none',
+    'x-xss-protection': '0',
+    'access-control-allow-origin': '*',
+    'x-response-time': '2ms',
+    'x-pricing-plan': 'free',
+    'x-rate-limit-reset': '1787171774',
+    'content-encoding': 'gzip',
+    'strict-transport-security': 'max-age=31536000; includeSubDomains',
+    'x-region': 'iad',
+    'x-amzn-remapped-content-length': '143',
+    'x-robots-tag': 'noindex, nofollow, nosnippet',
+    'content-security-policy': "default-src 'self';base-uri 'self';font-src 'self' https: data:;form-action 'self';img-src 'self' data:;object-src 'none';script-src 'self';script-src-attr 'none';style-src 'self' https: 'unsafe-inline';upgrade-insecure-requests",
+    'origin-agent-cluster': '?1',
+    'x-rate-limit-remaining': '0',
+    'x-amzn-remapped-connection': 'keep-alive',
+    'cross-origin-opener-policy': 'same-origin',
+    'x-download-options': 'noopen',
+    'x-request-id': 'iad:53be1d4a-7218-446a-877e-1fc0a6304e60',
+    'x-rate-limit-limit': '25',
+    'x-amz-apigw-id': 'CUev4FOlIAMEEBg=',
+    'x-content-type-options': 'nosniff',
+    'server-timing': 'total;dur=2',
+    'x-client-ip': '120.235.162.24',
+    'access-control-expose-headers': 'server-timing,x-cache-stale-ttl,x-cache-status,x-cache-ttl,x-cache-ttl,x-fetch-mode,x-fetch-time,x-pricing-plan,x-rate-limit-limit,x-rate-limit-remaining,x-rate-limit-reset,x-region,x-request-id,x-response-time,x-timestamp',
+    'x-cache': 'Error from cloudfront',
+    via: '1.1 469cf6a8d201dfefd060f8c8e825ca5c.cloudfront.net (CloudFront)',
+    'x-amz-cf-pop': 'SEA900-P5',
+    'x-amz-cf-id': 'gmp22hJ2A9W_KMaL02IPvpOUGgImlK1n_MMAmMHzm2d5U4fuWeQAlQ==',
+    'cf-cache-status': 'BYPASS',
+    vary: 'accept-encoding',
+    nel: '{"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}',
+    'report-to': '{"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=vfbx8ESv62HXzNWtQ1NjDPqQc106g3OoSiDX03BQHvTHoT3Lwo9tXevZ5UrO3OrJsTF7fLInMpt3XRzGkJ3cWX9LjyObuyYazLPj1ji8HHpPQwezofTV4rNavIyZ8NRqFHc%3D"}]}',
+    server: 'cloudflare',
+    'cf-ray': 'a2d46597b872eb83-SEA',
+    'alt-svc': 'h3=":443"; ma=86400'
+  },
+  description: 'Your daily rate limit has been reached. Upgrade to a PRO plan.'
+}
+fetchItemWithAISdk, Error processing url for https://trickle.so: request to https://trickle.so/ failed, reason: connect ETIMEDOUT 162.125.34.133:443
+fetchItem: aisdkData is null, url: https://trickle.so
+fetchItemWithAISdk, Error processing url for https://suno.com/l/ai-music-app: request to https://suno.com/l/ai-music-app failed, reason: connect ETIMEDOUT 157.240.2.50:443
+fetchItem: aisdkData is null, url: https://suno.com/l/ai-music-app
+fetchItemWithMicrolink, Error processing url for https://www.typeface.ai: Error [MicrolinkError]: ERATE, Your daily rate limit has been reached. Upgrade to a PRO plan.
+    at new Error (D:/WorkDev/github_repositories/mkdirs/node_modules/.pnpm/whoops@4.1.7/node_modules/whoops/src/create-extend-error.js:11:19)
+    at fetchFromApi (D:/WorkDev/github_repositories/mkdirs/node_modules/.pnpm/@microlink+mql@0.13.12/node_modules/@microlink/mql/src/factory.js:89:13)
+    at async fetchItemWithMicrolink (D:/WorkDev/github_repositories/mkdirs/scripts/batch-item.ts:175:22)
+    at async fetchItem (D:/WorkDev/github_repositories/mkdirs/scripts/batch-item.ts:116:25)
+    at async worker (D:/WorkDev/github_repositories/mkdirs/scripts/batch-item.ts:435:22)
+    at async Promise.all (index 0)
+    at async importItems (D:/WorkDev/github_repositories/mkdirs/scripts/batch-item.ts:515:3)
+    at async runOperation (D:/WorkDev/github_repositories/mkdirs/scripts/batch-item.ts:561:7) {
+  status: 'fail',
+  code: 'ERATE',
+  more: 'https://microlink.io/erate',
+  url: 'https://api.microlink.io/?url=https%3A%2F%2Fwww.typeface.ai',
+  statusCode: 429,
+  headers: {
+    date: 'Tue, 18 Aug 2026 22:36:47 GMT',
+    'content-type': 'application/json; charset=utf-8',
+    'content-length': '138',
+    connection: 'keep-alive',
+    'x-amzn-remapped-date': 'Tue, 18 Aug 2026 22:36:47 GMT',
+    'x-amzn-requestid': '257c5250-acc7-4da3-b6b7-5b3fcc2658dd',
+    'x-dns-prefetch-control': 'off',
+    'referrer-policy': 'no-referrer',
+    'x-permitted-cross-domain-policies': 'none',
+    'x-xss-protection': '0',
+    'access-control-allow-origin': '*',
+    'x-response-time': '2ms',
+    'x-pricing-plan': 'free',
+    'x-rate-limit-reset': '1787171774',
+    'content-encoding': 'gzip',
+    'strict-transport-security': 'max-age=31536000; includeSubDomains',
+    'x-region': 'iad',
+    'x-amzn-remapped-content-length': '143',
+    'x-robots-tag': 'noindex, nofollow, nosnippet',
+    'content-security-policy': "default-src 'self';base-uri 'self';font-src 'self' https: data:;form-action 'self';img-src 'self' data:;object-src 'none';script-src 'self';script-src-attr 'none';style-src 'self' https: 'unsafe-inline';upgrade-insecure-requests",
+    'origin-agent-cluster': '?1',
+    'x-rate-limit-remaining': '0',
+    'x-amzn-remapped-connection': 'keep-alive',
+    'cross-origin-opener-policy': 'same-origin',
+    'x-download-options': 'noopen',
+    'x-request-id': 'iad:dbe2b813-19c0-40f0-ab08-46b094cda8e7',
+    'x-rate-limit-limit': '25',
+    'x-amz-apigw-id': 'CUez-EdSoAMEpxw=',
+    'x-content-type-options': 'nosniff',
+    'server-timing': 'total;dur=2',
+    'x-client-ip': '120.235.162.24',
+    'access-control-expose-headers': 'server-timing,x-cache-stale-ttl,x-cache-status,x-cache-ttl,x-cache-ttl,x-fetch-mode,x-fetch-time,x-pricing-plan,x-rate-limit-limit,x-rate-limit-remaining,x-rate-limit-reset,x-region,x-request-id,x-response-time,x-timestamp',
+    'x-cache': 'Error from cloudfront',
+    via: '1.1 bfd5f5d00abeb8323eefd46e52e45a08.cloudfront.net (CloudFront)',
+    'x-amz-cf-pop': 'SEA900-P5',
+    'x-amz-cf-id': '_By9whot1sBncTWmu2XNFaOx1sYkEO_pbIs0lW5ZLR5MGt_AGu5Xkg==',
+    'cf-cache-status': 'BYPASS',
+    vary: 'accept-encoding',
+    nel: '{"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}',
+    'report-to': '{"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=MIo43n9x2uEjxvzTFyRyjMATmbeF7nFvxVfzSJpUgqSS2hNkgTb%2FlbGKQAqabv7eQkjmgxxOwcjy37Ipj1gE4H71T0iv6rzmuTMJyv5DwO1wwZdo1UrQhcAM220hc%2Bkjxpk%3D"}]}',
+    server: 'cloudflare',
+    'cf-ray': 'a2d4663b8e99861e-SEA',
+    'alt-svc': 'h3=":443"; ma=86400'
+  },
+  description: 'Your daily rate limit has been reached. Upgrade to a PRO plan.'
+}
+fetchItemWithMicrolink, Error processing url for https://www.tripo3d.ai: Error [MicrolinkError]: ERATE, Your daily rate limit has been reached. Upgrade to a PRO plan.
+    at new Error (D:/WorkDev/github_repositories/mkdirs/node_modules/.pnpm/whoops@4.1.7/node_modules/whoops/src/create-extend-error.js:11:19)
+    at fetchFromApi (D:/WorkDev/github_repositories/mkdirs/node_modules/.pnpm/@microlink+mql@0.13.12/node_modules/@microlink/mql/src/factory.js:89:13)
+    at async fetchItemWithMicrolink (D:/WorkDev/github_repositories/mkdirs/scripts/batch-item.ts:175:22)
+    at async fetchItem (D:/WorkDev/github_repositories/mkdirs/scripts/batch-item.ts:116:25)
+    at async worker (D:/WorkDev/github_repositories/mkdirs/scripts/batch-item.ts:435:22)
+    at async Promise.all (index 1)
+    at async importItems (D:/WorkDev/github_repositories/mkdirs/scripts/batch-item.ts:515:3)
+    at async runOperation (D:/WorkDev/github_repositories/mkdirs/scripts/batch-item.ts:561:7) {
+  status: 'fail',
+  code: 'ERATE',
+  more: 'https://microlink.io/erate',
+  url: 'https://api.microlink.io/?url=https%3A%2F%2Fwww.tripo3d.ai',
+  statusCode: 429,
+  headers: {
+    date: 'Tue, 18 Aug 2026 22:36:47 GMT',
+    'content-type': 'application/json; charset=utf-8',
+    'content-length': '138',
+    connection: 'keep-alive',
+    'x-amzn-remapped-date': 'Tue, 18 Aug 2026 22:36:47 GMT',
+    'x-amzn-requestid': '23693d36-499e-47a1-a0c0-d96b7389a0f9',
+    'x-dns-prefetch-control': 'off',
+    'referrer-policy': 'no-referrer',
+    'x-permitted-cross-domain-policies': 'none',
+    'x-xss-protection': '0',
+    'access-control-allow-origin': '*',
+    'x-response-time': '2ms',
+    'x-pricing-plan': 'free',
+    'x-rate-limit-reset': '1787171774',
+    'content-encoding': 'gzip',
+    'strict-transport-security': 'max-age=31536000; includeSubDomains',
+    'x-region': 'iad',
+    'x-amzn-remapped-content-length': '143',
+    'x-robots-tag': 'noindex, nofollow, nosnippet',
+    'content-security-policy': "default-src 'self';base-uri 'self';font-src 'self' https: data:;form-action 'self';img-src 'self' data:;object-src 'none';script-src 'self';script-src-attr 'none';style-src 'self' https: 'unsafe-inline';upgrade-insecure-requests",
+    'origin-agent-cluster': '?1',
+    'x-rate-limit-remaining': '0',
+    'x-amzn-remapped-connection': 'keep-alive',
+    'cross-origin-opener-policy': 'same-origin',
+    'x-download-options': 'noopen',
+    'x-request-id': 'iad:86bcd8df-1c99-41f1-a052-7c51b0c5b984',
+    'x-rate-limit-limit': '25',
+    'x-amz-apigw-id': 'CUe0AHNVoAMEgMQ=',
+    'x-content-type-options': 'nosniff',
+    'server-timing': 'total;dur=2',
+    'x-client-ip': '120.235.162.24',
+    'access-control-expose-headers': 'server-timing,x-cache-stale-ttl,x-cache-status,x-cache-ttl,x-cache-ttl,x-fetch-mode,x-fetch-time,x-pricing-plan,x-rate-limit-limit,x-rate-limit-remaining,x-rate-limit-reset,x-region,x-request-id,x-response-time,x-timestamp',
+    'x-cache': 'Error from cloudfront',
+    via: '1.1 469cf6a8d201dfefd060f8c8e825ca5c.cloudfront.net (CloudFront)',
+    'x-amz-cf-pop': 'SEA900-P5',
+    'x-amz-cf-id': 'gK6rFF-zY7-vzRoUTFzxs1z5jVGFeyicqNe3LV5dFZZBaMepH3BPoQ==',
+    'cf-cache-status': 'BYPASS',
+    vary: 'accept-encoding',
+    nel: '{"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}',
+    'report-to': '{"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=MRAx7h3GhOhrCKeawsQpWIMFY2U6Ad1IMkcG4v9hEXJ%2FVl%2FBhRAVx8vhPsvNc6geVfQNrJPMiqWtgOU2Q0v%2B2pAfqb%2BlVHVqUiOBECbhYVOxPZmwTUcflJIkXmS6bzOAM4o%3D"}]}',
+    server: 'cloudflare',
+    'cf-ray': 'a2d4663beebedfe8-SEA',
+    'alt-svc': 'h3=":443"; ma=86400'
+  },
+  description: 'Your daily rate limit has been reached. Upgrade to a PRO plan.'
+}
+fetchItemWithAISdk, Error processing url for https://www.tripo3d.ai: request to https://www.tripo3d.ai/ failed, reason: connect ETIMEDOUT 74.86.12.172:443
+fetchItem: aisdkData is null, url: https://www.tripo3d.ai
+fetchItemWithAISdk, Error processing url for https://www.typeface.ai: request to https://www.typeface.ai/ failed, reason: connect ETIMEDOUT 35.201.102.127:443
+fetchItem: aisdkData is null, url: https://www.typeface.ai
+fetchItemWithMicrolink, Error processing url for https://vidiq.com: Error [MicrolinkError]: ERATE, Your daily rate limit has been reached. Upgrade to a PRO plan.
+    at new Error (D:/WorkDev/github_repositories/mkdirs/node_modules/.pnpm/whoops@4.1.7/node_modules/whoops/src/create-extend-error.js:11:19)
+    at fetchFromApi (D:/WorkDev/github_repositories/mkdirs/node_modules/.pnpm/@microlink+mql@0.13.12/node_modules/@microlink/mql/src/factory.js:89:13)
+    at async fetchItemWithMicrolink (D:/WorkDev/github_repositories/mkdirs/scripts/batch-item.ts:175:22)
+    at async fetchItem (D:/WorkDev/github_repositories/mkdirs/scripts/batch-item.ts:116:25)
+    at async worker (D:/WorkDev/github_repositories/mkdirs/scripts/batch-item.ts:435:22)
+    at async Promise.all (index 1)
+    at async importItems (D:/WorkDev/github_repositories/mkdirs/scripts/batch-item.ts:515:3)
+    at async runOperation (D:/WorkDev/github_repositories/mkdirs/scripts/batch-item.ts:561:7) {
+  status: 'fail',
+  code: 'ERATE',
+  more: 'https://microlink.io/erate',
+  url: 'https://api.microlink.io/?url=https%3A%2F%2Fvidiq.com',
+  statusCode: 429,
+  headers: {
+    date: 'Tue, 18 Aug 2026 22:37:13 GMT',
+    'content-type': 'application/json; charset=utf-8',
+    'content-length': '138',
+    connection: 'keep-alive',
+    'x-amzn-remapped-date': 'Tue, 18 Aug 2026 22:37:13 GMT',
+    'x-amzn-requestid': 'd3f7f2d1-eff9-4849-b647-a7183820a7f6',
+    'x-dns-prefetch-control': 'off',
+    'referrer-policy': 'no-referrer',
+    'x-permitted-cross-domain-policies': 'none',
+    'x-xss-protection': '0',
+    'access-control-allow-origin': '*',
+    'x-response-time': '3ms',
+    'x-pricing-plan': 'free',
+    'x-rate-limit-reset': '1787171774',
+    'content-encoding': 'gzip',
+    'strict-transport-security': 'max-age=31536000; includeSubDomains',
+    'x-region': 'iad',
+    'x-amzn-remapped-content-length': '143',
+    'x-robots-tag': 'noindex, nofollow, nosnippet',
+    'content-security-policy': "default-src 'self';base-uri 'self';font-src 'self' https: data:;form-action 'self';img-src 'self' data:;object-src 'none';script-src 'self';script-src-attr 'none';style-src 'self' https: 'unsafe-inline';upgrade-insecure-requests",
+    'origin-agent-cluster': '?1',
+    'x-rate-limit-remaining': '0',
+    'x-amzn-remapped-connection': 'keep-alive',
+    'cross-origin-opener-policy': 'same-origin',
+    'x-download-options': 'noopen',
+    'x-request-id': 'iad:ef432fbe-56e0-4d9c-9f89-e9bd0be9ea56',
+    'x-rate-limit-limit': '25',
+    'x-amz-apigw-id': 'CUe4GGuSoAMEMng=',
+    'x-content-type-options': 'nosniff',
+    'server-timing': 'total;dur=2',
+    'x-client-ip': '120.235.162.24',
+    'access-control-expose-headers': 'server-timing,x-cache-stale-ttl,x-cache-status,x-cache-ttl,x-cache-ttl,x-fetch-mode,x-fetch-time,x-pricing-plan,x-rate-limit-limit,x-rate-limit-remaining,x-rate-limit-reset,x-region,x-request-id,x-response-time,x-timestamp',
+    'x-cache': 'Error from cloudfront',
+    via: '1.1 3401a77bb2c18effb6138333cd3b081e.cloudfront.net (CloudFront)',
+    'x-amz-cf-pop': 'SEA900-P5',
+    'x-amz-cf-id': 'd5_o6pasqoX2o7b6lbH4JxZ3Wg-hiOyWU0wyuBgEaLlQZnLRJGMdgQ==',
+    'cf-cache-status': 'BYPASS',
+    vary: 'accept-encoding',
+    nel: '{"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}',
+    'report-to': '{"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=1EErCe8waTDY5RkLzjNF9fWcMdtbTnGCsstBfXp45Bx5MYGKVSExmibDHuabCix7gyab9hyZVQ9TiXsbi4DJnXk0jdKjm%2FtkAMQah%2Fgmx4MQDGCahtyrr7NcT7VjHFFPi1w%3D"}]}',
+    server: 'cloudflare',
+    'cf-ray': 'a2d466e0788f1421-SEA',
+    'alt-svc': 'h3=":443"; ma=86400'
+  },
+  description: 'Your daily rate limit has been reached. Upgrade to a PRO plan.'
+}
+fetchItemWithMicrolink, Error processing url for https://writesonic.com: Error [MicrolinkError]: ERATE, Your daily rate limit has been reached. Upgrade to a PRO plan.
+    at new Error (D:/WorkDev/github_repositories/mkdirs/node_modules/.pnpm/whoops@4.1.7/node_modules/whoops/src/create-extend-error.js:11:19)
+    at fetchFromApi (D:/WorkDev/github_repositories/mkdirs/node_modules/.pnpm/@microlink+mql@0.13.12/node_modules/@microlink/mql/src/factory.js:89:13)
+    at async fetchItemWithMicrolink (D:/WorkDev/github_repositories/mkdirs/scripts/batch-item.ts:175:22)
+    at async fetchItem (D:/WorkDev/github_repositories/mkdirs/scripts/batch-item.ts:116:25)
+    at async worker (D:/WorkDev/github_repositories/mkdirs/scripts/batch-item.ts:435:22)
+    at async Promise.all (index 0)
+    at async importItems (D:/WorkDev/github_repositories/mkdirs/scripts/batch-item.ts:515:3)
+    at async runOperation (D:/WorkDev/github_repositories/mkdirs/scripts/batch-item.ts:561:7) {
+  status: 'fail',
+  code: 'ERATE',
+  more: 'https://microlink.io/erate',
+  url: 'https://api.microlink.io/?url=https%3A%2F%2Fwritesonic.com',
+  statusCode: 429,
+  headers: {
+    date: 'Tue, 18 Aug 2026 22:37:18 GMT',
+    'content-type': 'application/json; charset=utf-8',
+    'content-length': '138',
+    connection: 'keep-alive',
+    'x-amzn-remapped-date': 'Tue, 18 Aug 2026 22:37:18 GMT',
+    'x-amzn-requestid': '903eb96d-b41d-45ec-a543-f230d7d83a4f',
+    'x-dns-prefetch-control': 'off',
+    'referrer-policy': 'no-referrer',
+    'x-permitted-cross-domain-policies': 'none',
+    'x-xss-protection': '0',
+    'access-control-allow-origin': '*',
+    'x-response-time': '2ms',
+    'x-pricing-plan': 'free',
+    'x-rate-limit-reset': '1787171774',
+    'content-encoding': 'gzip',
+    'strict-transport-security': 'max-age=31536000; includeSubDomains',
+    'x-region': 'iad',
+    'x-amzn-remapped-content-length': '143',
+    'x-robots-tag': 'noindex, nofollow, nosnippet',
+    'content-security-policy': "default-src 'self';base-uri 'self';font-src 'self' https: data:;form-action 'self';img-src 'self' data:;object-src 'none';script-src 'self';script-src-attr 'none';style-src 'self' https: 'unsafe-inline';upgrade-insecure-requests",
+    'origin-agent-cluster': '?1',
+    'x-rate-limit-remaining': '0',
+    'x-amzn-remapped-connection': 'keep-alive',
+    'cross-origin-opener-policy': 'same-origin',
+    'x-download-options': 'noopen',
+    'x-request-id': 'iad:449bb09c-b7d8-4631-9551-ebf362cd0dc5',
+    'x-rate-limit-limit': '25',
+    'x-amz-apigw-id': 'CUe40EZxIAMEJJg=',
+    'x-content-type-options': 'nosniff',
+    'server-timing': 'total;dur=2',
+    'x-client-ip': '120.235.162.24',
+    'access-control-expose-headers': 'server-timing,x-cache-stale-ttl,x-cache-status,x-cache-ttl,x-cache-ttl,x-fetch-mode,x-fetch-time,x-pricing-plan,x-rate-limit-limit,x-rate-limit-remaining,x-rate-limit-reset,x-region,x-request-id,x-response-time,x-timestamp',
+    'x-cache': 'Error from cloudfront',
+    via: '1.1 9d24fb6901704d681d826c5ee6d59ba8.cloudfront.net (CloudFront)',
+    'x-amz-cf-pop': 'SEA900-P5',
+    'x-amz-cf-id': 'ubgYUqdZ6INHWrk9xf_4K6Rvwezk50Qj8S0OR3w__aP7aypFBaRs2A==',
+    'cf-cache-status': 'BYPASS',
+    vary: 'accept-encoding',
+    nel: '{"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}',
+    'report-to': '{"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=rE8m72rAeHTyVxLKqWuHX%2BfVYZXUybH997xEuDJAEXoUQ1Es7ldTsDDxYwgITNYcAWCeBfxMW2wluOHCxCMnkuV2yeqin2EVLt4PtBXlmHsrOPmUDMP%2FFsMtTP%2By70NL3hQ%3D"}]}',
+    server: 'cloudflare',
+    'cf-ray': 'a2d466fcbf77ba52-SEA',
+    'alt-svc': 'h3=":443"; ma=86400'
+  },
+  description: 'Your daily rate limit has been reached. Upgrade to a PRO plan.'
+}
+fetchItemWithAISdk, Error processing url for https://vidiq.com: request to https://vidiq.com/ failed, reason: connect ETIMEDOUT 199.96.58.85:443
+fetchItem: aisdkData is null, url: https://vidiq.com
+fetchItemWithMicrolink, Error processing url for https://www.urbandictionary.com/define.php?term=accountabilibuddy: Error [MicrolinkError]: ERATE, Your daily rate limit has been reached. Upgrade to a PRO plan.
+    at new Error (D:/WorkDev/github_repositories/mkdirs/node_modules/.pnpm/whoops@4.1.7/node_modules/whoops/src/create-extend-error.js:11:19)
+    at fetchFromApi (D:/WorkDev/github_repositories/mkdirs/node_modules/.pnpm/@microlink+mql@0.13.12/node_modules/@microlink/mql/src/factory.js:89:13)
+    at async fetchItemWithMicrolink (D:/WorkDev/github_repositories/mkdirs/scripts/batch-item.ts:175:22)
+    at async fetchItem (D:/WorkDev/github_repositories/mkdirs/scripts/batch-item.ts:116:25)
+    at async worker (D:/WorkDev/github_repositories/mkdirs/scripts/batch-item.ts:435:22)
+    at async Promise.all (index 1)
+    at async importItems (D:/WorkDev/github_repositories/mkdirs/scripts/batch-item.ts:515:3)
+    at async runOperation (D:/WorkDev/github_repositories/mkdirs/scripts/batch-item.ts:561:7) {
+  status: 'fail',
+  code: 'ERATE',
+  more: 'https://microlink.io/erate',
+  url: 'https://api.microlink.io/?url=https%3A%2F%2Fwww.urbandictionary.com%2Fdefine.php%3Fterm%3Daccountabilibuddy',
+  statusCode: 429,
+  headers: {
+    date: 'Tue, 18 Aug 2026 22:37:39 GMT',
+    'content-type': 'application/json; charset=utf-8',
+    'content-length': '138',
+    connection: 'keep-alive',
+    'x-amzn-remapped-date': 'Tue, 18 Aug 2026 22:37:39 GMT',
+    'x-amzn-requestid': 'e893cd76-b0c2-491d-be19-91a0f31c1427',
+    'x-dns-prefetch-control': 'off',
+    'referrer-policy': 'no-referrer',
+    'x-permitted-cross-domain-policies': 'none',
+    'x-xss-protection': '0',
+    'access-control-allow-origin': '*',
+    'x-response-time': '2ms',
+    'x-pricing-plan': 'free',
+    'x-rate-limit-reset': '1787171774',
+    'content-encoding': 'gzip',
+    'strict-transport-security': 'max-age=31536000; includeSubDomains',
+    'x-region': 'iad',
+    'x-amzn-remapped-content-length': '143',
+    'x-robots-tag': 'noindex, nofollow, nosnippet',
+    'content-security-policy': "default-src 'self';base-uri 'self';font-src 'self' https: data:;form-action 'self';img-src 'self' data:;object-src 'none';script-src 'self';script-src-attr 'none';style-src 'self' https: 'unsafe-inline';upgrade-insecure-requests",
+    'origin-agent-cluster': '?1',
+    'x-rate-limit-remaining': '0',
+    'x-amzn-remapped-connection': 'keep-alive',
+    'cross-origin-opener-policy': 'same-origin',
+    'x-download-options': 'noopen',
+    'x-request-id': 'iad:d9902303-40be-46e0-8b30-180a04ec9ae4',
+    'x-rate-limit-limit': '25',
+    'x-amz-apigw-id': 'CUe8MHn_oAMEgQA=',
+    'x-content-type-options': 'nosniff',
+    'server-timing': 'total;dur=2',
+    'x-client-ip': '120.235.162.24',
+    'access-control-expose-headers': 'server-timing,x-cache-stale-ttl,x-cache-status,x-cache-ttl,x-cache-ttl,x-fetch-mode,x-fetch-time,x-pricing-plan,x-rate-limit-limit,x-rate-limit-remaining,x-rate-limit-reset,x-region,x-request-id,x-response-time,x-timestamp',
+    'x-cache': 'Error from cloudfront',
+    via: '1.1 1eb831a506072a14a859a537d9bab544.cloudfront.net (CloudFront)',
+    'x-amz-cf-pop': 'SEA900-P5',
+    'x-amz-cf-id': 'O0X4U8R_-o7BpsYTMDagmvXISp_cpPaQ_iMlqMgEHVHVYWThd-76FQ==',
+    'cf-cache-status': 'BYPASS',
+    vary: 'accept-encoding',
+    nel: '{"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}',
+    'report-to': '{"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=fRSkYin8UKafBySSUJxjniJc6Z%2Bvk0RJ450WuHarQcTpM8cmtG0DdQtjYUhp0tz0lHdHlkioDXJFd0YMVmFuPY20FwBYhHeyfo73BI%2FdlKVji5SHUNrndAK7OIgMzM4gSes%3D"}]}',
+    server: 'cloudflare',
+    'cf-ray': 'a2d467843bf5ba4b-SEA',
+    'alt-svc': 'h3=":443"; ma=86400'
+  },
+  description: 'Your daily rate limit has been reached. Upgrade to a PRO plan.'
+}
+fetchItemWithAISdk, Error processing url for https://writesonic.com: request to https://writesonic.com/ failed, reason: connect ETIMEDOUT 128.242.240.244:443
+fetchItem: aisdkData is null, url: https://writesonic.com
+fetchItemWithMicrolink, Error processing url for https://my.clevelandclinic.org/health/articles/22611-epinephrine-adrenaline: Error [MicrolinkError]: ERATE, Your daily rate limit has been reached. Upgrade to a PRO plan.
+    at new Error (D:/WorkDev/github_repositories/mkdirs/node_modules/.pnpm/whoops@4.1.7/node_modules/whoops/src/create-extend-error.js:11:19)
+    at fetchFromApi (D:/WorkDev/github_repositories/mkdirs/node_modules/.pnpm/@microlink+mql@0.13.12/node_modules/@microlink/mql/src/factory.js:89:13)
+    at async fetchItemWithMicrolink (D:/WorkDev/github_repositories/mkdirs/scripts/batch-item.ts:175:22)
+    at async fetchItem (D:/WorkDev/github_repositories/mkdirs/scripts/batch-item.ts:116:25)
+    at async worker (D:/WorkDev/github_repositories/mkdirs/scripts/batch-item.ts:435:22)
+    at async Promise.all (index 0)
+    at async importItems (D:/WorkDev/github_repositories/mkdirs/scripts/batch-item.ts:515:3)
+    at async runOperation (D:/WorkDev/github_repositories/mkdirs/scripts/batch-item.ts:561:7) {
+  status: 'fail',
+  code: 'ERATE',
+  more: 'https://microlink.io/erate',
+  url: 'https://api.microlink.io/?url=https%3A%2F%2Fmy.clevelandclinic.org%2Fhealth%2Farticles%2F22611-epinephrine-adrenaline',
+  statusCode: 429,
+  headers: {
+    date: 'Tue, 18 Aug 2026 22:37:44 GMT',
+    'content-type': 'application/json; charset=utf-8',
+    'content-length': '138',
+    connection: 'keep-alive',
+    'x-amzn-remapped-date': 'Tue, 18 Aug 2026 22:37:44 GMT',
+    'x-amzn-requestid': '7a0e5207-cfef-40d6-ace6-e8f6cec8457c',
+    'x-dns-prefetch-control': 'off',
+    'referrer-policy': 'no-referrer',
+    'x-permitted-cross-domain-policies': 'none',
+    'x-xss-protection': '0',
+    'access-control-allow-origin': '*',
+    'x-response-time': '2ms',
+    'x-pricing-plan': 'free',
+    'x-rate-limit-reset': '1787171774',
+    'content-encoding': 'gzip',
+    'strict-transport-security': 'max-age=31536000; includeSubDomains',
+    'x-region': 'iad',
+    'x-amzn-remapped-content-length': '143',
+    'x-robots-tag': 'noindex, nofollow, nosnippet',
+    'content-security-policy': "default-src 'self';base-uri 'self';font-src 'self' https: data:;form-action 'self';img-src 'self' data:;object-src 'none';script-src 'self';script-src-attr 'none';style-src 'self' https: 'unsafe-inline';upgrade-insecure-requests",
+    'origin-agent-cluster': '?1',
+    'x-rate-limit-remaining': '0',
+    'x-amzn-remapped-connection': 'keep-alive',
+    'cross-origin-opener-policy': 'same-origin',
+    'x-download-options': 'noopen',
+    'x-request-id': 'iad:7993993e-1675-4f33-a1c7-58c57bfcef03',
+    'x-rate-limit-limit': '25',
+    'x-amz-apigw-id': 'CUe87HUDIAMEmdA=',
+    'x-content-type-options': 'nosniff',
+    'server-timing': 'total;dur=2',
+    'x-client-ip': '120.235.162.24',
+    'access-control-expose-headers': 'server-timing,x-cache-stale-ttl,x-cache-status,x-cache-ttl,x-cache-ttl,x-fetch-mode,x-fetch-time,x-pricing-plan,x-rate-limit-limit,x-rate-limit-remaining,x-rate-limit-reset,x-region,x-request-id,x-response-time,x-timestamp',
+    'x-cache': 'Error from cloudfront',
+    via: '1.1 03e7fab7bf2397c5b0108b0af20819d6.cloudfront.net (CloudFront)',
+    'x-amz-cf-pop': 'SEA900-P5',
+    'x-amz-cf-id': 'vQSfKLjPF7LxfYqT5LwuapmY4Hi6ibaAZGG8i3cD7xIM7CRP0kTiOA==',
+    'cf-cache-status': 'BYPASS',
+    vary: 'accept-encoding',
+    nel: '{"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}',
+    'report-to': '{"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=pxNTTfPj3g6Z89QWmwSI3dq3mXcKefYZ%2FKtBAdn0gScyG4dZI9f014qxzYH1mb%2BIU1lzKxeELNrDvBBsrui3ePl8aWxICCAOIVOwLdblpDaqhpjlWniVJ4EaiAugATKCWvc%3D"}]}',
+    server: 'cloudflare',
+    'cf-ray': 'a2d467a12e51ba4b-SEA',
+    'alt-svc': 'h3=":443"; ma=86400'
+  },
+  description: 'Your daily rate limit has been reached. Upgrade to a PRO plan.'
+}
+fetchItemWithAISdk, Error processing url for https://www.urbandictionary.com/define.php?term=accountabilibuddy: request to https://www.urbandictionary.com/define.php?term=accountabilibuddy failed, reason: connect ETIMEDOUT 168.143.171.93:443
+fetchItem: aisdkData is null, url: https://www.urbandictionary.com/define.php?term=accountabilibuddy

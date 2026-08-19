@@ -1,0 +1,79 @@
+importItems start
+total: 1145, existing: 240, pending: 905
+[1/905] FAIL(no-data) https://character.ai
+[2/905] FAIL(no-data) https://civitai.com
+[3/905] FAIL(no-data) https://claude.com
+[4/905] FAIL(no-data) https://www.craiyon.com
+[6/905] FAIL(no-data) https://www.glean.com
+fetchItem, url: https://cursor.com mergedData: {
+  link: 'https://cursor.com',
+  name: 'cursor',
+  description: 'An AI coding agent that turns ideas into code, accelerating software development by automating tasks for you.',
+  introduction: '## What is Cursor?\n' +
+    '\n' +
+    "Cursor is an AI-powered code editor and development environment designed to act as an autonomous coding agent. It moves beyond simple code completion to understand your entire project's context and execute complex, multi-step tasks.\n" +
+    '\n' +
+    '### Key Features\n' +
+    '\n' +
+    '*   **Agentic Development:** Hand off high-level tasks like "build a landing page" or "fix CI failures" to the AI. Cursor plans, generates code, and tests it while you focus on high-level decisions.\n' +
+    '*   **Cloud & Parallel Agents:** Agents can run autonomously on dedicated cloud machines, performing tasks end-to-end in parallel, allowing you to review completed work later.\n' +
+    '*   **Integrated Ecosystem:** Works directly in your terminal (CLI), integrates with Slack for team collaboration, and can automatically review pull requests on GitHub.\n' +
+    '*   **Automation Engine:** Set up always-on agents on schedules or triggers to automatically build, maintain, and fix repetitive aspects of your software.\n' +
+    '*   **Best-in-Class Models:** Access a marketplace of cutting-edge AI models from providers like OpenAI, Anthropic, Gemini, and its own proprietary models (e.g., Grok, Composer).\n' +
+    '\n' +
+    '### Use Cases\n' +
+    '\n' +
+    '*   **Rapid Prototyping & Feature Development:** Quickly scaffold new features, components, or entire applications from a description.\n' +
+    '*   **Bug Fixing & Maintenance:** Automate the diagnosis and repair of issues like failing CI builds or codebase-wide updates.\n' +
+    '*   **Code Review & Refactoring:** Analyze large codebases for improvements, security issues, or adherence to standards.\n' +
+    '*   **Onboarding & Exploration:** Understand unfamiliar codebases faster by having the AI agent explain and navigate the code.\n' +
+    '\n' +
+    'It is trusted by teams at companies like Stripe, NVIDIA, and Figma to significantly boost engineering productivity.',
+  categories: [ 'Developer Tools' ],
+  tags: [ 'AI', 'Coding', 'Productivity', 'Automation' ],
+  image: 'https://ptht05hbb1ssoooe.public.blob.vercel-storage.com/assets/og/opengraph-default.png',
+  icon: 'https://icons.duckduckgo.com/ip3/cursor.com.ico'
+}
+[7/905] FAIL(no-data) https://www.heygen.com
+[8/905] FAIL(no-data) https://insight7.io
+[5/905] OK cursor [Developer Tools]
+[9/905] FAIL(no-data) https://invideo.io
+fetchItem, url: https://magicstudio.com mergedData: {
+  link: 'https://magicstudio.com',
+  name: 'magic studio',
+  description: 'Magic Studio is an AI-powered online tool for creating, editing, and enhancing images for product pages, ads, and social media.',
+  introduction: '# Magic Studio\n' +
+    '\n' +
+    'Magic Studio is an AI-powered online platform designed to democratize professional image creation and editing. It enables anyone, regardless of design skill, to produce high-quality visuals for e-commerce, marketing, and social media within minutes.\n' +
+    '\n' +
+    '## Core Features & Tools\n' +
+    '\n' +
+    '### 1. AI Image Editing\n' +
+    '*   **Magic Eraser:** Instantly remove unwanted objects, people, text, or blemishes from photos using a simple brush stroke.\n' +
+    '*   **Background Remover:** Effortlessly isolate subjects by removing or changing any image background.\n' +
+    '*   **Background Blur:** Add a professional, portrait-like blur effect to photo backgrounds.\n' +
+    '\n' +
+    '### 2. AI Generation & Enhancement\n' +
+    '*   **AI Image Generator:** Create original images from text descriptions.\n' +
+    '*   **AI Art Generator:** Generate artistic visuals, graphics, and illustrations.\n' +
+    '*   **Image Upscaler:** Increase image resolution up to 4K without quality loss.\n' +
+    '\n' +
+    '### 3. Practical Utilities\n' +
+    '*   Includes format converters like **HEIC to JPG** and **WEBP to PNG**.\n' +
+    '\n' +
+    '## Use Cases\n' +
+    '\n' +
+    '*   **E-commerce:** Quickly create clean product photos, remove clutter from listings, and generate promotional images.\n' +
+    '*   **Marketing & Ads:** Produce eye-catching social media posts, ad creatives, and blog illustrations.\n' +
+    '*   **Content Creation:** Edit personal photos, generate concept art, and enhance visual content for any project.\n' +
+    '\n' +
+    '## Accessibility\n' +
+    '\n' +
+    'Magic Studio is available as a web application and has dedicated apps for both iOS and Android, allowing users to start editing on mobile and continue on desktop for more advanced control.',
+  categories: [ 'AI Tools', 'Design Tools', 'Image Generation' ],
+  tags: [ 'AI', 'Image', 'Productivity', 'Marketing', 'Free Trial' ],
+  image: 'https://meta.magicstudio.com/assets/studio-og.webp',
+  icon: 'https://icons.duckduckgo.com/ip3/magicstudio.com.ico'
+}
+[11/905] OK magic studio [Image Generation, Design Tools, AI Tools]
+[12/905] FAIL(no-data) https://www.meshy.ai
