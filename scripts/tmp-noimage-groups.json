@@ -1,0 +1,2549 @@
+{
+ "2-fetch-fail": [
+  {
+   "name": "vimeo ai",
+   "link": "https://vimeo.com/features/vimeo-ai",
+   "reason": "fetch-fail(fetch failed)"
+  },
+  {
+   "name": "namy ai",
+   "link": "https://namy.ai",
+   "reason": "fetch-fail(fetch failed)"
+  },
+  {
+   "name": "norby ai",
+   "link": "https://norby.io",
+   "reason": "fetch-fail(Failed to parse URL from images/thumbnai)"
+  },
+  {
+   "name": "ifoto",
+   "link": "https://www.ifoto.ai",
+   "reason": "fetch-fail(fetch failed)"
+  },
+  {
+   "name": "jan",
+   "link": "https://www.jan.ai",
+   "reason": "fetch-fail(fetch failed)"
+  },
+  {
+   "name": "keywrds ai",
+   "link": "https://keywrds.ai",
+   "reason": "fetch-fail(The operation was aborted due to timeout)"
+  },
+  {
+   "name": "notebooklm",
+   "link": "https://notebooklm.google",
+   "reason": "fetch-fail(fetch failed)"
+  },
+  {
+   "name": "monic ai",
+   "link": "https://monica.im",
+   "reason": "fetch-fail(fetch failed)"
+  },
+  {
+   "name": "novelai",
+   "link": "https://novelai.net",
+   "reason": "fetch-fail(fetch failed)"
+  },
+  {
+   "name": "photoroom",
+   "link": "https://www.photoroom.com",
+   "reason": "fetch-fail(fetch failed)"
+  },
+  {
+   "name": "meshy",
+   "link": "https://www.meshy.ai",
+   "reason": "fetch-fail(fetch failed)"
+  },
+  {
+   "name": "pika",
+   "link": "https://pika.art",
+   "reason": "fetch-fail(fetch failed)"
+  },
+  {
+   "name": "artbreeder",
+   "link": "https://artbreeder.com",
+   "reason": "fetch-fail(fetch failed)"
+  },
+  {
+   "name": "chat2course",
+   "link": "https://chat2course.com",
+   "reason": "fetch-fail(fetch failed)"
+  },
+  {
+   "name": "chatdoc",
+   "link": "https://chatdoc.com",
+   "reason": "fetch-fail(fetch failed)"
+  },
+  {
+   "name": "chronicle",
+   "link": "https://chronline.com",
+   "reason": "fetch-fail(Failed to parse URL from                )"
+  },
+  {
+   "name": "accountabilabuddy",
+   "link": "https://www.urbandictionary.com/define.php?term=accountabilibuddy",
+   "reason": "fetch-fail(fetch failed)"
+  },
+  {
+   "name": "writesonic",
+   "link": "https://writesonic.com",
+   "reason": "fetch-fail(fetch failed)"
+  },
+  {
+   "name": "pixlr",
+   "link": "https://pixlr.com",
+   "reason": "fetch-fail(fetch failed)"
+  },
+  {
+   "name": "ai gallery",
+   "link": "https://aigallery.app",
+   "reason": "fetch-fail(fetch failed)"
+  },
+  {
+   "name": "coverposts",
+   "link": "https://coverposts.com",
+   "reason": "fetch-fail(fetch failed)"
+  },
+  {
+   "name": "artsmart ai",
+   "link": "https://artsmart.ai",
+   "reason": "fetch-fail(fetch failed)"
+  },
+  {
+   "name": "chatpdf",
+   "link": "https://www.chatpdf.com",
+   "reason": "fetch-fail(fetch failed)"
+  },
+  {
+   "name": "clipdrop",
+   "link": "https://clipdrop.co",
+   "reason": "fetch-fail(fetch failed)"
+  },
+  {
+   "name": "hot reach ai",
+   "link": "https://hotreachai.com",
+   "reason": "fetch-fail(fetch failed)"
+  },
+  {
+   "name": "clipfly",
+   "link": "https://www.clipfly.ai",
+   "reason": "fetch-fail(fetch failed)"
+  },
+  {
+   "name": "eightify",
+   "link": "https://eightify.app",
+   "reason": "fetch-fail(fetch failed)"
+  },
+  {
+   "name": "longshot ai",
+   "link": "https://www.longshot.ai",
+   "reason": "fetch-fail(Failed to parse URL from Long%20Shot%201)"
+  },
+  {
+   "name": "magicslides",
+   "link": "https://www.magicslides.app",
+   "reason": "fetch-fail(fetch failed)"
+  },
+  {
+   "name": "google ai studio",
+   "link": "https://aistudio.google.com",
+   "reason": "fetch-fail(fetch failed)"
+  },
+  {
+   "name": "gencraft",
+   "link": "https://gencraft.com",
+   "reason": "fetch-fail(fetch failed)"
+  },
+  {
+   "name": "doctrina ai",
+   "link": "https://www.aitoolsspace.com/en/tools/doctrina-ai",
+   "reason": "fetch-fail(The operation was aborted due to timeout)"
+  },
+  {
+   "name": "grok",
+   "link": "https://grok.com",
+   "reason": "fetch-fail(fetch failed)"
+  },
+  {
+   "name": "ideogram",
+   "link": "https://ideogram.ai",
+   "reason": "fetch-fail(fetch failed)"
+  },
+  {
+   "name": "muse pro",
+   "link": "https://www.musepro.app",
+   "reason": "fetch-fail(fetch failed)"
+  },
+  {
+   "name": "playarti",
+   "link": "https://playarti.com",
+   "reason": "fetch-fail(fetch failed)"
+  },
+  {
+   "name": "podsift",
+   "link": "https://www.podsift.com",
+   "reason": "fetch-fail(fetch failed)"
+  },
+  {
+   "name": "krea",
+   "link": "https://www.krea.ai",
+   "reason": "fetch-fail(fetch failed)"
+  },
+  {
+   "name": "luma ai",
+   "link": "https://lumalabs.ai",
+   "reason": "fetch-fail(fetch failed)"
+  },
+  {
+   "name": "rankpress io",
+   "link": "https://rankpress.io",
+   "reason": "fetch-fail(fetch failed)"
+  },
+  {
+   "name": "meta ai",
+   "link": "https://www.meta.ai",
+   "reason": "fetch-fail(fetch failed)"
+  },
+  {
+   "name": "moltbook",
+   "link": "https://www.moltbook.com",
+   "reason": "fetch-fail(fetch failed)"
+  },
+  {
+   "name": "sellerai",
+   "link": "https://sellerai.com",
+   "reason": "fetch-fail(fetch failed)"
+  },
+  {
+   "name": "roll",
+   "link": "https://roll20.net",
+   "reason": "fetch-fail(Failed to parse URL from images/roll20-h)"
+  },
+  {
+   "name": "sofabrain",
+   "link": "https://sofabrain.com",
+   "reason": "fetch-fail(fetch failed)"
+  },
+  {
+   "name": "morise ai",
+   "link": "https://easywithai.com/ai-video-tools/morise-ai",
+   "reason": "fetch-fail(fetch failed)"
+  },
+  {
+   "name": "nichesss",
+   "link": "https://nichesss.com",
+   "reason": "fetch-fail(The operation was aborted due to timeout)"
+  },
+  {
+   "name": "pixite",
+   "link": "https://support.pixiteapps.com/hc/zh-cn",
+   "reason": "fetch-fail(fetch failed)"
+  },
+  {
+   "name": "translate video",
+   "link": "https://anytranscribe.com/core-tools/audio-video-translator",
+   "reason": "fetch-fail(fetch failed)"
+  },
+  {
+   "name": "poe",
+   "link": "https://poe.com",
+   "reason": "fetch-fail(fetch failed)"
+  },
+  {
+   "name": "reflectr",
+   "link": "https://www.reflectr.ai",
+   "reason": "fetch-fail(The operation was aborted due to timeout)"
+  },
+  {
+   "name": "scite",
+   "link": "https://scite.ai",
+   "reason": "fetch-fail(fetch failed)"
+  },
+  {
+   "name": "teachable machine",
+   "link": "https://teachablemachine.withgoogle.com",
+   "reason": "fetch-fail(fetch failed)"
+  },
+  {
+   "name": "you",
+   "link": "https://you.com",
+   "reason": "fetch-fail(fetch failed)"
+  },
+  {
+   "name": "wiseone",
+   "link": "https://www.wiseoneuk.com",
+   "reason": "fetch-fail(fetch failed)"
+  },
+  {
+   "name": "superflows",
+   "link": "https://www.superflows.ai",
+   "reason": "fetch-fail(Failed to parse URL from superflows-dark)"
+  },
+  {
+   "name": "one ai",
+   "link": "https://oneai.media/login",
+   "reason": "fetch-fail(fetch failed)"
+  },
+  {
+   "name": "obviously ai",
+   "link": "https://obviously.ai",
+   "reason": "fetch-fail(The operation was aborted due to timeout)"
+  },
+  {
+   "name": "insight7",
+   "link": "https://insight7.io",
+   "reason": "fetch-fail(fetch failed)"
+  },
+  {
+   "name": "audioshake",
+   "link": "https://www.audioshake.ai",
+   "reason": "fetch-fail(The operation was aborted due to timeout)"
+  },
+  {
+   "name": "any summary",
+   "link": "https://www.anysummary.app",
+   "reason": "fetch-fail(fetch failed)"
+  },
+  {
+   "name": "character ai",
+   "link": "https://character.ai",
+   "reason": "fetch-fail(fetch failed)"
+  },
+  {
+   "name": "perplexity ai",
+   "link": "https://www.perplexity.ai",
+   "reason": "fetch-fail(fetch failed)"
+  },
+  {
+   "name": "invideo",
+   "link": "https://invideo.io",
+   "reason": "fetch-fail(fetch failed)"
+  },
+  {
+   "name": "heygen",
+   "link": "https://www.heygen.com",
+   "reason": "fetch-fail(fetch failed)"
+  },
+  {
+   "name": "tripo ai",
+   "link": "https://www.tripo3d.ai",
+   "reason": "fetch-fail(fetch failed)"
+  },
+  {
+   "name": "trickle",
+   "link": "https://trickle.so",
+   "reason": "fetch-fail(fetch failed)"
+  },
+  {
+   "name": "playground ai",
+   "link": "https://playgroundai.com",
+   "reason": "fetch-fail(fetch failed)"
+  },
+  {
+   "name": "suno",
+   "link": "https://suno.com/l/ai-music-app",
+   "reason": "fetch-fail(fetch failed)"
+  },
+  {
+   "name": "anime ai",
+   "link": "https://perchance.org/ai-anime-generator",
+   "reason": "fetch-fail(fetch failed)"
+  },
+  {
+   "name": "blaze",
+   "link": "https://www.theblaze.com",
+   "reason": "fetch-fail(fetch failed)"
+  },
+  {
+   "name": "echowin",
+   "link": "https://echo.win",
+   "reason": "fetch-fail(fetch failed)"
+  },
+  {
+   "name": "heyphoto",
+   "link": "https://hey-photo.com",
+   "reason": "fetch-fail(fetch failed)"
+  },
+  {
+   "name": "chatgot",
+   "link": "https://chatgpt.com",
+   "reason": "fetch-fail(fetch failed)"
+  },
+  {
+   "name": "deep dream generator",
+   "link": "https://deepdreamgenerator.com",
+   "reason": "fetch-fail(fetch failed)"
+  },
+  {
+   "name": "gpt researcher",
+   "link": "https://chatgpt.com/g/g-nRK3Nn5yE-researcher",
+   "reason": "fetch-fail(fetch failed)"
+  },
+  {
+   "name": "hypotenuse ai",
+   "link": "https://www.hypotenuse.ai",
+   "reason": "fetch-fail(fetch failed)"
+  },
+  {
+   "name": "dezgo",
+   "link": "https://dezgo.com",
+   "reason": "fetch-fail(fetch failed)"
+  },
+  {
+   "name": "atlas",
+   "link": "https://www.worldatlas.com",
+   "reason": "fetch-fail(fetch failed)"
+  },
+  {
+   "name": "microsoft copilot",
+   "link": "https://copilot.microsoft.com",
+   "reason": "fetch-fail(fetch failed)"
+  },
+  {
+   "name": "imagine me",
+   "link": "https://imagineme.ai",
+   "reason": "fetch-fail(fetch failed)"
+  },
+  {
+   "name": "jounce",
+   "link": "https://jounce.ai",
+   "reason": "fetch-fail(fetch failed)"
+  },
+  {
+   "name": "ordinary people prompts",
+   "link": "https://www.ordinarypeopleprompts.com/howto",
+   "reason": "fetch-fail(fetch failed)"
+  },
+  {
+   "name": "lexica",
+   "link": "https://lexica.art/login",
+   "reason": "fetch-fail(fetch failed)"
+  },
+  {
+   "name": "magickpen",
+   "link": "https://magickpen.com",
+   "reason": "fetch-fail(fetch failed)"
+  },
+  {
+   "name": "nightcafe studio",
+   "link": "https://creator.nightcafe.studio",
+   "reason": "fetch-fail(fetch failed)"
+  },
+  {
+   "name": "openart",
+   "link": "https://openart.ai",
+   "reason": "fetch-fail(fetch failed)"
+  },
+  {
+   "name": "tldr this",
+   "link": "https://www.tldrthis.com",
+   "reason": "fetch-fail(fetch failed)"
+  },
+  {
+   "name": "picsart",
+   "link": "https://picsart.com",
+   "reason": "fetch-fail(fetch failed)"
+  },
+  {
+   "name": "podcast",
+   "link": "https://open.spotify.com/genre/podcasts-page",
+   "reason": "fetch-fail(fetch failed)"
+  },
+  {
+   "name": "platoria",
+   "link": "https://platoria.com",
+   "reason": "fetch-fail(The operation was aborted due to timeout)"
+  },
+  {
+   "name": "prompthero",
+   "link": "https://prompthero.com",
+   "reason": "fetch-fail(fetch failed)"
+  },
+  {
+   "name": "sider",
+   "link": "https://sider.ai",
+   "reason": "fetch-fail(fetch failed)"
+  },
+  {
+   "name": "steamship",
+   "link": "https://www.steamshipauthority.com",
+   "reason": "fetch-fail(fetch failed)"
+  },
+  {
+   "name": "summarize tech",
+   "link": "https://easywithai.com/ai-productivity-tools/summarize-tech",
+   "reason": "fetch-fail(fetch failed)"
+  },
+  {
+   "name": "virtual staging ai",
+   "link": "https://www.virtualstagingai.app",
+   "reason": "fetch-fail(The operation was aborted due to timeout)"
+  },
+  {
+   "name": "leonardo ai",
+   "link": "https://leonardo.ai",
+   "reason": "fetch-fail(fetch failed)"
+  },
+  {
+   "name": "wirestock",
+   "link": "https://wirestock.io",
+   "reason": "fetch-fail(fetch failed)"
+  },
+  {
+   "name": "chaingpt",
+   "link": "https://www.chaingpt.org",
+   "reason": "fetch-fail(fetch failed)"
+  },
+  {
+   "name": "chat prompt genius",
+   "link": "https://chatpromptgenius.com",
+   "reason": "fetch-fail(fetch failed)"
+  },
+  {
+   "name": "facetune",
+   "link": "https://www.facetuneapp.com",
+   "reason": "fetch-fail(fetch failed)"
+  },
+  {
+   "name": "chatgpt buddy",
+   "link": "https://chatgpt.com/g/g-xGT2QvWZv-pod-buddy",
+   "reason": "fetch-fail(fetch failed)"
+  },
+  {
+   "name": "chatgpt writer",
+   "link": "https://chatgpt.com/writing",
+   "reason": "fetch-fail(fetch failed)"
+  },
+  {
+   "name": "cutout pro",
+   "link": "https://www.cutout.pro",
+   "reason": "fetch-fail(fetch failed)"
+  },
+  {
+   "name": "replika",
+   "link": "https://replika.com",
+   "reason": "fetch-fail(fetch failed)"
+  },
+  {
+   "name": "generated photos",
+   "link": "https://generated.photos",
+   "reason": "fetch-fail(fetch failed)"
+  },
+  {
+   "name": "genei",
+   "link": "https://gemini.genai.mil",
+   "reason": "fetch-fail(fetch failed)"
+  },
+  {
+   "name": "prompt hunt",
+   "link": "https://www.prompthunt.com",
+   "reason": "fetch-fail(fetch failed)"
+  },
+  {
+   "name": "twine",
+   "link": "https://twinery.org",
+   "reason": "fetch-fail(fetch failed)"
+  },
+  {
+   "name": "udio",
+   "link": "https://www.udio.com",
+   "reason": "fetch-fail(fetch failed)"
+  },
+  {
+   "name": "remini",
+   "link": "https://remini.ai",
+   "reason": "fetch-fail(The operation was aborted due to timeout)"
+  },
+  {
+   "name": "videoleap",
+   "link": "https://www.videoleapapp.com",
+   "reason": "fetch-fail(fetch failed)"
+  },
+  {
+   "name": "songburst",
+   "link": "https://www.songburst.ai",
+   "reason": "fetch-fail(The operation was aborted due to timeout)"
+  },
+  {
+   "name": "stablecog",
+   "link": "https://stablecog.com",
+   "reason": "fetch-fail(fetch failed)"
+  },
+  {
+   "name": "sketch2app",
+   "link": "https://sketch2app.io",
+   "reason": "fetch-fail(The operation was aborted due to timeout)"
+  },
+  {
+   "name": "teach anything",
+   "link": "https://www.teach-anything.com",
+   "reason": "fetch-fail(fetch failed)"
+  },
+  {
+   "name": "trainengine ai",
+   "link": "https://trainengine.ai",
+   "reason": "fetch-fail(fetch failed)"
+  },
+  {
+   "name": "unsummary",
+   "link": "https://easywithai.com/ai-productivity-tools/unsummary",
+   "reason": "fetch-fail(fetch failed)"
+  },
+  {
+   "name": "scribble diffusion",
+   "link": "https://scribblediffusion.net",
+   "reason": "fetch-fail(Failed to parse URL from URL OF IMAGE)"
+  },
+  {
+   "name": "thumbmachine",
+   "link": "https://thumbmachine.com",
+   "reason": "fetch-fail(The operation was aborted due to timeout)"
+  },
+  {
+   "name": "applaime",
+   "link": "https://applaime.com/?ref=saasaitools",
+   "reason": "fetch-fail(fetch failed)"
+  },
+  {
+   "name": "ai suggests",
+   "link": "https://www.ai-suggests.com",
+   "reason": "fetch-fail(Failed to parse URL from assets/img/soci)"
+  },
+  {
+   "name": "claude",
+   "link": "https://claude.com",
+   "reason": "fetch-fail(fetch failed)"
+  },
+  {
+   "name": "youmind",
+   "link": "https://youmind.com",
+   "reason": "fetch-fail(fetch failed)"
+  },
+  {
+   "name": "civitai",
+   "link": "https://civitai.com",
+   "reason": "fetch-fail(fetch failed)"
+  },
+  {
+   "name": "typeface",
+   "link": "https://www.typeface.ai",
+   "reason": "fetch-fail(fetch failed)"
+  },
+  {
+   "name": "vidiq",
+   "link": "https://vidiq.com",
+   "reason": "fetch-fail(fetch failed)"
+  },
+  {
+   "name": "craiyon",
+   "link": "https://www.craiyon.com",
+   "reason": "fetch-fail(fetch failed)"
+  },
+  {
+   "name": "blackbox ai",
+   "link": "https://www.blackbox.ai",
+   "reason": "fetch-fail(fetch failed)"
+  }
+ ],
+ "1-no-og-tag": [
+  {
+   "name": "orchids",
+   "link": "https://www.wikihow.com/Care-for-Orchids",
+   "reason": "no-og-tag"
+  },
+  {
+   "name": "hoopsai",
+   "link": "https://hoopsai.net",
+   "reason": "no-og-tag"
+  },
+  {
+   "name": "heycli",
+   "link": "https://www.heycli.com",
+   "reason": "no-og-tag"
+  },
+  {
+   "name": "hatch",
+   "link": "https://www.hatch.com",
+   "reason": "no-og-tag"
+  },
+  {
+   "name": "i10x",
+   "link": "https://i10x.ai",
+   "reason": "no-og-tag"
+  },
+  {
+   "name": "imaginario ai",
+   "link": "https://imaginario.ai",
+   "reason": "no-og-tag"
+  },
+  {
+   "name": "ingestai",
+   "link": "https://ingestai.app",
+   "reason": "no-og-tag"
+  },
+  {
+   "name": "kive",
+   "link": "https://kive.ai",
+   "reason": "no-og-tag"
+  },
+  {
+   "name": "ink",
+   "link": "https://www.inktechnologies.com",
+   "reason": "no-og-tag"
+  },
+  {
+   "name": "magify design",
+   "link": "https://magify.design/?ref=infilimits",
+   "reason": "no-og-tag"
+  },
+  {
+   "name": "locus",
+   "link": "https://locus.luc.edu",
+   "reason": "no-og-tag"
+  },
+  {
+   "name": "merlin",
+   "link": "https://me2.ihgmerlin.com/static/login/loginforms/logout.html",
+   "reason": "no-og-tag"
+  },
+  {
+   "name": "maigic book",
+   "link": "https://thedailymagician.com/best-magic-books",
+   "reason": "no-og-tag"
+  },
+  {
+   "name": "memflow",
+   "link": "https://memflow.io",
+   "reason": "no-og-tag"
+  },
+  {
+   "name": "papercup",
+   "link": "https://staging.papercup.com",
+   "reason": "no-og-tag"
+  },
+  {
+   "name": "meet millie",
+   "link": "https://nostalgiacentral.com/television/tv-by-decade/tv-shows-1950s/meet-millie",
+   "reason": "no-og-tag"
+  },
+  {
+   "name": "kili",
+   "link": "https://kili-technology.com",
+   "reason": "no-og-tag"
+  },
+  {
+   "name": "plusvector",
+   "link": "https://plusvector.com",
+   "reason": "no-og-tag"
+  },
+  {
+   "name": "pixela ai",
+   "link": "https://pixella.ai",
+   "reason": "no-og-tag"
+  },
+  {
+   "name": "rytr",
+   "link": "https://rytr.me",
+   "reason": "no-og-tag"
+  },
+  {
+   "name": "namelix",
+   "link": "https://namelix.com",
+   "reason": "no-og-tag"
+  },
+  {
+   "name": "tabnine",
+   "link": "https://www.tabnine.com",
+   "reason": "no-og-tag"
+  },
+  {
+   "name": "summify",
+   "link": "https://summify.io",
+   "reason": "no-og-tag"
+  },
+  {
+   "name": "wordai",
+   "link": "https://wordai.com",
+   "reason": "no-og-tag"
+  },
+  {
+   "name": "ace studio",
+   "link": "https://acestudio.ai",
+   "reason": "no-og-tag"
+  },
+  {
+   "name": "adobe podcast",
+   "link": "https://podcast.adobe.com/en",
+   "reason": "no-og-tag"
+  },
+  {
+   "name": "yarnit",
+   "link": "https://www.yarnit.app",
+   "reason": "no-og-tag"
+  },
+  {
+   "name": "angry email translator",
+   "link": "https://angryemailtranslator.com",
+   "reason": "no-og-tag"
+  },
+  {
+   "name": "ai studios",
+   "link": "https://app.aistudios.com/dashboard",
+   "reason": "no-og-tag"
+  },
+  {
+   "name": "bookabout",
+   "link": "https://bookabout.io",
+   "reason": "no-og-tag"
+  },
+  {
+   "name": "beepbooply",
+   "link": "https://beepbooply.com",
+   "reason": "no-og-tag"
+  },
+  {
+   "name": "capcut",
+   "link": "https://www.capcut.com",
+   "reason": "no-og-tag"
+  },
+  {
+   "name": "census gpt",
+   "link": "https://censusgpt.com",
+   "reason": "no-og-tag"
+  },
+  {
+   "name": "capgo ai",
+   "link": "https://capgo.ai",
+   "reason": "no-og-tag"
+  },
+  {
+   "name": "build chatbot",
+   "link": "https://www.chatbot.com/help/build-your-chatbot/how-to-build-your-chatbot",
+   "reason": "no-og-tag"
+  },
+  {
+   "name": "caffeine",
+   "link": "https://zhornsoftware.co.uk/caffeine",
+   "reason": "no-og-tag"
+  },
+  {
+   "name": "chatmate ai",
+   "link": "https://www.chatmate.ai",
+   "reason": "no-og-tag"
+  },
+  {
+   "name": "datingbyai",
+   "link": "https://dating.ai",
+   "reason": "no-og-tag"
+  },
+  {
+   "name": "durable ai",
+   "link": "https://durable.ai",
+   "reason": "no-og-tag"
+  },
+  {
+   "name": "dubbing ai",
+   "link": "https://dubbingai.io",
+   "reason": "no-og-tag"
+  },
+  {
+   "name": "enso",
+   "link": "https://ensorings.com",
+   "reason": "no-og-tag"
+  },
+  {
+   "name": "everlearns",
+   "link": "https://everlearns.com",
+   "reason": "no-og-tag"
+  },
+  {
+   "name": "fastcut",
+   "link": "https://www.fastcam.com/new/fastcut-optimizer-for-metal-glass-wood.html",
+   "reason": "no-og-tag"
+  },
+  {
+   "name": "excel formularizer",
+   "link": "https://formularizer.com/sign-up",
+   "reason": "no-og-tag"
+  },
+  {
+   "name": "fixkey",
+   "link": "https://www.fixkey.ai",
+   "reason": "no-og-tag"
+  },
+  {
+   "name": "findameal",
+   "link": "https://findameal.eu",
+   "reason": "no-og-tag"
+  },
+  {
+   "name": "fliz",
+   "link": "https://fliz.ai",
+   "reason": "no-og-tag"
+  },
+  {
+   "name": "immersive translate",
+   "link": "https://immersivetranslate.com/en",
+   "reason": "no-og-tag"
+  },
+  {
+   "name": "inbox narrator",
+   "link": "https://inboxnarrator.com",
+   "reason": "no-og-tag"
+  },
+  {
+   "name": "intellimail",
+   "link": "https://my.intellimali.co.za",
+   "reason": "no-og-tag"
+  },
+  {
+   "name": "juice",
+   "link": "https://www.mp3juices.me/en",
+   "reason": "no-og-tag"
+  },
+  {
+   "name": "landing ai",
+   "link": "https://landing.ai",
+   "reason": "no-og-tag"
+  },
+  {
+   "name": "lex",
+   "link": "https://sso.lex.education",
+   "reason": "no-og-tag"
+  },
+  {
+   "name": "leni",
+   "link": "https://leni.co",
+   "reason": "no-og-tag"
+  },
+  {
+   "name": "linfo ai",
+   "link": "https://linfo.ai",
+   "reason": "no-og-tag"
+  },
+  {
+   "name": "mindos",
+   "link": "https://mindos.you",
+   "reason": "no-og-tag"
+  },
+  {
+   "name": "mealsai",
+   "link": "https://www.mealsai.com",
+   "reason": "no-og-tag"
+  },
+  {
+   "name": "numerousflow",
+   "link": "https://www.numerous.com",
+   "reason": "no-og-tag"
+  },
+  {
+   "name": "parea ai",
+   "link": "https://www.parea.ai",
+   "reason": "no-og-tag"
+  },
+  {
+   "name": "optimo",
+   "link": "https://my.optimoroute.com",
+   "reason": "no-og-tag"
+  },
+  {
+   "name": "pictales",
+   "link": "https://pictales.online",
+   "reason": "no-og-tag"
+  },
+  {
+   "name": "podsqueeze",
+   "link": "https://podsqueeze.com",
+   "reason": "no-og-tag"
+  },
+  {
+   "name": "potion",
+   "link": "https://dashboard.potion.so/login",
+   "reason": "no-og-tag"
+  },
+  {
+   "name": "powermode ai",
+   "link": "https://powermodeai.com",
+   "reason": "no-og-tag"
+  },
+  {
+   "name": "powerpen",
+   "link": "https://www.lakeshorelearning.com/products/accessories/power-pen/p/BD530",
+   "reason": "no-og-tag"
+  },
+  {
+   "name": "puddl",
+   "link": "https://www.puddl.net",
+   "reason": "no-og-tag"
+  },
+  {
+   "name": "procys",
+   "link": "https://procys.com",
+   "reason": "no-og-tag"
+  },
+  {
+   "name": "read easy ai",
+   "link": "https://readeasy.ai",
+   "reason": "no-og-tag"
+  },
+  {
+   "name": "reinforz",
+   "link": "https://www.reinforz.ai",
+   "reason": "no-og-tag"
+  },
+  {
+   "name": "runware",
+   "link": "https://runware.ai",
+   "reason": "no-og-tag"
+  },
+  {
+   "name": "steve",
+   "link": "https://www.stevemadden.com",
+   "reason": "no-og-tag"
+  },
+  {
+   "name": "soundful",
+   "link": "https://soundful.com",
+   "reason": "no-og-tag"
+  },
+  {
+   "name": "userdesk",
+   "link": "https://userdesk.io",
+   "reason": "no-og-tag"
+  },
+  {
+   "name": "topview ai",
+   "link": "https://www.topview.ai",
+   "reason": "no-og-tag"
+  },
+  {
+   "name": "visionstory",
+   "link": "https://www.visionstory.ai",
+   "reason": "no-og-tag"
+  },
+  {
+   "name": "workhub",
+   "link": "https://www.workhub.com",
+   "reason": "no-og-tag"
+  },
+  {
+   "name": "zencall ai",
+   "link": "https://www.zencall.ai",
+   "reason": "no-og-tag"
+  },
+  {
+   "name": "webwhiz",
+   "link": "https://app.webwhiz.ai/login",
+   "reason": "no-og-tag"
+  },
+  {
+   "name": "imgcreator ai",
+   "link": "https://imgcreatorai.io",
+   "reason": "no-og-tag"
+  },
+  {
+   "name": "vizard",
+   "link": "https://vizard.ai",
+   "reason": "no-og-tag"
+  },
+  {
+   "name": "ai phone",
+   "link": "https://www.aiphone.com",
+   "reason": "no-og-tag"
+  },
+  {
+   "name": "cheat layer",
+   "link": "https://cheatlayer.com",
+   "reason": "no-og-tag"
+  },
+  {
+   "name": "cockatoo",
+   "link": "https://www.cockatoo.com",
+   "reason": "no-og-tag"
+  },
+  {
+   "name": "comment generator",
+   "link": "https://thecommentgenerator.com",
+   "reason": "no-og-tag"
+  },
+  {
+   "name": "mindgrasp",
+   "link": "https://www.mindgrasp.ai",
+   "reason": "no-og-tag"
+  },
+  {
+   "name": "chorus",
+   "link": "https://portail.chorus-pro.gouv.fr",
+   "reason": "no-og-tag"
+  },
+  {
+   "name": "nanonets",
+   "link": "https://nanonets.com",
+   "reason": "no-og-tag"
+  },
+  {
+   "name": "webscrapeai",
+   "link": "https://webscrapeai.com",
+   "reason": "no-og-tag"
+  },
+  {
+   "name": "public prompts",
+   "link": "https://www.publicprompts.art",
+   "reason": "no-og-tag"
+  },
+  {
+   "name": "voxify",
+   "link": "https://voxify.ai",
+   "reason": "no-og-tag"
+  },
+  {
+   "name": "aipdf",
+   "link": "https://aipdf.com/en",
+   "reason": "no-og-tag"
+  },
+  {
+   "name": "altered",
+   "link": "https://www.altered.gg/en-us",
+   "reason": "no-og-tag"
+  },
+  {
+   "name": "ai ghostwriter",
+   "link": "https://www.ghostthewriter.com",
+   "reason": "no-og-tag"
+  },
+  {
+   "name": "bloggerai",
+   "link": "https://bloggerai.app",
+   "reason": "no-og-tag"
+  },
+  {
+   "name": "alphactr",
+   "link": "https://alphactr.com",
+   "reason": "no-og-tag"
+  },
+  {
+   "name": "shadow",
+   "link": "https://shadow.tech/us",
+   "reason": "no-og-tag"
+  },
+  {
+   "name": "spikes studio",
+   "link": "https://www.spikes.studio",
+   "reason": "no-og-tag"
+  },
+  {
+   "name": "aire",
+   "link": "https://www.esteri.it/en/servizi-opportunita/italiani-all-estero/aire_0",
+   "reason": "no-og-tag"
+  },
+  {
+   "name": "commenter ai",
+   "link": "https://www.commenter.ai",
+   "reason": "no-og-tag"
+  },
+  {
+   "name": "cometapi",
+   "link": "https://www.cometapi.com",
+   "reason": "no-og-tag"
+  },
+  {
+   "name": "callzen ai",
+   "link": "https://convozen.ai",
+   "reason": "no-og-tag"
+  },
+  {
+   "name": "chatpad ai",
+   "link": "https://chatpad.ai",
+   "reason": "no-og-tag"
+  },
+  {
+   "name": "content at scale",
+   "link": "https://contentatscale.ai/about/?fpr=register",
+   "reason": "no-og-tag"
+  },
+  {
+   "name": "delibr ai",
+   "link": "https://www.delibr.com",
+   "reason": "no-og-tag"
+  },
+  {
+   "name": "dzine ai",
+   "link": "https://www.dzine.ai/faq",
+   "reason": "no-og-tag"
+  },
+  {
+   "name": "gajix",
+   "link": "https://gajix.com",
+   "reason": "no-og-tag"
+  },
+  {
+   "name": "dreamstudio",
+   "link": "https://dreamstudio.com/start",
+   "reason": "no-og-tag"
+  },
+  {
+   "name": "gorilla terminal",
+   "link": "https://gorillaterminal.com",
+   "reason": "no-og-tag"
+  },
+  {
+   "name": "elephas",
+   "link": "https://elephas.com",
+   "reason": "no-og-tag"
+  },
+  {
+   "name": "haiper",
+   "link": "https://haiper.ai",
+   "reason": "no-og-tag"
+  },
+  {
+   "name": "hyperaide",
+   "link": "https://hyperaide.com",
+   "reason": "no-og-tag"
+  },
+  {
+   "name": "hypertype",
+   "link": "https://www.hypertype.ai",
+   "reason": "no-og-tag"
+  },
+  {
+   "name": "iconkit",
+   "link": "https://www.iconkit.io",
+   "reason": "no-og-tag"
+  },
+  {
+   "name": "hostinger",
+   "link": "https://www.hostinger.com",
+   "reason": "no-og-tag"
+  },
+  {
+   "name": "gptgame",
+   "link": "https://www.gptgame.app",
+   "reason": "no-og-tag"
+  },
+  {
+   "name": "intentional ai",
+   "link": "https://intentionai.ai",
+   "reason": "no-og-tag"
+  },
+  {
+   "name": "impossible images",
+   "link": "https://im-possible.info/english",
+   "reason": "no-og-tag"
+  },
+  {
+   "name": "kbasebot",
+   "link": "https://kbai.dev",
+   "reason": "no-og-tag"
+  },
+  {
+   "name": "lalal ai",
+   "link": "https://www.lalal.ai",
+   "reason": "no-og-tag"
+  },
+  {
+   "name": "lettria",
+   "link": "https://www.lettria.com",
+   "reason": "no-og-tag"
+  },
+  {
+   "name": "listingcopy ai",
+   "link": "https://listingcopy.ai",
+   "reason": "no-og-tag"
+  },
+  {
+   "name": "lxi ai",
+   "link": "https://lxi.ai",
+   "reason": "no-og-tag"
+  },
+  {
+   "name": "litrpg adventures",
+   "link": "https://www.litrpgadventures.com",
+   "reason": "no-og-tag"
+  },
+  {
+   "name": "marscode",
+   "link": "https://www.marscode.cn/login",
+   "reason": "no-og-tag"
+  },
+  {
+   "name": "metabob",
+   "link": "https://metabob.com",
+   "reason": "no-og-tag"
+  },
+  {
+   "name": "midjourney prompt helper",
+   "link": "https://pmidjourney.com",
+   "reason": "no-og-tag"
+  },
+  {
+   "name": "mailr",
+   "link": "https://mail.ru",
+   "reason": "no-og-tag"
+  },
+  {
+   "name": "moncelo",
+   "link": "https://moncelo.com/?ref=monkeyai",
+   "reason": "no-og-tag"
+  },
+  {
+   "name": "openl",
+   "link": "https://openl.io",
+   "reason": "no-og-tag"
+  },
+  {
+   "name": "notability",
+   "link": "https://notability.com",
+   "reason": "no-og-tag"
+  },
+  {
+   "name": "octiai",
+   "link": "https://app.octiai.com",
+   "reason": "no-og-tag"
+  },
+  {
+   "name": "pal",
+   "link": "https://www.philippineairlines.com/ph/en/home.html",
+   "reason": "no-og-tag"
+  },
+  {
+   "name": "peech",
+   "link": "https://getpeech.com",
+   "reason": "no-og-tag"
+  },
+  {
+   "name": "pico",
+   "link": "https://www.picoxr.com/global",
+   "reason": "no-og-tag"
+  },
+  {
+   "name": "pandada ai",
+   "link": "https://pandada.ai",
+   "reason": "no-og-tag"
+  },
+  {
+   "name": "outboundly",
+   "link": "https://outboundly.ai",
+   "reason": "no-og-tag"
+  },
+  {
+   "name": "phind",
+   "link": "https://phindai.org",
+   "reason": "no-og-tag"
+  },
+  {
+   "name": "playlistai",
+   "link": "https://www.playlistai.app",
+   "reason": "no-og-tag"
+  },
+  {
+   "name": "paka ai",
+   "link": "https://paka.ai",
+   "reason": "no-og-tag"
+  },
+  {
+   "name": "promptomania",
+   "link": "https://promptomania.com",
+   "reason": "no-og-tag"
+  },
+  {
+   "name": "query kitty",
+   "link": "http://querykitty.com",
+   "reason": "no-og-tag"
+  },
+  {
+   "name": "quizbot",
+   "link": "https://quizbot.ai",
+   "reason": "no-og-tag"
+  },
+  {
+   "name": "quizgrowth",
+   "link": "https://www.howtomakemoneywith.ai/blog/how-to-use-quizgrowth",
+   "reason": "no-og-tag"
+  },
+  {
+   "name": "releasenote ai",
+   "link": "https://www.releasenote.ai",
+   "reason": "no-og-tag"
+  },
+  {
+   "name": "smudge ai",
+   "link": "https://smudge.ai",
+   "reason": "no-og-tag"
+  },
+  {
+   "name": "sqriblr",
+   "link": "https://sqriblr.com/?ref=producthunt",
+   "reason": "no-og-tag"
+  },
+  {
+   "name": "stable attribution",
+   "link": "https://www.stableattribution.com",
+   "reason": "no-og-tag"
+  },
+  {
+   "name": "styldod",
+   "link": "https://www.styldod.com",
+   "reason": "no-og-tag"
+  },
+  {
+   "name": "superreply",
+   "link": "https://www.superreply.co",
+   "reason": "no-og-tag"
+  },
+  {
+   "name": "stable horde",
+   "link": "https://stablehorde.net",
+   "reason": "no-og-tag"
+  },
+  {
+   "name": "studyx",
+   "link": "https://studyx.ai",
+   "reason": "no-og-tag"
+  },
+  {
+   "name": "talknotes",
+   "link": "https://talknotes.io",
+   "reason": "no-og-tag"
+  },
+  {
+   "name": "talkpal",
+   "link": "https://talkpal.ai",
+   "reason": "no-og-tag"
+  },
+  {
+   "name": "the new black",
+   "link": "https://thenewblack.ai",
+   "reason": "no-og-tag"
+  },
+  {
+   "name": "tweetemote",
+   "link": "https://www.tweetemote.com",
+   "reason": "no-og-tag"
+  },
+  {
+   "name": "typeblock",
+   "link": "https://www.typeblock.co/?ref=betalist",
+   "reason": "no-og-tag"
+  },
+  {
+   "name": "vid ai",
+   "link": "https://vid.ai",
+   "reason": "no-og-tag"
+  },
+  {
+   "name": "wondershare virbo",
+   "link": "https://virbo.wondershare.com",
+   "reason": "no-og-tag"
+  },
+  {
+   "name": "video2recipe",
+   "link": "https://www.video2recipe.com",
+   "reason": "no-og-tag"
+  },
+  {
+   "name": "theoassist",
+   "link": "https://theoassist.com",
+   "reason": "no-og-tag"
+  },
+  {
+   "name": "workgpt",
+   "link": "https://app.workgpt.ai",
+   "reason": "no-og-tag"
+  },
+  {
+   "name": "vocalo",
+   "link": "https://vocalo.org",
+   "reason": "no-og-tag"
+  },
+  {
+   "name": "waymark",
+   "link": "https://waymark.com",
+   "reason": "no-og-tag"
+  },
+  {
+   "name": "storyai",
+   "link": "https://storyai.cc",
+   "reason": "no-og-tag"
+  },
+  {
+   "name": "mindsdb",
+   "link": "https://info.mindsdb.com",
+   "reason": "no-og-tag"
+  },
+  {
+   "name": "coverler",
+   "link": "https://coverler.com/ai-cover-letter-generator",
+   "reason": "no-og-tag"
+  },
+  {
+   "name": "chatmind",
+   "link": "https://home.chatmind.tech",
+   "reason": "no-og-tag"
+  },
+  {
+   "name": "chatgpt exporter",
+   "link": "https://www.chatgptexporter.com/en/docs/quick-start",
+   "reason": "no-og-tag"
+  },
+  {
+   "name": "cleanvoice ai",
+   "link": "https://cleanvoice.ai",
+   "reason": "no-og-tag"
+  },
+  {
+   "name": "clips ai",
+   "link": "https://www.clipsai.com",
+   "reason": "no-og-tag"
+  },
+  {
+   "name": "chattydocs",
+   "link": "https://chattydocs.com",
+   "reason": "no-og-tag"
+  },
+  {
+   "name": "clearword",
+   "link": "https://clearword.com",
+   "reason": "no-og-tag"
+  },
+  {
+   "name": "code genius",
+   "link": "https://codegenius.org",
+   "reason": "no-og-tag"
+  },
+  {
+   "name": "clonedub",
+   "link": "https://www.clonedub.com",
+   "reason": "no-og-tag"
+  },
+  {
+   "name": "deepbrain ai",
+   "link": "https://account.deepbrain.io/auth/signin",
+   "reason": "no-og-tag"
+  },
+  {
+   "name": "creative fast aid",
+   "link": "http://www.creativefastaid.com",
+   "reason": "no-og-tag"
+  },
+  {
+   "name": "deepreview",
+   "link": "https://deepreview.cloud",
+   "reason": "no-og-tag"
+  },
+  {
+   "name": "deepfakes lol",
+   "link": "https://deepfakes.lol",
+   "reason": "no-og-tag"
+  },
+  {
+   "name": "designify",
+   "link": "https://designify.cc",
+   "reason": "no-og-tag"
+  },
+  {
+   "name": "discuroai",
+   "link": "https://discuro.com",
+   "reason": "no-og-tag"
+  },
+  {
+   "name": "doodle morph ai",
+   "link": "https://doodlemorphai.com",
+   "reason": "no-og-tag"
+  },
+  {
+   "name": "formularizer",
+   "link": "https://formularizer.com/home?new=true",
+   "reason": "no-og-tag"
+  },
+  {
+   "name": "getfloorplan",
+   "link": "https://getfloorplan.com",
+   "reason": "no-og-tag"
+  },
+  {
+   "name": "ghostcut",
+   "link": "https://ghostcut.app",
+   "reason": "no-og-tag"
+  },
+  {
+   "name": "fakeface",
+   "link": "https://fakeface.io",
+   "reason": "no-og-tag"
+  },
+  {
+   "name": "gnbly",
+   "link": "https://gnbly.com",
+   "reason": "no-og-tag"
+  },
+  {
+   "name": "glambase",
+   "link": "https://glambase.app/ai-agents",
+   "reason": "no-og-tag"
+  },
+  {
+   "name": "gobii",
+   "link": "https://gobii.ai",
+   "reason": "no-og-tag"
+  },
+  {
+   "name": "prometai",
+   "link": "https://prometai.app",
+   "reason": "no-og-tag"
+  },
+  {
+   "name": "promptperfect",
+   "link": "http://promptperfect.xyz",
+   "reason": "no-og-tag"
+  },
+  {
+   "name": "designs ai",
+   "link": "https://designs.ai",
+   "reason": "no-og-tag"
+  },
+  {
+   "name": "replicastudios",
+   "link": "https://www.replicastudios.com",
+   "reason": "no-og-tag"
+  },
+  {
+   "name": "proddy io",
+   "link": "https://proddy.io/auth/signin",
+   "reason": "no-og-tag"
+  },
+  {
+   "name": "prophotos",
+   "link": "https://prophotos.ai",
+   "reason": "no-og-tag"
+  },
+  {
+   "name": "respell",
+   "link": "https://respell.ai",
+   "reason": "no-og-tag"
+  },
+  {
+   "name": "potis ai",
+   "link": "https://www.potis.ai",
+   "reason": "no-og-tag"
+  },
+  {
+   "name": "rhetorai",
+   "link": "https://www.rhetorai.com",
+   "reason": "no-og-tag"
+  },
+  {
+   "name": "seo ai",
+   "link": "https://seo.ai",
+   "reason": "no-og-tag"
+  },
+  {
+   "name": "schemawriter ai",
+   "link": "https://schemawriter.ai",
+   "reason": "no-og-tag"
+  },
+  {
+   "name": "shuffll",
+   "link": "https://shuffll.com",
+   "reason": "no-og-tag"
+  },
+  {
+   "name": "resumecheck net",
+   "link": "https://resumecheck.net",
+   "reason": "no-og-tag"
+  },
+  {
+   "name": "social comments gpt",
+   "link": "https://social-comments-gpt.com",
+   "reason": "no-og-tag"
+  },
+  {
+   "name": "socratic by google",
+   "link": "https://app.learnwithsocratic.com/welcome.html",
+   "reason": "no-og-tag"
+  },
+  {
+   "name": "snack prompt",
+   "link": "https://snackprompt.com",
+   "reason": "no-og-tag"
+  },
+  {
+   "name": "spiritme",
+   "link": "https://updates.spiritme.tech",
+   "reason": "no-og-tag"
+  },
+  {
+   "name": "taleai",
+   "link": "https://www.taleai.com/en",
+   "reason": "no-og-tag"
+  },
+  {
+   "name": "steosvoice",
+   "link": "https://cybervoice.io/en",
+   "reason": "no-og-tag"
+  },
+  {
+   "name": "tilemaker",
+   "link": "https://tilemaker.org",
+   "reason": "no-og-tag"
+  },
+  {
+   "name": "topaz video ai",
+   "link": "https://topazvideo.cn",
+   "reason": "no-og-tag"
+  },
+  {
+   "name": "voila",
+   "link": "https://voila.ca",
+   "reason": "no-og-tag"
+  },
+  {
+   "name": "voicemaker",
+   "link": "https://voicemaker.in",
+   "reason": "no-og-tag"
+  },
+  {
+   "name": "wowto",
+   "link": "https://wowto.ai",
+   "reason": "no-og-tag"
+  },
+  {
+   "name": "vsub",
+   "link": "https://vsub.io",
+   "reason": "no-og-tag"
+  },
+  {
+   "name": "codegeex",
+   "link": "https://codegeex.cn",
+   "reason": "no-og-tag"
+  },
+  {
+   "name": "writegpt",
+   "link": "https://writegptapp.com",
+   "reason": "no-og-tag"
+  },
+  {
+   "name": "etsygenerator",
+   "link": "https://etsygenerator.com",
+   "reason": "no-og-tag"
+  },
+  {
+   "name": "rose ai",
+   "link": "https://rose.ai",
+   "reason": "no-og-tag"
+  },
+  {
+   "name": "aicheatcheck",
+   "link": "https://aicheatcheck.com",
+   "reason": "no-og-tag"
+  },
+  {
+   "name": "waverly",
+   "link": "https://waverly.com/home",
+   "reason": "no-og-tag"
+  },
+  {
+   "name": "ai writer",
+   "link": "https://www.hyperwriteai.com/tools/free-ai-writer",
+   "reason": "no-og-tag"
+  },
+  {
+   "name": "applai me",
+   "link": "https://www.applai.me",
+   "reason": "no-og-tag"
+  },
+  {
+   "name": "arcwise ai",
+   "link": "https://arcwise.app",
+   "reason": "no-og-tag"
+  },
+  {
+   "name": "adcopy ai",
+   "link": "https://app.adcopy.ai",
+   "reason": "no-og-tag"
+  },
+  {
+   "name": "aiva",
+   "link": "https://www.aiva.ai",
+   "reason": "no-og-tag"
+  },
+  {
+   "name": "autoresponder ai",
+   "link": "https://www.autoresponder.ai",
+   "reason": "no-og-tag"
+  },
+  {
+   "name": "bhuman",
+   "link": "https://www.bhuman.ai",
+   "reason": "no-og-tag"
+  },
+  {
+   "name": "belva",
+   "link": "https://www.belva.com",
+   "reason": "no-og-tag"
+  },
+  {
+   "name": "answerflow ai",
+   "link": "https://www.answerflow-ai.com",
+   "reason": "no-og-tag"
+  },
+  {
+   "name": "call annie",
+   "link": "https://callannie.ai",
+   "reason": "no-og-tag"
+  }
+ ],
+ "3-page-error": [
+  {
+   "name": "godmode",
+   "link": "https://www.lifewire.com/god-mode-windows-4154662",
+   "reason": "page-403"
+  },
+  {
+   "name": "makelog",
+   "link": "https://topai.tools/t/makelog",
+   "reason": "page-403"
+  },
+  {
+   "name": "mango ai",
+   "link": "https://mangoanimate.com",
+   "reason": "page-403"
+  },
+  {
+   "name": "jetpack ai assistant",
+   "link": "https://ai.jetpacksandbox.com/assistant",
+   "reason": "page-500"
+  },
+  {
+   "name": "komo search",
+   "link": "https://theresanaiforthat.com/ai/komo-ai",
+   "reason": "page-403"
+  },
+  {
+   "name": "mymap ai",
+   "link": "https://www.mymap.ai",
+   "reason": "page-403"
+  },
+  {
+   "name": "sibyl ai",
+   "link": "https://sibyls.ai",
+   "reason": "page-403"
+  },
+  {
+   "name": "stable audio",
+   "link": "https://stableaudio.com/generate",
+   "reason": "page-403"
+  },
+  {
+   "name": "88stacks",
+   "link": "https://88stacks.com/models/tag--art",
+   "reason": "page-403"
+  },
+  {
+   "name": "adept",
+   "link": "https://www.merriam-webster.com/dictionary/adept",
+   "reason": "page-403"
+  },
+  {
+   "name": "ai consulting tools",
+   "link": "https://thedigitalprojectmanager.com/tools/best-ai-tools-for-consultants",
+   "reason": "page-403"
+  },
+  {
+   "name": "aitubo",
+   "link": "https://aitubo.ai",
+   "reason": "page-403"
+  },
+  {
+   "name": "arc search",
+   "link": "https://arc.net/search",
+   "reason": "page-403"
+  },
+  {
+   "name": "assisterr",
+   "link": "https://build.assisterr.ai",
+   "reason": "page-307"
+  },
+  {
+   "name": "architectgpt",
+   "link": "https://www.architectgpt.io",
+   "reason": "page-403"
+  },
+  {
+   "name": "charisma",
+   "link": "https://www.merriam-webster.com/dictionary/charisma",
+   "reason": "page-403"
+  },
+  {
+   "name": "chartpixel",
+   "link": "https://www.chartpixel.com",
+   "reason": "page-403"
+  },
+  {
+   "name": "chatdesigner",
+   "link": "https://creati.ai/ai-tools/chatdesigner",
+   "reason": "page-403"
+  },
+  {
+   "name": "chattab",
+   "link": "https://theresanaiforthat.com/ai/chattab",
+   "reason": "page-403"
+  },
+  {
+   "name": "create",
+   "link": "https://www.curseforge.com/minecraft/mc-mods/create",
+   "reason": "page-403"
+  },
+  {
+   "name": "dream interpreter",
+   "link": "https://dreaminterpreter.ai",
+   "reason": "page-429"
+  },
+  {
+   "name": "doo",
+   "link": "https://www.doordash.com",
+   "reason": "page-403"
+  },
+  {
+   "name": "hidden door",
+   "link": "https://hiddendoorstore.com",
+   "reason": "page-503"
+  },
+  {
+   "name": "julius",
+   "link": "https://julius.ai",
+   "reason": "page-403"
+  },
+  {
+   "name": "makemytale",
+   "link": "https://www.makemytale.com",
+   "reason": "page-502"
+  },
+  {
+   "name": "perso ai",
+   "link": "https://perso.ai",
+   "reason": "page-403"
+  },
+  {
+   "name": "prepai",
+   "link": "https://www.prepai.io/us",
+   "reason": "page-403"
+  },
+  {
+   "name": "promo ai",
+   "link": "https://www.promeai.pro",
+   "reason": "page-403"
+  },
+  {
+   "name": "questflow",
+   "link": "https://questflow.ai",
+   "reason": "page-403"
+  },
+  {
+   "name": "rejoy",
+   "link": "https://rejoy.hu",
+   "reason": "page-403"
+  },
+  {
+   "name": "stylar",
+   "link": "https://app.stylar.com",
+   "reason": "page-402"
+  },
+  {
+   "name": "three sigma",
+   "link": "https://www.investopedia.com/terms/t/three-sigma-limits.asp",
+   "reason": "page-403"
+  },
+  {
+   "name": "thumbnailai",
+   "link": "https://thumbnail.ai",
+   "reason": "page-403"
+  },
+  {
+   "name": "tripadvisor summary",
+   "link": "https://www.tripadvisor.com",
+   "reason": "page-403"
+  },
+  {
+   "name": "tweetify it",
+   "link": "https://tweetify.it",
+   "reason": "page-403"
+  },
+  {
+   "name": "viggle",
+   "link": "https://viggle.ai",
+   "reason": "page-403"
+  },
+  {
+   "name": "vocal remover",
+   "link": "https://vocalremover.org",
+   "reason": "page-403"
+  },
+  {
+   "name": "marketingblocks ai",
+   "link": "https://www.marketingblocks.ai",
+   "reason": "page-403"
+  },
+  {
+   "name": "upword",
+   "link": "https://www.upwork.com",
+   "reason": "page-403"
+  },
+  {
+   "name": "lucidpic",
+   "link": "https://lucidpic.com",
+   "reason": "page-403"
+  },
+  {
+   "name": "looka",
+   "link": "https://looka.com",
+   "reason": "page-403"
+  },
+  {
+   "name": "3daily",
+   "link": "https://3daily.ai",
+   "reason": "page-403"
+  },
+  {
+   "name": "canva",
+   "link": "https://www.canva.com",
+   "reason": "page-403"
+  },
+  {
+   "name": "danelfin",
+   "link": "https://danelfin.com",
+   "reason": "page-403"
+  },
+  {
+   "name": "gpt engineer",
+   "link": "https://levelup.gitconnected.com/gpt-engineer-build-an-entire-app-with-a-single-prompt-14a1bbf4aeb6",
+   "reason": "page-403"
+  },
+  {
+   "name": "gptgo",
+   "link": "https://gptgo.ai/pages/about.html",
+   "reason": "page-403"
+  },
+  {
+   "name": "hourone",
+   "link": "https://www.beyond-the-ai.com/tools/hourone",
+   "reason": "page-403"
+  },
+  {
+   "name": "inmagic ai",
+   "link": "https://inmagic.ai",
+   "reason": "page-403"
+  },
+  {
+   "name": "jogg ai",
+   "link": "https://www.jogg.ai",
+   "reason": "page-403"
+  },
+  {
+   "name": "levity",
+   "link": "https://www.merriam-webster.com/dictionary/levity",
+   "reason": "page-403"
+  },
+  {
+   "name": "lovo ai",
+   "link": "https://lovo.ai",
+   "reason": "page-402"
+  },
+  {
+   "name": "lovable",
+   "link": "https://lovable.dev",
+   "reason": "page-403"
+  },
+  {
+   "name": "maverick",
+   "link": "https://maverik.com",
+   "reason": "page-403"
+  },
+  {
+   "name": "openread",
+   "link": "https://www.openread.academy",
+   "reason": "page-429"
+  },
+  {
+   "name": "quino",
+   "link": "https://www.healthline.com/nutrition/what-is-quinoa",
+   "reason": "page-403"
+  },
+  {
+   "name": "reply io",
+   "link": "https://reply.io",
+   "reason": "page-403"
+  },
+  {
+   "name": "screenapp",
+   "link": "https://creati.ai/ai-tools/screenapp",
+   "reason": "page-403"
+  },
+  {
+   "name": "scholarcy",
+   "link": "https://www.scholarcy.com",
+   "reason": "page-403"
+  },
+  {
+   "name": "shownotes",
+   "link": "https://www.shownotes.io",
+   "reason": "page-403"
+  },
+  {
+   "name": "sierra",
+   "link": "https://www.sierra.com/home/index",
+   "reason": "page-403"
+  },
+  {
+   "name": "team gpt",
+   "link": "https://app.team-gpt.com",
+   "reason": "page-403"
+  },
+  {
+   "name": "theb ai",
+   "link": "https://creati.ai/ai-tools/theb-ai",
+   "reason": "page-403"
+  },
+  {
+   "name": "turbosite",
+   "link": "https://topai.tools/t/turbosite",
+   "reason": "page-403"
+  },
+  {
+   "name": "vacay",
+   "link": "https://esim.vacay.asia/th/en",
+   "reason": "page-403"
+  },
+  {
+   "name": "youware",
+   "link": "https://www.youware.com",
+   "reason": "page-403"
+  },
+  {
+   "name": "zenen ai",
+   "link": "https://zenen.ai/?ref=deepgram",
+   "reason": "page-526"
+  },
+  {
+   "name": "cold mail bot",
+   "link": "https://quillbot.com/ai-writing-tools/ai-cold-email-generator",
+   "reason": "page-403"
+  },
+  {
+   "name": "consensus",
+   "link": "https://consensus.app",
+   "reason": "page-403"
+  },
+  {
+   "name": "genspark ai",
+   "link": "https://www.genspark.ai",
+   "reason": "page-403"
+  },
+  {
+   "name": "refraction",
+   "link": "https://www.britannica.com/science/refraction",
+   "reason": "page-403"
+  },
+  {
+   "name": "samurai",
+   "link": "https://www.britannica.com/topic/samurai",
+   "reason": "page-403"
+  },
+  {
+   "name": "scribble ai",
+   "link": "https://www.scribbr.com/ai-detector",
+   "reason": "page-403"
+  },
+  {
+   "name": "textcortex ai",
+   "link": "https://textcortex.com",
+   "reason": "page-403"
+  },
+  {
+   "name": "toucan",
+   "link": "https://www.britannica.com/animal/toucan",
+   "reason": "page-403"
+  },
+  {
+   "name": "transvribe",
+   "link": "https://www.transcribe.gov.sg",
+   "reason": "page-403"
+  },
+  {
+   "name": "midjourney",
+   "link": "https://www.midjourney.com",
+   "reason": "page-403"
+  },
+  {
+   "name": "quizgecko",
+   "link": "https://quizgecko.com",
+   "reason": "page-403"
+  },
+  {
+   "name": "unriddle",
+   "link": "https://www.beyond-the-ai.com/tools/unriddle",
+   "reason": "page-403"
+  },
+  {
+   "name": "60sec site",
+   "link": "https://60sec.site",
+   "reason": "page-403"
+  },
+  {
+   "name": "activecampaign ai",
+   "link": "https://www.activecampaign.com/platform/artificial-intelligence",
+   "reason": "page-403"
+  },
+  {
+   "name": "blackink ai",
+   "link": "https://blackink.ai",
+   "reason": "page-403"
+  }
+ ],
+ "4-ogimg-broken": [
+  {
+   "name": "happyml",
+   "link": "https://docs.happyml.com/introduction",
+   "reason": "ogimg-400"
+  },
+  {
+   "name": "imean ai",
+   "link": "https://www.imean.ai",
+   "reason": "ogimg-404"
+  },
+  {
+   "name": "lovegenius",
+   "link": "https://www.lovegenius.io",
+   "reason": "ogimg-404"
+  },
+  {
+   "name": "listnr",
+   "link": "https://www.listnr.com",
+   "reason": "ogimg-400"
+  },
+  {
+   "name": "berri ai",
+   "link": "https://docs.berri.ai/introduction",
+   "reason": "ogimg-400"
+  },
+  {
+   "name": "brainstory",
+   "link": "https://www.albertafamilywellness.org/training",
+   "reason": "ogimg-404"
+  },
+  {
+   "name": "codemate",
+   "link": "https://codemate.ai",
+   "reason": "ogimg-404"
+  },
+  {
+   "name": "coinfeeds",
+   "link": "https://www.coinfeeds.ai",
+   "reason": "ogimg-404"
+  },
+  {
+   "name": "imagetocartoon",
+   "link": "https://imagetocartoon.com",
+   "reason": "ogimg-404"
+  },
+  {
+   "name": "keywords ai",
+   "link": "https://test.keywordsai.co",
+   "reason": "ogimg-403"
+  },
+  {
+   "name": "excel formula bot",
+   "link": "https://www.formulabot.com/excel-ai",
+   "reason": "ogimg-502"
+  },
+  {
+   "name": "promptloop",
+   "link": "https://www.promptloop.com",
+   "reason": "ogimg-403"
+  },
+  {
+   "name": "thoughtly",
+   "link": "https://thoughtly.com",
+   "reason": "ogimg-400"
+  },
+  {
+   "name": "texts from my ex",
+   "link": "https://textsfrommyex.com",
+   "reason": "ogimg-403"
+  },
+  {
+   "name": "krikey ai",
+   "link": "https://www.krikey.ai",
+   "reason": "ogimg-403"
+  },
+  {
+   "name": "mapdeduce",
+   "link": "https://matseotools.com/ai/mapdeduce",
+   "reason": "ogimg-404"
+  },
+  {
+   "name": "ourbabyai",
+   "link": "https://ourbabyai.com",
+   "reason": "ogimg-404"
+  },
+  {
+   "name": "prompter",
+   "link": "https://cueprompter.com",
+   "reason": "ogimg-404"
+  },
+  {
+   "name": "runday",
+   "link": "https://www.runday.ai",
+   "reason": "ogimg-404"
+  },
+  {
+   "name": "wizychat",
+   "link": "https://wizy.chat/pricing",
+   "reason": "ogimg-404"
+  },
+  {
+   "name": "keep it shot",
+   "link": "https://keepitshot.com",
+   "reason": "ogimg-404"
+  },
+  {
+   "name": "chat2csv",
+   "link": "https://chat2csv.com",
+   "reason": "ogimg-404"
+  },
+  {
+   "name": "deep realms",
+   "link": "https://www.deeprealms.io",
+   "reason": "ogimg-404"
+  },
+  {
+   "name": "draw3d",
+   "link": "https://draw3d.online",
+   "reason": "ogimg-404"
+  },
+  {
+   "name": "roamaround",
+   "link": "https://roamaround.app",
+   "reason": "ogimg-401"
+  },
+  {
+   "name": "teddy ai",
+   "link": "https://www.teddyai.com",
+   "reason": "ogimg-400"
+  },
+  {
+   "name": "copymonkey",
+   "link": "https://copymonkey.ai",
+   "reason": "ogimg-404"
+  },
+  {
+   "name": "backlinkgpt",
+   "link": "https://backlinkgpt.com/en",
+   "reason": "ogimg-404"
+  }
+ ],
+ "5-ogimg-badtype": [
+  {
+   "name": "agenthub",
+   "link": "https://agenthub.digital",
+   "reason": "ogimg-badtype(text/html)"
+  },
+  {
+   "name": "ai2image",
+   "link": "https://www.ai2image.com",
+   "reason": "ogimg-badtype(text/html)"
+  },
+  {
+   "name": "gptbots ai",
+   "link": "https://www.gptbots.ai",
+   "reason": "ogimg-badtype(binary/octet-stream)"
+  },
+  {
+   "name": "majorgen",
+   "link": "https://majorgen.com",
+   "reason": "ogimg-badtype(image/svg+xml)"
+  },
+  {
+   "name": "perfectessaywriterai",
+   "link": "https://www.perfectessaywriter.ai",
+   "reason": "ogimg-badtype(image/svg+xml)"
+  },
+  {
+   "name": "vidon ai",
+   "link": "https://vidon.ai",
+   "reason": "ogimg-badtype(image/svg+xml)"
+  },
+  {
+   "name": "vertech academy",
+   "link": "https://www.vertechacademy.com",
+   "reason": "ogimg-badtype(text/html)"
+  },
+  {
+   "name": "zerothreat",
+   "link": "https://zerothreat.ai",
+   "reason": "ogimg-badtype(image/svg+xml)"
+  },
+  {
+   "name": "novelistai",
+   "link": "https://novelistai.com",
+   "reason": "ogimg-badtype()"
+  },
+  {
+   "name": "beam",
+   "link": "https://shopbeam.com",
+   "reason": "ogimg-badtype(image/svg+xml)"
+  },
+  {
+   "name": "creativai",
+   "link": "https://www.creativai.ai/?lang=en",
+   "reason": "ogimg-badtype(image/svg+xml)"
+  },
+  {
+   "name": "hexus",
+   "link": "https://www.hexus.ai",
+   "reason": "ogimg-badtype(image/svg+xml)"
+  },
+  {
+   "name": "roketfy",
+   "link": "https://roketfy.com",
+   "reason": "ogimg-badtype()"
+  },
+  {
+   "name": "rebeccai",
+   "link": "https://rebecc.ai",
+   "reason": "ogimg-badtype(image/svg+xml)"
+  },
+  {
+   "name": "tldr bot",
+   "link": "https://tldrbot.ai",
+   "reason": "ogimg-badtype(text/html)"
+  }
+ ],
+ "6-transient": [
+  {
+   "name": "copilot2trip",
+   "link": "https://copilot2trip.com",
+   "reason": "ogimg-ok(missed-at-import)"
+  },
+  {
+   "name": "copilot",
+   "link": "http://copilot.com",
+   "reason": "ogimg-ok(missed-at-import)"
+  },
+  {
+   "name": "legaliser",
+   "link": "https://www.legaliser.com",
+   "reason": "ogimg-ok(missed-at-import)"
+  },
+  {
+   "name": "magic eraser",
+   "link": "https://magiceraser.org",
+   "reason": "ogimg-ok(missed-at-import)"
+  },
+  {
+   "name": "linguix",
+   "link": "https://linguix.com",
+   "reason": "ogimg-ok(missed-at-import)"
+  },
+  {
+   "name": "mindygem",
+   "link": "https://www.mindygem.com",
+   "reason": "ogimg-ok(missed-at-import)"
+  },
+  {
+   "name": "resume worded",
+   "link": "https://resumeworded.com",
+   "reason": "ogimg-ok(missed-at-import)"
+  },
+  {
+   "name": "ready to send",
+   "link": "https://www.readytosend.com",
+   "reason": "ogimg-ok(missed-at-import)"
+  },
+  {
+   "name": "todo is",
+   "link": "https://www.todoist.com",
+   "reason": "ogimg-ok(missed-at-import)"
+  },
+  {
+   "name": "vellum",
+   "link": "https://vellum.pub",
+   "reason": "ogimg-ok(missed-at-import)"
+  },
+  {
+   "name": "voxxio",
+   "link": "https://oxad.ai/voxxio",
+   "reason": "ogimg-ok(missed-at-import)"
+  },
+  {
+   "name": "microsoft designer",
+   "link": "https://microsoft.design/articles/ai-powered-creativity-with-microsoft-designer",
+   "reason": "ogimg-ok(missed-at-import)"
+  },
+  {
+   "name": "magnific ai",
+   "link": "https://www.magnific.com",
+   "reason": "ogimg-ok(missed-at-import)"
+  },
+  {
+   "name": "promptbase",
+   "link": "https://promptbase.com",
+   "reason": "ogimg-ok(missed-at-import)"
+  },
+  {
+   "name": "replit",
+   "link": "https://replit.com",
+   "reason": "ogimg-ok(missed-at-import)"
+  },
+  {
+   "name": "fadr",
+   "link": "https://fadr.com",
+   "reason": "ogimg-ok(missed-at-import)"
+  },
+  {
+   "name": "gemoo",
+   "link": "https://aitools.aiting.com/ai/gemoo",
+   "reason": "ogimg-ok(missed-at-import)"
+  },
+  {
+   "name": "n8n",
+   "link": "https://n8n.io",
+   "reason": "ogimg-ok(missed-at-import)"
+  },
+  {
+   "name": "sonara",
+   "link": "https://www.sonara.ai",
+   "reason": "ogimg-ok(missed-at-import)"
+  },
+  {
+   "name": "dr lambda",
+   "link": "https://theaitoolsbox.com/tool/dr-lambda-review",
+   "reason": "ogimg-ok(missed-at-import)"
+  },
+  {
+   "name": "ramblefix",
+   "link": "https://ramblefix.com",
+   "reason": "ogimg-ok(missed-at-import)"
+  },
+  {
+   "name": "venturusai",
+   "link": "https://venturusai.com",
+   "reason": "ogimg-ok(missed-at-import)"
+  },
+  {
+   "name": "visla",
+   "link": "https://www.visla.us",
+   "reason": "ogimg-ok(missed-at-import)"
+  },
+  {
+   "name": "wand ai",
+   "link": "https://wand.ai",
+   "reason": "ogimg-ok(missed-at-import)"
+  },
+  {
+   "name": "briefy",
+   "link": "https://briefy.ai",
+   "reason": "ogimg-ok(missed-at-import)"
+  }
+ ]
+}
