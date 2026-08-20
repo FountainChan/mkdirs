@@ -1,0 +1,250 @@
+items to screenshot: 169
+[1/169] OK harmonai (599KB)
+[2/169] OK imean ai (978KB)
+[3/169] OK lets enhance (137KB)
+✖  Browser connection dropped after the navigate command was dispatched; it may have completed.
+✖  Hint: Inspect the browser/session state before retrying. Do not blindly retry write commands such as navigate, click, type, or eval.
+[4/169] FAIL ludo Command failed: opencli browser vfszuehh open "https://ludok
+[5/169] OK blink (4KB)
+[6/169] OK coursebox (922KB)
+[7/169] FAIL enso spawnSync bash ETIMEDOUT
+[8/169] OK gencraft (455KB)
+[9/169] OK marsai (61KB)
+[10/169] FAIL regie spawnSync bash ETIMEDOUT
+✖  Browser Bridge extension not connected
+✖  Hint: Make sure Chrome/Chromium is open and the OpenCLI extension is enabled.
+If not installed:
+  1. Download: https://github.com/jackwener/opencli/releases
+  2. Open chrome://extensions → Developer Mode → Load unpacked
+[11/169] FAIL suggest gift Command failed: opencli browser vfszuehh open "https://www.g
+[12/169] OK assemblyai (96KB)
+[13/169] OK cheat layer (111KB)
+[14/169] OK cockatoo (77KB)
+[15/169] OK trickle (4KB)
+[16/169] OK creativai (467KB)
+[17/169] OK danelfin (26KB)
+[18/169] OK deepseek (306KB)
+[19/169] OK dreamstudio (4KB)
+[20/169] OK dzine ai (65KB)
+✖  Browser connection dropped after the navigate command was dispatched; it may have completed.
+✖  Hint: Inspect the browser/session state before retrying. Do not blindly retry write commands such as navigate, click, type, or eval.
+[21/169] FAIL echowin Command failed: opencli browser vfszuehh open "https://echo.
+[22/169] OK gajix (53KB)
+[23/169] OK gpt engineer (29KB)
+[24/169] OK gptgo (26KB)
+[25/169] OK gymbuddy ai (4KB)
+[26/169] OK hiver (59KB)
+[27/169] OK hourone (137KB)
+[28/169] OK dezgo (247KB)
+[29/169] FAIL hostinger spawnSync bash ETIMEDOUT
+[30/169] FAIL inworld spawnSync bash ETIMEDOUT
+✖  Browser connection dropped after the network-capture-start command was dispatched; it may have completed.
+✖  Hint: Inspect the browser/session state before retrying. Do not blindly retry write commands such as navigate, click, type, or eval.
+[31/169] FAIL jogg ai Command failed: opencli browser vfszuehh open "https://www.j
+[32/169] OK layer ai (221KB)
+[33/169] OK lore (278KB)
+[34/169] OK marscode (25KB)
+[35/169] OK mem0 (4KB)
+[36/169] OK microsoft copilot (23KB)
+[37/169] OK midjourney prompt helper (209KB)
+[38/169] FAIL onlydoc spawnSync bash ETIMEDOUT
+[39/169] FAIL openart spawnSync bash ETIMEDOUT
+✖  Browser connection dropped after the network-capture-start command was dispatched; it may have completed.
+✖  Hint: Inspect the browser/session state before retrying. Do not blindly retry write commands such as navigate, click, type, or eval.
+[40/169] FAIL ordinary people prompts Command failed: opencli browser vfszuehh open "https://www.o
+✖  Browser Bridge extension not connected
+✖  Hint: Make sure Chrome/Chromium is open and the OpenCLI extension is enabled.
+If not installed:
+  1. Download: https://github.com/jackwener/opencli/releases
+  2. Open chrome://extensions → Developer Mode → Load unpacked
+[41/169] FAIL osam ai Command failed: opencli browser vfszuehh open "https://osam.
+[42/169] OK osum (4KB)
+[43/169] OK pandada ai (313KB)
+[44/169] OK penelope ai (592KB)
+[45/169] OK pixelcut (304KB)
+[46/169] FAIL podcast spawnSync bash ETIMEDOUT
+[47/169] OK promptomania (145KB)
+✖  Browser connection dropped after the navigate command was dispatched; it may have completed.
+✖  Hint: Inspect the browser/session state before retrying. Do not blindly retry write commands such as navigate, click, type, or eval.
+[48/169] FAIL quickmagic Command failed: opencli browser vfszuehh open "https://www.q
+[49/169] OK roomgpt (4KB)
+[50/169] OK shownotes (35KB)
+[51/169] OK sierra (4KB)
+[52/169] OK sider (200KB)
+[53/169] FAIL sonara spawnSync bash ETIMEDOUT
+✖  Browser connection dropped after the network-capture-start command was dispatched; it may have completed.
+✖  Hint: Inspect the browser/session state before retrying. Do not blindly retry write commands such as navigate, click, type, or eval.
+[54/169] FAIL squirrly seo Command failed: opencli browser vfszuehh open "https://plugi
+[55/169] OK stable diffusion (4KB)
+[56/169] OK stable horde (266KB)
+[57/169] OK summarize tech (4KB)
+[58/169] FAIL taja ai spawnSync bash ETIMEDOUT
+[59/169] OK the new black (239KB)
+[60/169] OK theb ai (34KB)
+[61/169] OK thumbly (4KB)
+[62/169] OK tldv (515KB)
+[63/169] OK validator ai (252KB)
+✖  Browser connection dropped after the navigate command was dispatched; it may have completed.
+✖  Hint: Inspect the browser/session state before retrying. Do not blindly retry write commands such as navigate, click, type, or eval.
+[64/169] FAIL vacay Command failed: opencli browser vfszuehh open "https://esim.
+[65/169] FAIL vid ai spawnSync bash ETIMEDOUT
+[66/169] FAIL virtual staging ai spawnSync bash ETIMEDOUT
+✖  Browser connection dropped after the network-capture-start command was dispatched; it may have completed.
+✖  Hint: Inspect the browser/session state before retrying. Do not blindly retry write commands such as navigate, click, type, or eval.
+[67/169] FAIL watchnow ai Command failed: opencli browser vfszuehh open "https://watch
+✖  Browser Bridge extension not connected
+✖  Hint: Make sure Chrome/Chromium is open and the OpenCLI extension is enabled.
+If not installed:
+  1. Download: https://github.com/jackwener/opencli/releases
+  2. Open chrome://extensions → Developer Mode → Load unpacked
+[68/169] FAIL we made a story Command failed: opencli browser vfszuehh open "https://www.w
+[69/169] FAIL wisdomise spawnSync bash ETIMEDOUT
+[70/169] FAIL youware spawnSync bash ETIMEDOUT
+[71/169] FAIL logofast spawnSync bash ETIMEDOUT
+✖  Browser connection dropped after the network-capture-start command was dispatched; it may have completed.
+✖  Hint: Inspect the browser/session state before retrying. Do not blindly retry write commands such as navigate, click, type, or eval.
+[72/169] FAIL mindsdb Command failed: opencli browser vfszuehh open "https://info.
+[73/169] OK code genius (643KB)
+[74/169] OK cotypist (183KB)
+[75/169] OK creative fast aid (179KB)
+[76/169] OK deep realms (4KB)
+✖  Browser connection dropped after the navigate command was dispatched; it may have completed.
+✖  Hint: Inspect the browser/session state before retrying. Do not blindly retry write commands such as navigate, click, type, or eval.
+[77/169] FAIL deepmotion Command failed: opencli browser vfszuehh open "https://www.d
+[78/169] FAIL domoai spawnSync bash ETIMEDOUT
+✖  Browser connection dropped after the network-capture-start command was dispatched; it may have completed.
+✖  Hint: Inspect the browser/session state before retrying. Do not blindly retry write commands such as navigate, click, type, or eval.
+[79/169] FAIL educatorlab Command failed: opencli browser vfszuehh open "https://www.e
+[80/169] OK fastai (151KB)
+[81/169] OK flowjin (4KB)
+[82/169] OK flowrite (709KB)
+[83/169] OK getfloorplan (177KB)
+[84/169] FAIL gigasheet spawnSync bash ETIMEDOUT
+[85/169] FAIL glambase spawnSync bash ETIMEDOUT
+[86/169] OK gobii (396KB)
+[87/169] OK profile picture ai (183KB)
+[88/169] OK promptperfect (72KB)
+[89/169] OK prophotos (4KB)
+[90/169] OK proposal genie (348KB)
+[91/169] OK quick creator (4KB)
+[92/169] OK rebeccai (95KB)
+[93/169] OK reimagine home (355KB)
+[94/169] FAIL rendernet spawnSync bash ETIMEDOUT
+✖  Browser connection dropped after the network-capture-start command was dispatched; it may have completed.
+✖  Hint: Inspect the browser/session state before retrying. Do not blindly retry write commands such as navigate, click, type, or eval.
+[95/169] FAIL replicastudios Command failed: opencli browser vfszuehh open "https://www.r
+[96/169] FAIL replika spawnSync bash ETIMEDOUT
+✖  Browser connection dropped after the network-capture-start command was dispatched; it may have completed.
+✖  Hint: Inspect the browser/session state before retrying. Do not blindly retry write commands such as navigate, click, type, or eval.
+[97/169] FAIL roamaround Command failed: opencli browser vfszuehh open "https://roama
+[98/169] FAIL runway spawnSync bash ETIMEDOUT
+✖  Browser connection dropped after the network-capture-start command was dispatched; it may have completed.
+✖  Hint: Inspect the browser/session state before retrying. Do not blindly retry write commands such as navigate, click, type, or eval.
+[99/169] FAIL sheetai app Command failed: opencli browser vfszuehh open "https://www.s
+✖  Browser Bridge extension not connected
+✖  Hint: Make sure Chrome/Chromium is open and the OpenCLI extension is enabled.
+If not installed:
+  1. Download: https://github.com/jackwener/opencli/releases
+  2. Open chrome://extensions → Developer Mode → Load unpacked
+[100/169] FAIL shipixen Command failed: opencli browser vfszuehh open "https://shipi
+[101/169] FAIL shuffll spawnSync bash ETIMEDOUT
+[102/169] OK siteexplainer (72KB)
+[103/169] OK sketch2app (219KB)
+[104/169] FAIL skoot spawnSync bash ETIMEDOUT
+✖  Browser connection dropped after the network-capture-start command was dispatched; it may have completed.
+✖  Hint: Inspect the browser/session state before retrying. Do not blindly retry write commands such as navigate, click, type, or eval.
+[105/169] FAIL smodin Command failed: opencli browser vfszuehh open "https://smodi
+[106/169] OK socratic by google (128KB)
+[107/169] FAIL softr spawnSync bash ETIMEDOUT
+[108/169] OK sonix (231KB)
+[109/169] FAIL sourcetable spawnSync bash ETIMEDOUT
+[110/169] OK spiritme (67KB)
+[111/169] OK storyboard hero (4KB)
+[112/169] OK surething (521KB)
+[113/169] OK tattoosai (177KB)
+[114/169] FAIL thinkdiffusion spawnSync bash ETIMEDOUT
+✖  Browser connection dropped after the network-capture-start command was dispatched; it may have completed.
+✖  Hint: Inspect the browser/session state before retrying. Do not blindly retry write commands such as navigate, click, type, or eval.
+[115/169] FAIL timeos Command failed: opencli browser vfszuehh open "https://timeo
+[116/169] OK topaz video ai (4KB)
+✖  Browser connection dropped after the navigate command was dispatched; it may have completed.
+✖  Hint: Inspect the browser/session state before retrying. Do not blindly retry write commands such as navigate, click, type, or eval.
+[117/169] FAIL udio Command failed: opencli browser vfszuehh open "https://www.u
+[118/169] OK vectorshift (859KB)
+[119/169] OK vibescan (50KB)
+✖  Browser connection dropped after the navigate command was dispatched; it may have completed.
+✖  Hint: Inspect the browser/session state before retrying. Do not blindly retry write commands such as navigate, click, type, or eval.
+[120/169] FAIL videoleap Command failed: opencli browser vfszuehh open "https://www.v
+[121/169] FAIL voila spawnSync bash ETIMEDOUT
+✖  Browser connection dropped after the network-capture-start command was dispatched; it may have completed.
+✖  Hint: Inspect the browser/session state before retrying. Do not blindly retry write commands such as navigate, click, type, or eval.
+[122/169] FAIL vsub Command failed: opencli browser vfszuehh open "https://vsub.
+[123/169] FAIL whacka spawnSync bash ETIMEDOUT
+[124/169] OK wonder studio (4KB)
+[125/169] OK wpturbo (51KB)
+[126/169] OK x pilot ai (4KB)
+[127/169] FAIL youmind spawnSync bash ETIMEDOUT
+[128/169] FAIL zepic spawnSync bash ETIMEDOUT
+[129/169] OK midjourney (29KB)
+[130/169] FAIL anyword spawnSync bash ETIMEDOUT
+✖  Browser connection dropped after the network-capture-start command was dispatched; it may have completed.
+✖  Hint: Inspect the browser/session state before retrying. Do not blindly retry write commands such as navigate, click, type, or eval.
+[131/169] FAIL argil Command failed: opencli browser vfszuehh open "https://www.a
+[132/169] FAIL autodraft spawnSync bash ETIMEDOUT
+[133/169] FAIL boomy spawnSync bash ETIMEDOUT
+✖  No SW
+[134/169] FAIL browse ai Command failed: opencli browser vfszuehh open "https://www.b
+[135/169] FAIL captions spawnSync bash ETIMEDOUT
+✖  Browser connection dropped after the network-capture-start command was dispatched; it may have completed.
+✖  Hint: Inspect the browser/session state before retrying. Do not blindly retry write commands such as navigate, click, type, or eval.
+[136/169] FAIL codegeex Command failed: opencli browser vfszuehh open "https://codeg
+[137/169] FAIL descript spawnSync bash ETIMEDOUT
+✖  Browser connection dropped after the network-capture-start command was dispatched; it may have completed.
+✖  Hint: Inspect the browser/session state before retrying. Do not blindly retry write commands such as navigate, click, type, or eval.
+[138/169] FAIL diffusionbee Command failed: opencli browser vfszuehh open "https://diffu
+[139/169] OK ebsynth (4KB)
+[140/169] OK etsygenerator (100KB)
+[141/169] FAIL flot ai spawnSync bash ETIMEDOUT
+[142/169] OK grammarly (130KB)
+[143/169] OK kraftful (4KB)
+[144/169] OK langotalk (236KB)
+[145/169] OK notion ai (4KB)
+✖  No SW
+[146/169] FAIL pixelicious Command failed: opencli browser vfszuehh screenshot "D:\Work
+[147/169] OK pollinations (666KB)
+[148/169] OK recall (4KB)
+[149/169] OK rose ai (454KB)
+[150/169] OK scribble diffusion (459KB)
+[151/169] OK storyd (256KB)
+[152/169] OK synthesia (324KB)
+[153/169] FAIL thumbnailcreator spawnSync bash ETIMEDOUT
+[154/169] FAIL unriddle spawnSync bash ETIMEDOUT
+✖  Browser connection dropped after the network-capture-start command was dispatched; it may have completed.
+✖  Hint: Inspect the browser/session state before retrying. Do not blindly retry write commands such as navigate, click, type, or eval.
+[155/169] FAIL writingmate Command failed: opencli browser vfszuehh open "https://writi
+[156/169] FAIL activecampaign ai spawnSync bash ETIMEDOUT
+[157/169] OK agentgpt (4KB)
+[158/169] OK ai2sql (137KB)
+[159/169] FAIL airbrush spawnSync bash ETIMEDOUT
+✖  Browser connection dropped after the network-capture-start command was dispatched; it may have completed.
+✖  Hint: Inspect the browser/session state before retrying. Do not blindly retry write commands such as navigate, click, type, or eval.
+[160/169] FAIL arcwise ai Command failed: opencli browser vfszuehh open "https://arcwi
+[161/169] OK audyo (19KB)
+[162/169] OK automateed (295KB)
+[163/169] FAIL backlinkgpt spawnSync bash ETIMEDOUT
+✖  Browser connection dropped after the network-capture-start command was dispatched; it may have completed.
+✖  Hint: Inspect the browser/session state before retrying. Do not blindly retry write commands such as navigate, click, type, or eval.
+[164/169] FAIL brandblast Command failed: opencli browser vfszuehh open "https://www.b
+✖  Browser Bridge extension not connected
+✖  Hint: Make sure Chrome/Chromium is open and the OpenCLI extension is enabled.
+If not installed:
+  1. Download: https://github.com/jackwener/opencli/releases
+  2. Open chrome://extensions → Developer Mode → Load unpacked
+[165/169] FAIL spellbook Command failed: opencli browser vfszuehh open "https://www.s
+[166/169] FAIL typeface spawnSync bash ETIMEDOUT
+[167/169] OK applaime (23KB)
+[168/169] FAIL bika ai spawnSync bash ETIMEDOUT
+✖  Browser connection dropped after the network-capture-start command was dispatched; it may have completed.
+✖  Hint: Inspect the browser/session state before retrying. Do not blindly retry write commands such as navigate, click, type, or eval.
+[169/169] FAIL call annie Command failed: opencli browser vfszuehh open "https://calla
+done: ok=94 fail=75

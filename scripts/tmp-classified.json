@@ -1,0 +1,1320 @@
+{
+ "ssl": [
+  {
+   "_id": "1adbzT7eJfu9syvvo0abcp",
+   "name": "namy ai",
+   "link": "https://namy.ai",
+   "status": "fetch failed",
+   "detail": "proxy-ssl:request to https://namy.ai/ failed, reason: Client"
+  },
+  {
+   "_id": "1adbzT7eJfu9syvvo0SXB5",
+   "name": "jetpack ai assistant",
+   "link": "https://ai.jetpacksandbox.com/assistant",
+   "status": 500,
+   "detail": "direct:500"
+  },
+  {
+   "_id": "3K8X69qslHmY3nhkoQISBZ",
+   "name": "chat2course",
+   "link": "https://chat2course.com",
+   "status": "fetch failed",
+   "detail": "direct-ssl:request to https://chat2course.com/ failed, reason"
+  },
+  {
+   "_id": "3K8X69qslHmY3nhkoQJYsb",
+   "name": "coverposts",
+   "link": "https://coverposts.com",
+   "status": "fetch failed",
+   "detail": "direct-ssl:request to https://coverposts.com/ failed, reason:"
+  },
+  {
+   "_id": "3K8X69qslHmY3nhkoQJieD",
+   "name": "doctrina ai",
+   "link": "https://www.aitoolsspace.com/en/tools/doctrina-ai",
+   "status": 525,
+   "detail": "direct:525"
+  },
+  {
+   "_id": "3K8X69qslHmY3nhkoQKjtJ",
+   "name": "hidden door",
+   "link": "https://hiddendoorstore.com",
+   "status": 503,
+   "detail": "direct:503"
+  },
+  {
+   "_id": "3K8X69qslHmY3nhkoQIW4X",
+   "name": "chatdoc",
+   "link": "https://chatdoc.com",
+   "status": "fetch failed",
+   "detail": "proxy-ssl:request to https://chatdoc.com/ failed, reason: Cl"
+  },
+  {
+   "_id": "3K8X69qslHmY3nhkoQLwCj",
+   "name": "makemytale",
+   "link": "https://www.makemytale.com",
+   "status": 502,
+   "detail": "direct:502"
+  },
+  {
+   "_id": "3K8X69qslHmY3nhkoQNcw5",
+   "name": "playarti",
+   "link": "https://playarti.com",
+   "status": "fetch failed",
+   "detail": "direct-ssl:request to https://playarti.com/ failed, reason: u"
+  },
+  {
+   "_id": "3K8X69qslHmY3nhkoQNuyP",
+   "name": "rankpress io",
+   "link": "https://rankpress.io",
+   "status": "fetch failed",
+   "detail": "proxy-ssl:request to https://rankpress.io/ failed, reason: u"
+  },
+  {
+   "_id": "eV0KbnDX15k6tipF2ja4cA",
+   "name": "any summary",
+   "link": "https://www.anysummary.app",
+   "status": "fetch failed",
+   "detail": "direct-ssl:request to https://www.anysummary.app/ failed, rea"
+  },
+  {
+   "_id": "eV0KbnDX15k6tipF2k18mI",
+   "name": "lovegpt",
+   "link": "https://lovegpt.com/ai-augmented-reality",
+   "status": "fetch failed",
+   "detail": "direct-ssl:request to https://lovegpt.com/ai-augmented-realit"
+  },
+  {
+   "_id": "eV0KbnDX15k6tipF2k4B9K",
+   "name": "microsoft copilot",
+   "link": "https://copilot.microsoft.com",
+   "status": "fetch failed",
+   "detail": "proxy-ssl:request to https://copilot.microsoft.com/ failed, "
+  },
+  {
+   "_id": "eV0KbnDX15k6tipF2kD9CU",
+   "name": "ordinary people prompts",
+   "link": "https://www.ordinarypeopleprompts.com/howto",
+   "status": "fetch failed",
+   "detail": "direct-ssl:request to https://www.ordinarypeopleprompts.com/h"
+  },
+  {
+   "_id": "eV0KbnDX15k6tipF2jzj3G",
+   "name": "lexica",
+   "link": "https://lexica.art/login",
+   "status": "fetch failed",
+   "detail": "proxy-ssl:request to https://lexica.art/login failed, reason"
+  },
+  {
+   "_id": "eV0KbnDX15k6tipF2kWaIw",
+   "name": "zenen ai",
+   "link": "https://zenen.ai/?ref=deepgram",
+   "status": 526,
+   "detail": "direct:526"
+  },
+  {
+   "_id": "eV0KbnDX15k6tipF2kQ0ic",
+   "name": "tradeui",
+   "link": "https://tradeui.com",
+   "status": 500,
+   "detail": "direct:500"
+  },
+  {
+   "_id": "iBofm1I2mxsn1dMFl1T5I5",
+   "name": "cutout pro",
+   "link": "https://www.cutout.pro",
+   "status": "fetch failed",
+   "detail": "proxy-ssl:request to https://www.cutout.pro/ failed, reason:"
+  },
+  {
+   "_id": "iBofm1I2mxsn1dMFl1U9B1",
+   "name": "genei",
+   "link": "https://gemini.genai.mil",
+   "status": "fetch failed",
+   "detail": "proxy:503"
+  },
+  {
+   "_id": "k1mPmLtKTqrLXYGsLhK6dM",
+   "name": "trainengine ai",
+   "link": "https://trainengine.ai",
+   "status": "fetch failed",
+   "detail": "proxy:500"
+  },
+  {
+   "_id": "l90kUZ2YxdXMs17eFJn5Zk",
+   "name": "applaime",
+   "link": "https://applaime.com/?ref=saasaitools",
+   "status": "fetch failed",
+   "detail": "proxy-ssl:request to https://applaime.com/ failed, reason: C"
+  }
+ ],
+ "notFound": [],
+ "cfChallenge": [
+  {
+   "_id": "1adbzT7eJfu9syvvo0RZb7",
+   "name": "godmode",
+   "link": "https://www.lifewire.com/god-mode-windows-4154662",
+   "status": 403,
+   "detail": "direct:403-other"
+  },
+  {
+   "_id": "1adbzT7eJfu9syvvo0Wvnf",
+   "name": "makelog",
+   "link": "https://topai.tools/t/makelog",
+   "status": 403,
+   "detail": "direct:403"
+  },
+  {
+   "_id": "1adbzT7eJfu9syvvo0X9sZ",
+   "name": "mango ai",
+   "link": "https://mangoanimate.com",
+   "status": 403,
+   "detail": "direct:403-other"
+  },
+  {
+   "_id": "3K8X69qslHmY3nhkoQFy2j",
+   "name": "mymap ai",
+   "link": "https://www.mymap.ai",
+   "status": 403,
+   "detail": "direct:403-other"
+  },
+  {
+   "_id": "3K8X69qslHmY3nhkoQFvB3",
+   "name": "komo search",
+   "link": "https://theresanaiforthat.com/ai/komo-ai",
+   "status": 403,
+   "detail": "direct:403"
+  },
+  {
+   "_id": "3K8X69qslHmY3nhkoQG4ph",
+   "name": "sibyl ai",
+   "link": "https://sibyls.ai",
+   "status": 403,
+   "detail": "direct:403"
+  },
+  {
+   "_id": "3K8X69qslHmY3nhkoQGLsT",
+   "name": "adept",
+   "link": "https://www.merriam-webster.com/dictionary/adept",
+   "status": 403,
+   "detail": "direct:403"
+  },
+  {
+   "_id": "3K8X69qslHmY3nhkoQGItF",
+   "name": "88stacks",
+   "link": "https://88stacks.com/models/tag--art",
+   "status": 403,
+   "detail": "direct:403-other"
+  },
+  {
+   "_id": "3K8X69qslHmY3nhkoQGOGX",
+   "name": "ai consulting tools",
+   "link": "https://thedigitalprojectmanager.com/tools/best-ai-tools-for-consultants",
+   "status": 403,
+   "detail": "direct:403"
+  },
+  {
+   "_id": "3K8X69qslHmY3nhkoQGTgj",
+   "name": "arc search",
+   "link": "https://arc.net/search",
+   "status": 403,
+   "detail": "direct:403-other"
+  },
+  {
+   "_id": "3K8X69qslHmY3nhkoQGU4X",
+   "name": "architectgpt",
+   "link": "https://www.architectgpt.io",
+   "status": 403,
+   "detail": "direct:403-other"
+  },
+  {
+   "_id": "3K8X69qslHmY3nhkoQGR9x",
+   "name": "aitubo",
+   "link": "https://aitubo.ai",
+   "status": 403,
+   "detail": "direct:403-other"
+  },
+  {
+   "_id": "3K8X69qslHmY3nhkoQG7ZF",
+   "name": "stable audio",
+   "link": "https://stableaudio.com/generate",
+   "status": 403,
+   "detail": "proxy:403-cf"
+  },
+  {
+   "_id": "3K8X69qslHmY3nhkoQIN57",
+   "name": "chartpixel",
+   "link": "https://www.chartpixel.com",
+   "status": 403,
+   "detail": "direct:403-other"
+  },
+  {
+   "_id": "3K8X69qslHmY3nhkoQIMaL",
+   "name": "charisma",
+   "link": "https://www.merriam-webster.com/dictionary/charisma",
+   "status": 403,
+   "detail": "direct:403"
+  },
+  {
+   "_id": "3K8X69qslHmY3nhkoQITl7",
+   "name": "chatdesigner",
+   "link": "https://creati.ai/ai-tools/chatdesigner",
+   "status": 403,
+   "detail": "direct:403"
+  },
+  {
+   "_id": "3K8X69qslHmY3nhkoQIngj",
+   "name": "chattab",
+   "link": "https://theresanaiforthat.com/ai/chattab",
+   "status": 403,
+   "detail": "direct:403"
+  },
+  {
+   "_id": "3K8X69qslHmY3nhkoQHvdp",
+   "name": "ai gallery",
+   "link": "https://aigallery.app",
+   "status": "fetch failed",
+   "detail": "proxy:403-cf"
+  },
+  {
+   "_id": "3K8X69qslHmY3nhkoQJbQX",
+   "name": "create",
+   "link": "https://www.curseforge.com/minecraft/mc-mods/create",
+   "status": 403,
+   "detail": "direct:403"
+  },
+  {
+   "_id": "3K8X69qslHmY3nhkoQJjiP",
+   "name": "doo",
+   "link": "https://www.doordash.com",
+   "status": 403,
+   "detail": "direct:403-other"
+  },
+  {
+   "_id": "3K8X69qslHmY3nhkoQHzLB",
+   "name": "artsmart ai",
+   "link": "https://artsmart.ai",
+   "status": "fetch failed",
+   "detail": "proxy:403-cf"
+  },
+  {
+   "_id": "3K8X69qslHmY3nhkoQLIKv",
+   "name": "julius",
+   "link": "https://julius.ai",
+   "status": 403,
+   "detail": "direct:403-other"
+  },
+  {
+   "_id": "3K8X69qslHmY3nhkoQNIht",
+   "name": "perso ai",
+   "link": "https://perso.ai",
+   "status": 403,
+   "detail": "direct:403-other"
+  },
+  {
+   "_id": "3K8X69qslHmY3nhkoQNaNZ",
+   "name": "pixite",
+   "link": "https://support.pixiteapps.com/hc/zh-cn",
+   "status": 403,
+   "detail": "direct:403"
+  },
+  {
+   "_id": "3K8X69qslHmY3nhkoQKoEj",
+   "name": "ideogram",
+   "link": "https://ideogram.ai",
+   "status": "fetch failed",
+   "detail": "proxy:403-cf"
+  },
+  {
+   "_id": "3K8X69qslHmY3nhkoQNhwj",
+   "name": "prepai",
+   "link": "https://www.prepai.io/us",
+   "status": 403,
+   "detail": "direct:403"
+  },
+  {
+   "_id": "3K8X69qslHmY3nhkoQNlXh",
+   "name": "promo ai",
+   "link": "https://www.promeai.pro",
+   "status": 403,
+   "detail": "direct:403-other"
+  },
+  {
+   "_id": "3K8X69qslHmY3nhkoQNoXV",
+   "name": "questflow",
+   "link": "https://questflow.ai",
+   "status": 403,
+   "detail": "direct:403-other"
+  },
+  {
+   "_id": "3K8X69qslHmY3nhkoQO0uX",
+   "name": "rejoy",
+   "link": "https://rejoy.hu",
+   "status": 403,
+   "detail": "direct:403-other"
+  },
+  {
+   "_id": "3K8X69qslHmY3nhkoQOyLJ",
+   "name": "three sigma",
+   "link": "https://www.investopedia.com/terms/t/three-sigma-limits.asp",
+   "status": 403,
+   "detail": "direct:403-other"
+  },
+  {
+   "_id": "3K8X69qslHmY3nhkoQP1XJ",
+   "name": "thumbnailai",
+   "link": "https://thumbnail.ai",
+   "status": 403,
+   "detail": "direct:403"
+  },
+  {
+   "_id": "3K8X69qslHmY3nhkoQP8U9",
+   "name": "tripadvisor summary",
+   "link": "https://www.tripadvisor.com",
+   "status": 403,
+   "detail": "direct:403-other"
+  },
+  {
+   "_id": "3K8X69qslHmY3nhkoQPFyf",
+   "name": "tweetify it",
+   "link": "https://tweetify.it",
+   "status": 403,
+   "detail": "direct:403"
+  },
+  {
+   "_id": "3K8X69qslHmY3nhkoQPdaT",
+   "name": "viggle",
+   "link": "https://viggle.ai",
+   "status": 403,
+   "detail": "direct:403"
+  },
+  {
+   "_id": "3K8X69qslHmY3nhkoQPgfV",
+   "name": "vocal remover",
+   "link": "https://vocalremover.org",
+   "status": 403,
+   "detail": "direct:403"
+  },
+  {
+   "_id": "3K8X69qslHmY3nhkoQQFjR",
+   "name": "marketingblocks ai",
+   "link": "https://www.marketingblocks.ai",
+   "status": 403,
+   "detail": "direct:403"
+  },
+  {
+   "_id": "3K8X69qslHmY3nhkoQNgDt",
+   "name": "poe",
+   "link": "https://poe.com",
+   "status": "fetch failed",
+   "detail": "proxy:403-cf"
+  },
+  {
+   "_id": "3K8X69qslHmY3nhkoQQfqH",
+   "name": "upword",
+   "link": "https://www.upwork.com",
+   "status": 403,
+   "detail": "direct:403-other"
+  },
+  {
+   "_id": "eV0KbnDX15k6tipF2jLB9e",
+   "name": "lucidpic",
+   "link": "https://lucidpic.com",
+   "status": 403,
+   "detail": "direct:403"
+  },
+  {
+   "_id": "eV0KbnDX15k6tipF2jL9ja",
+   "name": "looka",
+   "link": "https://looka.com",
+   "status": 403,
+   "detail": "direct:403"
+  },
+  {
+   "_id": "eV0KbnDX15k6tipF2jNTX4",
+   "name": "3daily",
+   "link": "https://3daily.ai",
+   "status": 403,
+   "detail": "direct:403-other"
+  },
+  {
+   "_id": "eV0KbnDX15k6tipF2jZPte",
+   "name": "perplexity ai",
+   "link": "https://www.perplexity.ai",
+   "status": "fetch failed",
+   "detail": "proxy:403-cf"
+  },
+  {
+   "_id": "eV0KbnDX15k6tipF2jb6C6",
+   "name": "canva",
+   "link": "https://www.canva.com",
+   "status": 403,
+   "detail": "direct:403-other"
+  },
+  {
+   "_id": "eV0KbnDX15k6tipF2jlOxy",
+   "name": "danelfin",
+   "link": "https://danelfin.com",
+   "status": 403,
+   "detail": "direct:403"
+  },
+  {
+   "_id": "eV0KbnDX15k6tipF2jZn1q",
+   "name": "anime ai",
+   "link": "https://perchance.org/ai-anime-generator",
+   "status": "fetch failed",
+   "detail": "proxy:403-cf"
+  },
+  {
+   "_id": "eV0KbnDX15k6tipF2jq7ZG",
+   "name": "gpt engineer",
+   "link": "https://levelup.gitconnected.com/gpt-engineer-build-an-entire-app-with-a-single-prompt-14a1bbf4aeb6",
+   "status": 403,
+   "detail": "direct:403-other"
+  },
+  {
+   "_id": "eV0KbnDX15k6tipF2jsH5K",
+   "name": "gptgo",
+   "link": "https://gptgo.ai/pages/about.html",
+   "status": 403,
+   "detail": "direct:403-other"
+  },
+  {
+   "_id": "eV0KbnDX15k6tipF2jtwAI",
+   "name": "hourone",
+   "link": "https://www.beyond-the-ai.com/tools/hourone",
+   "status": 403,
+   "detail": "direct:403"
+  },
+  {
+   "_id": "eV0KbnDX15k6tipF2jxmiw",
+   "name": "inmagic ai",
+   "link": "https://inmagic.ai",
+   "status": 403,
+   "detail": "direct:403-other"
+  },
+  {
+   "_id": "eV0KbnDX15k6tipF2jzbgA",
+   "name": "levity",
+   "link": "https://www.merriam-webster.com/dictionary/levity",
+   "status": 403,
+   "detail": "direct:403"
+  },
+  {
+   "_id": "eV0KbnDX15k6tipF2k0z2Q",
+   "name": "lovable",
+   "link": "https://lovable.dev",
+   "status": 403,
+   "detail": "direct:403"
+  },
+  {
+   "_id": "eV0KbnDX15k6tipF2jxtQ6",
+   "name": "jogg ai",
+   "link": "https://www.jogg.ai",
+   "status": 403,
+   "detail": "direct:403-other"
+  },
+  {
+   "_id": "eV0KbnDX15k6tipF2k3U42",
+   "name": "maverick",
+   "link": "https://maverik.com",
+   "status": 403,
+   "detail": "direct:403-other"
+  },
+  {
+   "_id": "eV0KbnDX15k6tipF2k1yvW",
+   "name": "magickpen",
+   "link": "https://magickpen.com",
+   "status": "fetch failed",
+   "detail": "proxy:403-cf"
+  },
+  {
+   "_id": "eV0KbnDX15k6tipF2kHfcw",
+   "name": "quino",
+   "link": "https://www.healthline.com/nutrition/what-is-quinoa",
+   "status": 403,
+   "detail": "direct:403-other"
+  },
+  {
+   "_id": "eV0KbnDX15k6tipF2kIkiw",
+   "name": "reply io",
+   "link": "https://reply.io",
+   "status": 403,
+   "detail": "direct:403"
+  },
+  {
+   "_id": "eV0KbnDX15k6tipF2kJenO",
+   "name": "screenapp",
+   "link": "https://creati.ai/ai-tools/screenapp",
+   "status": 403,
+   "detail": "direct:403"
+  },
+  {
+   "_id": "eV0KbnDX15k6tipF2kJasA",
+   "name": "scholarcy",
+   "link": "https://www.scholarcy.com",
+   "status": 403,
+   "detail": "direct:403"
+  },
+  {
+   "_id": "eV0KbnDX15k6tipF2kKENC",
+   "name": "shownotes",
+   "link": "https://www.shownotes.io",
+   "status": 403,
+   "detail": "direct:403-other"
+  },
+  {
+   "_id": "eV0KbnDX15k6tipF2kKEdy",
+   "name": "sierra",
+   "link": "https://www.sierra.com/home/index",
+   "status": 403,
+   "detail": "direct:403-other"
+  },
+  {
+   "_id": "eV0KbnDX15k6tipF2k6yhy",
+   "name": "nightcafe studio",
+   "link": "https://creator.nightcafe.studio",
+   "status": "fetch failed",
+   "detail": "proxy:403-cf"
+  },
+  {
+   "_id": "eV0KbnDX15k6tipF2kOWKE",
+   "name": "team gpt",
+   "link": "https://app.team-gpt.com",
+   "status": 403,
+   "detail": "direct:403-other"
+  },
+  {
+   "_id": "eV0KbnDX15k6tipF2kP5Qg",
+   "name": "theb ai",
+   "link": "https://creati.ai/ai-tools/theb-ai",
+   "status": 403,
+   "detail": "direct:403"
+  },
+  {
+   "_id": "eV0KbnDX15k6tipF2kQpqw",
+   "name": "turbosite",
+   "link": "https://topai.tools/t/turbosite",
+   "status": 403,
+   "detail": "direct:403"
+  },
+  {
+   "_id": "eV0KbnDX15k6tipF2kTPx4",
+   "name": "vacay",
+   "link": "https://esim.vacay.asia/th/en",
+   "status": 403,
+   "detail": "direct:403-other"
+  },
+  {
+   "_id": "eV0KbnDX15k6tipF2kWKso",
+   "name": "youware",
+   "link": "https://www.youware.com",
+   "status": 403,
+   "detail": "direct:403-other"
+  },
+  {
+   "_id": "eV0KbnDX15k6tipF2kKEuk",
+   "name": "sider",
+   "link": "https://sider.ai",
+   "status": "fetch failed",
+   "detail": "proxy:403-cf"
+  },
+  {
+   "_id": "eV0KbnDX15k6tipF2kcEnu",
+   "name": "leonardo ai",
+   "link": "https://leonardo.ai",
+   "status": "fetch failed",
+   "detail": "proxy:403-cf"
+  },
+  {
+   "_id": "iBofm1I2mxsn1dMFl1SRdp",
+   "name": "cold mail bot",
+   "link": "https://quillbot.com/ai-writing-tools/ai-cold-email-generator",
+   "status": 403,
+   "detail": "direct:403"
+  },
+  {
+   "_id": "iBofm1I2mxsn1dMFl1Skyl",
+   "name": "consensus",
+   "link": "https://consensus.app",
+   "status": 403,
+   "detail": "direct:403"
+  },
+  {
+   "_id": "iBofm1I2mxsn1dMFl1U9uJ",
+   "name": "genspark ai",
+   "link": "https://www.genspark.ai",
+   "status": 403,
+   "detail": "direct:403-other"
+  },
+  {
+   "_id": "k1mPmLtKTqrLXYGsLhAPpk",
+   "name": "refraction",
+   "link": "https://www.britannica.com/science/refraction",
+   "status": 403,
+   "detail": "direct:403"
+  },
+  {
+   "_id": "k1mPmLtKTqrLXYGsLhBt4d",
+   "name": "samurai",
+   "link": "https://www.britannica.com/topic/samurai",
+   "status": 403,
+   "detail": "direct:403"
+  },
+  {
+   "_id": "k1mPmLtKTqrLXYGsLhC7hH",
+   "name": "scribble ai",
+   "link": "https://www.scribbr.com/ai-detector",
+   "status": 403,
+   "detail": "direct:403"
+  },
+  {
+   "_id": "k1mPmLtKTqrLXYGsLhJhCN",
+   "name": "toucan",
+   "link": "https://www.britannica.com/animal/toucan",
+   "status": 403,
+   "detail": "direct:403"
+  },
+  {
+   "_id": "k1mPmLtKTqrLXYGsLhHnad",
+   "name": "textcortex ai",
+   "link": "https://textcortex.com",
+   "status": 403,
+   "detail": "direct:403"
+  },
+  {
+   "_id": "k1mPmLtKTqrLXYGsLhKGtw",
+   "name": "transvribe",
+   "link": "https://www.transcribe.gov.sg",
+   "status": 403,
+   "detail": "direct:403-other"
+  },
+  {
+   "_id": "k1mPmLtKTqrLXYGsLh8aBx",
+   "name": "prompt hunt",
+   "link": "https://www.prompthunt.com",
+   "status": "fetch failed",
+   "detail": "proxy:403-cf"
+  },
+  {
+   "_id": "l90kUZ2YxdXMs17eFJailo",
+   "name": "midjourney",
+   "link": "https://www.midjourney.com",
+   "status": 403,
+   "detail": "direct:403"
+  },
+  {
+   "_id": "l90kUZ2YxdXMs17eFJcGiC",
+   "name": "quizgecko",
+   "link": "https://quizgecko.com",
+   "status": 403,
+   "detail": "direct:403"
+  },
+  {
+   "_id": "l90kUZ2YxdXMs17eFJdM8q",
+   "name": "unriddle",
+   "link": "https://www.beyond-the-ai.com/tools/unriddle",
+   "status": 403,
+   "detail": "direct:403"
+  },
+  {
+   "_id": "l90kUZ2YxdXMs17eFJddCu",
+   "name": "60sec site",
+   "link": "https://60sec.site",
+   "status": 403,
+   "detail": "direct:403"
+  },
+  {
+   "_id": "l90kUZ2YxdXMs17eFJdkhQ",
+   "name": "activecampaign ai",
+   "link": "https://www.activecampaign.com/platform/artificial-intelligence",
+   "status": 403,
+   "detail": "direct:403"
+  },
+  {
+   "_id": "l90kUZ2YxdXMs17eFJfFG8",
+   "name": "blackink ai",
+   "link": "https://blackink.ai",
+   "status": 403,
+   "detail": "direct:403-other"
+  },
+  {
+   "_id": "k1mPmLtKTqrLXYGsLhHblb",
+   "name": "teach anything",
+   "link": "https://www.teach-anything.com",
+   "status": "fetch failed",
+   "detail": "proxy:403-cf"
+  }
+ ],
+ "blocked": [
+  {
+   "_id": "15wmCpqN6uKuS5lASdNRAC",
+   "name": "vimeo ai",
+   "link": "https://vimeo.com/features/vimeo-ai",
+   "status": "fetch failed",
+   "detail": "direct-fail-proxy-ok"
+  },
+  {
+   "_id": "1adbzT7eJfu9syvvo0SWLV",
+   "name": "jan",
+   "link": "https://www.jan.ai",
+   "status": "fetch failed",
+   "detail": "direct-fail-proxy-ok"
+  },
+  {
+   "_id": "1adbzT7eJfu9syvvo0Z5AR",
+   "name": "monic ai",
+   "link": "https://monica.im",
+   "status": "fetch failed",
+   "detail": "direct-fail-proxy-ok"
+  },
+  {
+   "_id": "1adbzT7eJfu9syvvo0bVIl",
+   "name": "novelai",
+   "link": "https://novelai.net",
+   "status": "fetch failed",
+   "detail": "direct-fail-proxy-ok"
+  },
+  {
+   "_id": "1adbzT7eJfu9syvvo0bF6v",
+   "name": "notebooklm",
+   "link": "https://notebooklm.google",
+   "status": "fetch failed",
+   "detail": "direct-fail-proxy-ok"
+  },
+  {
+   "_id": "1adbzT7eJfu9syvvo0hKsV",
+   "name": "photoroom",
+   "link": "https://www.photoroom.com",
+   "status": "fetch failed",
+   "detail": "direct-fail-proxy-ok"
+  },
+  {
+   "_id": "1adbzT7eJfu9syvvo0hj8H",
+   "name": "pika",
+   "link": "https://pika.art",
+   "status": "fetch failed",
+   "detail": "direct-fail-proxy-ok"
+  },
+  {
+   "_id": "3K8X69qslHmY3nhkoQHvHl",
+   "name": "writesonic",
+   "link": "https://writesonic.com",
+   "status": "fetch failed",
+   "detail": "direct-fail-proxy-ok"
+  },
+  {
+   "_id": "3K8X69qslHmY3nhkoQHsLR",
+   "name": "meshy",
+   "link": "https://www.meshy.ai",
+   "status": "fetch failed",
+   "detail": "direct-fail-proxy-ok"
+  },
+  {
+   "_id": "3K8X69qslHmY3nhkoQHscH",
+   "name": "pixlr",
+   "link": "https://pixlr.com",
+   "status": "fetch failed",
+   "detail": "direct-fail-proxy-ok"
+  },
+  {
+   "_id": "3K8X69qslHmY3nhkoQHvPt",
+   "name": "accountabilabuddy",
+   "link": "https://www.urbandictionary.com/define.php?term=accountabilibuddy",
+   "status": "fetch failed",
+   "detail": "direct-fail-proxy-ok"
+  },
+  {
+   "_id": "3K8X69qslHmY3nhkoQIkBZ",
+   "name": "chatpdf",
+   "link": "https://www.chatpdf.com",
+   "status": "fetch failed",
+   "detail": "direct-fail-proxy-ok"
+  },
+  {
+   "_id": "3K8X69qslHmY3nhkoQHyxx",
+   "name": "artbreeder",
+   "link": "https://artbreeder.com",
+   "status": "fetch failed",
+   "detail": "direct-fail-proxy-ok"
+  },
+  {
+   "_id": "3K8X69qslHmY3nhkoQKlR7",
+   "name": "hot reach ai",
+   "link": "https://hotreachai.com",
+   "status": "fetch failed",
+   "detail": "direct-fail-proxy-ok"
+  },
+  {
+   "_id": "3K8X69qslHmY3nhkoQJ20X",
+   "name": "clipdrop",
+   "link": "https://clipdrop.co",
+   "status": "fetch failed",
+   "detail": "direct-fail-proxy-ok"
+  },
+  {
+   "_id": "3K8X69qslHmY3nhkoQJ3LZ",
+   "name": "clipfly",
+   "link": "https://www.clipfly.ai",
+   "status": "fetch failed",
+   "detail": "direct-fail-proxy-ok"
+  },
+  {
+   "_id": "3K8X69qslHmY3nhkoQK5vh",
+   "name": "gencraft",
+   "link": "https://gencraft.com",
+   "status": "fetch failed",
+   "detail": "direct-fail-proxy-ok"
+  },
+  {
+   "_id": "3K8X69qslHmY3nhkoQKJLB",
+   "name": "google ai studio",
+   "link": "https://aistudio.google.com",
+   "status": "fetch failed",
+   "detail": "direct-fail-proxy-ok"
+  },
+  {
+   "_id": "3K8X69qslHmY3nhkoQKdlZ",
+   "name": "grok",
+   "link": "https://grok.com",
+   "status": "fetch failed",
+   "detail": "direct-fail-proxy-ok"
+  },
+  {
+   "_id": "3K8X69qslHmY3nhkoQLM5B",
+   "name": "krea",
+   "link": "https://www.krea.ai",
+   "status": "fetch failed",
+   "detail": "direct-fail-proxy-ok"
+  },
+  {
+   "_id": "3K8X69qslHmY3nhkoQLfiD",
+   "name": "luma ai",
+   "link": "https://lumalabs.ai",
+   "status": "fetch failed",
+   "detail": "direct-fail-proxy-ok"
+  },
+  {
+   "_id": "3K8X69qslHmY3nhkoQOBzR",
+   "name": "sellerai",
+   "link": "https://sellerai.com",
+   "status": "fetch failed",
+   "detail": "direct-fail-proxy-ok"
+  },
+  {
+   "_id": "3K8X69qslHmY3nhkoQMBz7",
+   "name": "moltbook",
+   "link": "https://www.moltbook.com",
+   "status": "fetch failed",
+   "detail": "direct-fail-proxy-ok"
+  },
+  {
+   "_id": "3K8X69qslHmY3nhkoQOpyn",
+   "name": "teachable machine",
+   "link": "https://teachablemachine.withgoogle.com",
+   "status": "fetch failed",
+   "detail": "direct-fail-proxy-ok"
+  },
+  {
+   "_id": "3K8X69qslHmY3nhkoQPlHB",
+   "name": "webscrapeai",
+   "link": "https://webscrapeai.com",
+   "status": "fetch failed",
+   "detail": "direct-fail-proxy-ok"
+  },
+  {
+   "_id": "eV0KbnDX15k6tipF2jZM2c",
+   "name": "insight7",
+   "link": "https://insight7.io",
+   "status": "fetch failed",
+   "detail": "direct-fail-proxy-ok"
+  },
+  {
+   "_id": "3K8X69qslHmY3nhkoQPoUL",
+   "name": "wiseone",
+   "link": "https://www.wiseoneuk.com",
+   "status": "fetch failed",
+   "detail": "direct-fail-proxy-ok"
+  },
+  {
+   "_id": "3K8X69qslHmY3nhkoQPy4L",
+   "name": "you",
+   "link": "https://you.com",
+   "status": "fetch failed",
+   "detail": "direct-fail-proxy-ok"
+  },
+  {
+   "_id": "3K8X69qslHmY3nhkoQQMzR",
+   "name": "one ai",
+   "link": "https://oneai.media/login",
+   "status": "fetch failed",
+   "detail": "direct-fail-proxy-ok"
+  },
+  {
+   "_id": "eV0KbnDX15k6tipF2jZNOU",
+   "name": "invideo",
+   "link": "https://invideo.io",
+   "status": "fetch failed",
+   "detail": "direct-fail-proxy-ok"
+  },
+  {
+   "_id": "eV0KbnDX15k6tipF2jZMeM",
+   "name": "heygen",
+   "link": "https://www.heygen.com",
+   "status": "fetch failed",
+   "detail": "direct-fail-proxy-ok"
+  },
+  {
+   "_id": "eV0KbnDX15k6tipF2jZU9q",
+   "name": "playground ai",
+   "link": "https://playgroundai.com",
+   "status": "fetch failed",
+   "detail": "direct-fail-proxy-ok"
+  },
+  {
+   "_id": "eV0KbnDX15k6tipF2jZVus",
+   "name": "suno",
+   "link": "https://suno.com/l/ai-music-app",
+   "status": "fetch failed",
+   "detail": "direct-fail-proxy-ok"
+  },
+  {
+   "_id": "eV0KbnDX15k6tipF2jZf7C",
+   "name": "trickle",
+   "link": "https://trickle.so",
+   "status": "fetch failed",
+   "detail": "direct-fail-proxy-ok"
+  },
+  {
+   "_id": "eV0KbnDX15k6tipF2jZfNy",
+   "name": "tripo ai",
+   "link": "https://www.tripo3d.ai",
+   "status": "fetch failed",
+   "detail": "direct-fail-proxy-ok"
+  },
+  {
+   "_id": "eV0KbnDX15k6tipF2jaCvy",
+   "name": "blaze",
+   "link": "https://www.theblaze.com",
+   "status": "fetch failed",
+   "detail": "direct-fail-proxy-ok"
+  },
+  {
+   "_id": "eV0KbnDX15k6tipF2jlTli",
+   "name": "deep dream generator",
+   "link": "https://deepdreamgenerator.com",
+   "status": "fetch failed",
+   "detail": "direct-fail-proxy-ok"
+  },
+  {
+   "_id": "eV0KbnDX15k6tipF2ju1Eo",
+   "name": "hypotenuse ai",
+   "link": "https://www.hypotenuse.ai",
+   "status": "fetch failed",
+   "detail": "direct-fail-proxy-ok"
+  },
+  {
+   "_id": "eV0KbnDX15k6tipF2jrTqQ",
+   "name": "gpt researcher",
+   "link": "https://chatgpt.com/g/g-nRK3Nn5yE-researcher",
+   "status": "fetch failed",
+   "detail": "direct-fail-proxy-ok"
+  },
+  {
+   "_id": "eV0KbnDX15k6tipF2jwLNG",
+   "name": "atlas",
+   "link": "https://www.worldatlas.com",
+   "status": "fetch failed",
+   "detail": "direct-fail-proxy-ok"
+  },
+  {
+   "_id": "eV0KbnDX15k6tipF2jwdZK",
+   "name": "dezgo",
+   "link": "https://dezgo.com",
+   "status": "fetch failed",
+   "detail": "direct-fail-proxy-ok"
+  },
+  {
+   "_id": "eV0KbnDX15k6tipF2jx99i",
+   "name": "imagine me",
+   "link": "https://imagineme.ai",
+   "status": "fetch failed",
+   "detail": "direct-fail-proxy-ok"
+  },
+  {
+   "_id": "eV0KbnDX15k6tipF2jy2p0",
+   "name": "jounce",
+   "link": "https://jounce.ai",
+   "status": "fetch failed",
+   "detail": "direct-fail-proxy-ok"
+  },
+  {
+   "_id": "eV0KbnDX15k6tipF2k9Jiw",
+   "name": "openart",
+   "link": "https://openart.ai",
+   "status": "fetch failed",
+   "detail": "direct-fail-proxy-ok"
+  },
+  {
+   "_id": "eV0KbnDX15k6tipF2kFeUs",
+   "name": "picsart",
+   "link": "https://picsart.com",
+   "status": "fetch failed",
+   "detail": "direct-fail-proxy-ok"
+  },
+  {
+   "_id": "eV0KbnDX15k6tipF2kG48E",
+   "name": "podcast",
+   "link": "https://open.spotify.com/genre/podcasts-page",
+   "status": "fetch failed",
+   "detail": "direct-fail-proxy-ok"
+  },
+  {
+   "_id": "eV0KbnDX15k6tipF2kH1Nm",
+   "name": "prompthero",
+   "link": "https://prompthero.com",
+   "status": "fetch failed",
+   "detail": "direct-fail-proxy-ok"
+  },
+  {
+   "_id": "eV0KbnDX15k6tipF2kM8ju",
+   "name": "steamship",
+   "link": "https://www.steamshipauthority.com",
+   "status": "fetch failed",
+   "detail": "direct-fail-proxy-ok"
+  },
+  {
+   "_id": "eV0KbnDX15k6tipF2kckf4",
+   "name": "wirestock",
+   "link": "https://wirestock.io",
+   "status": "fetch failed",
+   "detail": "direct-fail-proxy-ok"
+  },
+  {
+   "_id": "iBofm1I2mxsn1dMFl1QPkn",
+   "name": "chaingpt",
+   "link": "https://www.chaingpt.org",
+   "status": "fetch failed",
+   "detail": "direct-fail-proxy-ok"
+  },
+  {
+   "_id": "iBofm1I2mxsn1dMFl1TinX",
+   "name": "facetune",
+   "link": "https://www.facetuneapp.com",
+   "status": "fetch failed",
+   "detail": "proxy-fail:request to https://www.facetuneapp.com/ failed, re"
+  },
+  {
+   "_id": "iBofm1I2mxsn1dMFl1Qehz",
+   "name": "chat prompt genius",
+   "link": "https://chatpromptgenius.com",
+   "status": "fetch failed",
+   "detail": "direct-fail-proxy-ok"
+  },
+  {
+   "_id": "iBofm1I2mxsn1dMFl1QvoX",
+   "name": "chatgpt buddy",
+   "link": "https://chatgpt.com/g/g-xGT2QvWZv-pod-buddy",
+   "status": "fetch failed",
+   "detail": "direct-fail-proxy-ok"
+  },
+  {
+   "_id": "k1mPmLtKTqrLXYGsLhLv1z",
+   "name": "twine",
+   "link": "https://twinery.org",
+   "status": "fetch failed",
+   "detail": "direct-fail-proxy-ok"
+  },
+  {
+   "_id": "k1mPmLtKTqrLXYGsLhOCzC",
+   "name": "videoleap",
+   "link": "https://www.videoleapapp.com",
+   "status": "fetch failed",
+   "detail": "proxy-fail:request to https://www.videoleapapp.com/ failed, r"
+  },
+  {
+   "_id": "iBofm1I2mxsn1dMFl1U9bR",
+   "name": "generated photos",
+   "link": "https://generated.photos",
+   "status": "fetch failed",
+   "detail": "direct-fail-proxy-ok"
+  },
+  {
+   "_id": "k1mPmLtKTqrLXYGsLhEs7Y",
+   "name": "stablecog",
+   "link": "https://stablecog.com",
+   "status": "fetch failed",
+   "detail": "direct-fail-proxy-ok"
+  },
+  {
+   "_id": "k1mPmLtKTqrLXYGsLhQsk7",
+   "name": "youmind",
+   "link": "https://youmind.com",
+   "status": "fetch failed",
+   "detail": "direct-fail-proxy-ok"
+  },
+  {
+   "_id": "l90kUZ2YxdXMs17eFJmRMC",
+   "name": "claude",
+   "link": "https://claude.com",
+   "status": "fetch failed",
+   "detail": "direct-fail-proxy-ok"
+  },
+  {
+   "_id": "l90kUZ2YxdXMs17eFJmMmK",
+   "name": "civitai",
+   "link": "https://civitai.com",
+   "status": "fetch failed",
+   "detail": "direct-fail-proxy-ok"
+  },
+  {
+   "_id": "l90kUZ2YxdXMs17eFJmmdY",
+   "name": "typeface",
+   "link": "https://www.typeface.ai",
+   "status": "fetch failed",
+   "detail": "direct-fail-proxy-ok"
+  },
+  {
+   "_id": "l90kUZ2YxdXMs17eFJnBIa",
+   "name": "blackbox ai",
+   "link": "https://www.blackbox.ai",
+   "status": "fetch failed",
+   "detail": "direct-fail-proxy-ok"
+  }
+ ],
+ "other": [
+  {
+   "_id": "1adbzT7eJfu9syvvo0PCPJ",
+   "name": "i10x",
+   "link": "https://i10x.ai",
+   "status": "fetch failed",
+   "detail": "direct:200"
+  },
+  {
+   "_id": "3K8X69qslHmY3nhkoQJkC1",
+   "name": "dream interpreter",
+   "link": "https://dreaminterpreter.ai",
+   "status": 429,
+   "detail": "direct:429"
+  },
+  {
+   "_id": "3K8X69qslHmY3nhkoQJqJB",
+   "name": "eightify",
+   "link": "https://eightify.app",
+   "status": "fetch failed",
+   "detail": "proxy:403"
+  },
+  {
+   "_id": "3K8X69qslHmY3nhkoQMyw9",
+   "name": "opinly ai",
+   "link": "https://opinly.ai",
+   "status": "fetch failed",
+   "detail": "direct:200"
+  },
+  {
+   "_id": "3K8X69qslHmY3nhkoQM6FB",
+   "name": "meta ai",
+   "link": "https://www.meta.ai",
+   "status": "fetch failed",
+   "detail": "proxy:403"
+  },
+  {
+   "_id": "3K8X69qslHmY3nhkoQOdab",
+   "name": "stylar",
+   "link": "https://app.stylar.com",
+   "status": 402,
+   "detail": "direct:402"
+  },
+  {
+   "_id": "3K8X69qslHmY3nhkoQME17",
+   "name": "morise ai",
+   "link": "https://easywithai.com/ai-video-tools/morise-ai",
+   "status": "fetch failed",
+   "detail": "proxy:403"
+  },
+  {
+   "_id": "3K8X69qslHmY3nhkoQOBEP",
+   "name": "scite",
+   "link": "https://scite.ai",
+   "status": "fetch failed",
+   "detail": "proxy:403"
+  },
+  {
+   "_id": "eV0KbnDX15k6tipF2jZEX8",
+   "name": "character ai",
+   "link": "https://character.ai",
+   "status": "fetch failed",
+   "detail": "proxy:403"
+  },
+  {
+   "_id": "eV0KbnDX15k6tipF2jeBoQ",
+   "name": "chatgot",
+   "link": "https://chatgpt.com",
+   "status": "fetch failed",
+   "detail": "proxy:403"
+  },
+  {
+   "_id": "eV0KbnDX15k6tipF2k19Fe",
+   "name": "lovo ai",
+   "link": "https://lovo.ai",
+   "status": 402,
+   "detail": "direct:402"
+  },
+  {
+   "_id": "eV0KbnDX15k6tipF2kCq7u",
+   "name": "openread",
+   "link": "https://www.openread.academy",
+   "status": 429,
+   "detail": "direct:429"
+  },
+  {
+   "_id": "eV0KbnDX15k6tipF2kPdFS",
+   "name": "tldr this",
+   "link": "https://www.tldrthis.com",
+   "status": 429,
+   "detail": "proxy:429"
+  },
+  {
+   "_id": "eV0KbnDX15k6tipF2kUSH8",
+   "name": "waitroom",
+   "link": "https://waitroom.co",
+   "status": "fetch failed",
+   "detail": "direct:200"
+  },
+  {
+   "_id": "eV0KbnDX15k6tipF2kN96M",
+   "name": "summarize tech",
+   "link": "https://easywithai.com/ai-productivity-tools/summarize-tech",
+   "status": "fetch failed",
+   "detail": "proxy:403"
+  },
+  {
+   "_id": "iBofm1I2mxsn1dMFl1R2dF",
+   "name": "chatgpt writer",
+   "link": "https://chatgpt.com/writing",
+   "status": "fetch failed",
+   "detail": "proxy:403"
+  },
+  {
+   "_id": "k1mPmLtKTqrLXYGsLhMqME",
+   "name": "unsummary",
+   "link": "https://easywithai.com/ai-productivity-tools/unsummary",
+   "status": "fetch failed",
+   "detail": "proxy:403"
+  },
+  {
+   "_id": "l90kUZ2YxdXMs17eFJmRcK",
+   "name": "craiyon",
+   "link": "https://www.craiyon.com",
+   "status": "fetch failed",
+   "detail": "proxy:403"
+  },
+  {
+   "_id": "l90kUZ2YxdXMs17eFJmn08",
+   "name": "vidiq",
+   "link": "https://vidiq.com",
+   "status": "fetch failed",
+   "detail": "proxy:429"
+  }
+ ]
+}

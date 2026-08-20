@@ -1,0 +1,37 @@
+total: 169 | already OK: 94 | to retry: 75
+[1/75] OK(1) ludo (476KB)
+[2/75] OK(1) enso (631KB)
+[3/75] OK(1) regie (264KB)
+[4/75] OK(1) suggest gift (409KB)
+[5/75] OK(1) echowin (404KB)
+[6/75] OK(1) hostinger (272KB)
+[7/75] attempt1 FAIL inworld spawnSync bash ETIMEDOUT
+✖  Browser connection dropped after the network-capture-start command was dispatched; it may have completed.
+✖  Hint: Inspect the browser/session state before retrying. Do not blindly retry write commands such as navigate, click, type, or eval.
+[7/75] attempt2 FAIL inworld Command failed: opencli browser vfszuehh open "htt
+[7/75] GIVEUP inworld
+[8/75] OK(1) jogg ai (255KB)
+✖  Browser connection dropped after the navigate command was dispatched; it may have completed.
+✖  Hint: Inspect the browser/session state before retrying. Do not blindly retry write commands such as navigate, click, type, or eval.
+[9/75] attempt1 FAIL onlydoc Command failed: opencli browser vfszuehh open "htt
+[9/75] OK(2) onlydoc (135KB)
+✖  Browser connection dropped after the navigate command was dispatched; it may have completed.
+✖  Hint: Inspect the browser/session state before retrying. Do not blindly retry write commands such as navigate, click, type, or eval.
+[10/75] attempt1 FAIL openart Command failed: opencli browser vfszuehh open "htt
+[10/75] OK(2) openart (4KB)
+[11/75] OK(1) ordinary people prompts (25KB)
+[12/75] OK(1) osam ai (79KB)
+[13/75] OK(1) podcast (362KB)
+[14/75] OK(1) quickmagic (325KB)
+[15/75] OK(1) sonara (182KB)
+[16/75] OK(1) squirrly seo (110KB)
+✖  Browser connection dropped after the navigate command was dispatched; it may have completed.
+✖  Hint: Inspect the browser/session state before retrying. Do not blindly retry write commands such as navigate, click, type, or eval.
+[17/75] attempt1 FAIL taja ai Command failed: opencli browser vfszuehh open "htt
+✖  Browser connection dropped after the navigate command was dispatched; it may have completed.
+✖  Hint: Inspect the browser/session state before retrying. Do not blindly retry write commands such as navigate, click, type, or eval.
+[17/75] attempt2 FAIL taja ai Command failed: opencli browser vfszuehh open "htt
+[17/75] GIVEUP taja ai
+✖  Browser connection dropped after the navigate command was dispatched; it may have completed.
+✖  Hint: Inspect the browser/session state before retrying. Do not blindly retry write commands such as navigate, click, type, or eval.
+[18/75] attempt1 FAIL vacay Command failed: opencli browser vfszuehh open "htt

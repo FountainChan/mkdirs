@@ -2,6 +2,9 @@ import type { SiteConfig } from "@/types";
 
 const SITE_URL = process.env.NEXT_PUBLIC_APP_URL;
 
+// utm_source 按惯例只放域名，不带协议
+const SITE_HOST = SITE_URL ? new URL(SITE_URL).hostname : SITE_URL;
+
 export const siteConfig: SiteConfig = {
   name: "Directory",
   tagline:
@@ -30,7 +33,7 @@ export const siteConfig: SiteConfig = {
   image: `${SITE_URL}/og.png?v=1`,
   mail: "support@mkdirs.com",
   utm: {
-    source: SITE_URL,
+    source: SITE_HOST,
     medium: "referral",
     campaign: "navigation",
   },
