@@ -6,7 +6,7 @@
 // 用法：node scripts/upload-screenshots.mjs [--dry-run]
 import "dotenv/config";
 import { createClient } from "next-sanity";
-import { readdirSync, readFileSync, writeFileSync, existsSync } from "node:fs";
+import { readdirSync, readFileSync, writeFileSync, existsSync, renameSync, mkdirSync } from "node:fs";
 import path from "node:path";
 import { fileURLToPath } from "node:url";
 
@@ -27,11 +27,18 @@ const client = createClient({
   token: process.env.SANITY_API_TOKEN,
 });
 
-// 文件名（无扩展名）→ item 明细
+// 文件名（无扩展名）→ item 明细（fp-failed-detail.json + Sanity 全量兜底）
 const detail = JSON.parse(readFileSync(detailPath, "utf-8"));
 const bySafeName = new Map();
 for (const d of detail) {
   bySafeName.set(d.name.toLowerCase().replace(/[^a-z0-9]+/g, "-"), d);
+}
+// Sanity 兜底：不在 detail 里的 item 也建映射（name slug + item slug 双键）
+const allItems = await client.fetch('*[_type == "item"]{_id, name, "slug": slug.current, link}');
+for (const a of allItems) {
+  const safe = a.name.toLowerCase().replace(/[^a-z0-9]+/g, "-");
+  if (!bySafeName.has(safe)) bySafeName.set(safe, a);
+  if (a.slug && !bySafeName.has(a.slug)) bySafeName.set(a.slug, a);
 }
 
 // 已上传记录（断点续跑）
@@ -65,6 +72,13 @@ for (const f of files) {
     writeFileSync(uploadedPath, JSON.stringify(uploaded, null, 1));
     ok++;
     console.log(`OK ${item.name} <- ${f} (${(buf.length / 1024).toFixed(0)}KB)`);
+
+    // 上传成功后移入 drop 目录
+    if (!DRY_RUN) {
+      const dropDir = path.join(shotDir, "drop");
+      mkdirSync(dropDir, { recursive: true });
+      try { renameSync(filePath, path.join(dropDir, f)); } catch {}
+    }
   } catch (e) {
     fail++;
     console.log(`FAIL ${f}: ${(e.message || "").slice(0, 60)}`);

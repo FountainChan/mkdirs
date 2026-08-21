@@ -43,3 +43,31 @@
 | microsoft copilot | https://copilot.microsoft.com | screenshot-Remove/站点不通或下线 |
 | shownotes | https://www.shownotes.io | screenshot-Remove/站点不通或下线 |
 | theb ai | https://creati.ai/ai-tools/theb-ai | screenshot-Remove/站点不通或下线 |
+
+
+## 2026-08-20 批次（0 条）
+
+| 名称 | 官网 | 原因 |
+|---|---|---|
+
+
+
+## 2026-08-20 批次（1 条）
+
+| 名称 | 官网 | 原因 |
+|---|---|---|
+| chat2course | https://chat2course.com | 用户手动下架 |
+
+
+## 2026-08-20 批次（1 条）
+
+| 名称 | 官网 | 原因 |
+|---|---|---|
+| chat2course | https://chat2course.com | manual-unpublish |
+
+
+## 2026-08-20 批次（1 条）
+
+| 名称 | 官网 | 原因 |
+|---|---|---|
+| jetpack ai assistant | https://ai.jetpacksandbox.com/assistant | manual-unpublish |

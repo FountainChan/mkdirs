@@ -1,7 +1,7 @@
-# 截图、上传、下架三脚本使用说明
+# 截图、上传、下架脚本使用说明
 
 > 适用：dir.vastnext.com（mkdirs 模板 + Sanity CMS）
-> 三脚本配套使用：opencli 截图（本地浏览器真实渲染）→ 上传 Sanity → 下架问题站点
+> 四脚本配套使用：opencli 自动截图 / 人工介入截图 → 上传 Sanity → 下架问题站点
 
 ## 前置准备
 
@@ -79,7 +79,61 @@ opencli browser vfszuehh screenshot tmp-shots/example.png
 opencli browser vfszuehh close
 ```
 
-## 脚本二：上传截图到 Sanity
+## 脚本二：人工介入截图（CF 挑战/指定条目）
+
+**文件**：`scripts/screenshot-manual.sh`（bash 脚本，**必须在自己的 Git Bash 终端跑**——需要按 Enter 交互）
+
+**用途**：Cloudflare 挑战页或需要人工等待的场景。脚本打开页面 → **暂停等你按 Enter**（你在 Chrome 里完成 CF 挑战/等加载）→ 截图 → 下一条。
+
+### 三种输入模式
+
+```bash
+# 1. --dir：遍历目录下所有 .png 文件名（重截该目录的站点）
+bash scripts/screenshot-manual.sh --dir tmp-shots/CloudflareBlock
+
+# 2. --name：直接指定名称（可多个）
+bash scripts/screenshot-manual.sh --name "gencraft" "replika" "chat2course"
+
+# 3. --file：从文件读，每行自动识别 URL 或纯名称
+#    https://dir.vastnext.com/item/marketingblocks-ai  → URL，取末段 slug
+#    wordhero                                        → 纯名称
+bash scripts/screenshot-manual.sh --file list.txt
+
+# 可选：--session 指定 opencli session（默认 vfszuehh）
+bash scripts/screenshot-manual.sh --file list.txt --session vfszuehh
+```
+
+### 执行流程
+
+1. 逐行识别输入（URL 取末段 slug / 纯名称），统一 slug 化去重
+2. 映射查找：`fp-failed-detail.json` → Sanity 全量（name slug + item slug 双键）
+3. **打开浏览器前打印清单预览**（名称 + URL + 总数）
+4. 逐条：opencli 打开 → `read` 等 Enter → 截图 → 验证 >10KB → 下一条
+
+### 清单预览效果
+
+```
+==========================================
+ 待截图清单（共 3 条）
+==========================================
+ [1] marketingblocks ai  (https://marketingblocks.ai)
+ [2] wordhero  (https://wordhero.co)
+ [3] vocal remover  (https://vocalremover.org)
+==========================================
+```
+
+### 关键实现细节（Git Bash 踩坑）
+
+- 所有 `opencli` 命令带 `</dev/null`：防止 opencli 劫持 stdin 吃掉 while 循环的列表行（曾导致只跑 2 条就停）
+- `read ... </dev/tty`：从终端读 Enter，不读列表文件（曾导致不等输入直接跳）
+- `find -exec basename`：避免管道子 shell 写文件被覆盖
+
+### 产出
+
+- `tmp-shots/<safeName>.png`
+- `tmp-shots/manual-screenshot-log.txt`（OK / too-small / no-file）
+
+## 脚本三：上传截图到 Sanity
 
 **文件**：`scripts/upload-screenshots.mjs`（Node.js + next-sanity）
 
@@ -109,7 +163,7 @@ node scripts/upload-screenshots.mjs
 - `tmp-shots/CloudflareBlock/` —— CF 挑战页，需人工介入
 - `tmp-shots/Remove/` —— 站点不通/下线，**交给下架脚本处理**
 
-## 脚本三：下架 item
+## 脚本四：下架 item
 
 **文件**：`scripts/unpublish-items.mjs`（Node.js + next-sanity）
 
@@ -140,7 +194,6 @@ node scripts/unpublish-items.mjs "gencraft" "replika" "inworld"
 |---|---|---|
 | applaime | https://applaime.com/?ref=saasaitools | screenshot-Remove/站点不通或下线 |
 | microsoft copilot | https://copilot.microsoft.com | screenshot-Remove/站点不通或下线 |
-...
 ```
 
 ## 完整工作流

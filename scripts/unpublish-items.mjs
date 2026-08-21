@@ -54,11 +54,30 @@ const bySafe = new Map(detail.map((d) => [d.name.toLowerCase().replace(/[^a-z0-9
 const date = new Date().toISOString().slice(0, 10);
 const records = [];
 for (const n of names) {
-  const item = bySafe.get(n);
-  if (!item) { console.log(`SKIP(no-mapping) ${n}`); continue; }
+  // 1. 先查本地 fp-failed-detail.json
+  let item = bySafe.get(n);
+
+  // 2. 本地查不到 → 查 Sanity（按 slug 和 name 双维度）
+  if (!item) {
+    try {
+      const found = await client.fetch(
+        `*[_type == "item" && (slug.current == $slug || lower(name) == $lowerName)]{_id, name, link}`,
+        { slug: n, lowerName: n.replace(/-/g, " ") },
+      );
+      if (found.length > 0) item = found[0];
+    } catch (e) {
+      console.log(`QUERY-FAIL ${n}: ${(e.message || "").slice(0, 50)}`);
+    }
+  }
+
+  if (!item) {
+    console.log(`SKIP(no-mapping) ${n}`);
+    continue;
+  }
+
   try {
     await client.patch(item._id).set({ publishDate: null }).commit();
-    records.push({ name: item.name, link: item.link, reason: "screenshot-Remove/站点不通或下线" });
+    records.push({ name: item.name, link: item.link, reason: "manual-unpublish" });
     console.log(`OK ${item.name}`);
   } catch (e) {
     console.log(`FAIL ${item.name}: ${(e.message || "").slice(0, 50)}`);
