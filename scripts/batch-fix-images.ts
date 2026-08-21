@@ -32,7 +32,7 @@ const extractImage = (html: string): string | null => {
 
 const uploadImage = async (imageUrl: string, name: string) => {
   try {
-    const res = await fetch(imageUrl, { timeout: 30000 });
+    const res = await fetch(imageUrl, { signal: AbortSignal.timeout(30000) as never });
     if (!res.ok) return null;
     const ct = res.headers.get("content-type") || "";
     if (!ct.startsWith("image/") || ct.includes("svg")) return null;
