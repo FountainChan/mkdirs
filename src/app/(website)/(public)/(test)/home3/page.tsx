@@ -1,6 +1,5 @@
-import ItemGrid from "@/components/item/item-grid";
+import Home3InfiniteScroll from "@/components/home3/home3-infinite-scroll";
 import EmptyGrid from "@/components/shared/empty-grid";
-import CustomPagination from "@/components/shared/pagination";
 import { siteConfig } from "@/config/site";
 import { getItems } from "@/data/item";
 import {
@@ -9,9 +8,6 @@ import {
   SORT_FILTER_LIST,
 } from "@/lib/constants";
 import { constructMetadata } from "@/lib/metadata";
-import type { SponsorItemListQueryResult } from "@/sanity.types";
-import { sanityFetch } from "@/sanity/lib/fetch";
-import { sponsorItemListQuery } from "@/sanity/lib/queries";
 
 export const metadata = constructMetadata({
   title: "",
@@ -25,16 +21,7 @@ export default async function HomePage({
 }) {
   console.log("HomePage, searchParams", searchParams);
 
-  // Option 1: use these code if you want to show sponsor items in the item grid
-  // const sponsorItems = (await sanityFetch<SponsorItemListQueryResult>({
-  //   query: sponsorItemListQuery,
-  // })) || [];
-  // const showSponsor = true;
-  // const hasSponsorItem = showSponsor && sponsorItems.length > 0;
-
   // Option 2: use these code if you want to show sponsor items in the hero section
-  const sponsorItems = [];
-  const showSponsor = false;
   const hasSponsorItem = false;
 
   const {
@@ -69,15 +56,18 @@ export default async function HomePage({
       {/* when items are found */}
       {items && items.length > 0 && (
         <section className="">
-          <ItemGrid
-            items={items}
-            sponsorItems={sponsorItems}
-            showSponsor={showSponsor}
+          {/* key 保证搜索/筛选条件变化时重置无限滚动状态 */}
+          <Home3InfiniteScroll
+            key={`${category ?? ""}-${tag ?? ""}-${sort ?? ""}-${query ?? ""}-${filter ?? ""}`}
+            initialItems={items}
+            initialPage={currentPage}
+            totalPages={totalPages}
+            category={category}
+            tag={tag}
+            sort={sort}
+            query={query}
+            filter={filter}
           />
-
-          <div className="mt-8 flex items-center justify-center">
-            <CustomPagination routePrefix="/home3" totalPages={totalPages} />
-          </div>
         </section>
       )}
     </div>

@@ -35,6 +35,9 @@ export const publicRoutes = [
   // og images
   "/api/og",
 
+  // items list for infinite scroll, same public data as item pages
+  "/api/items",
+
   // draft mode
   "/api/draft",
 
