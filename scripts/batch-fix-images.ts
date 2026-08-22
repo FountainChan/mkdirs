@@ -1,7 +1,7 @@
+import { readFileSync } from "node:fs";
 import { slugify } from "@/lib/utils";
 import { createClient } from "@sanity/client";
 import dotenv from "dotenv";
-import { readFileSync } from "node:fs";
 import fetch from "node-fetch";
 dotenv.config();
 
@@ -32,7 +32,9 @@ const extractImage = (html: string): string | null => {
 
 const uploadImage = async (imageUrl: string, name: string) => {
   try {
-    const res = await fetch(imageUrl, { timeout: 30000 });
+    const res = await fetch(imageUrl, {
+      signal: AbortSignal.timeout(30000) as never,
+    });
     if (!res.ok) return null;
     const ct = res.headers.get("content-type") || "";
     if (!ct.startsWith("image/") || ct.includes("svg")) return null;
@@ -48,9 +50,9 @@ const uploadImage = async (imageUrl: string, name: string) => {
 };
 
 const main = async () => {
-  const items = await client.fetch<Array<{ _id: string; name: string; link: string }>>(
-    '*[_type == "item" && !defined(image)]{_id, name, link}',
-  );
+  const items = await client.fetch<
+    Array<{ _id: string; name: string; link: string }>
+  >('*[_type == "item" && !defined(image)]{_id, name, link}');
   console.log("items missing image:", items.length);
   let ok = 0;
   let fail = 0;
@@ -74,7 +76,9 @@ const main = async () => {
     let imageUrl: string | null = null;
     for (const src of fpUrls) {
       try {
-        const res = await fetch(src, { signal: AbortSignal.timeout(20000) as never });
+        const res = await fetch(src, {
+          signal: AbortSignal.timeout(20000) as never,
+        });
         if (!res.ok) continue;
         const html = await res.text();
         imageUrl = extractImage(html);
@@ -97,13 +101,16 @@ const main = async () => {
       continue;
     }
 
-    await client.patch(item._id).set({
-      image: {
-        _type: "image",
-        asset: { _type: "reference", _ref: assetId },
-        alt: `Screenshot of ${item.name}`,
-      },
-    }).commit();
+    await client
+      .patch(item._id)
+      .set({
+        image: {
+          _type: "image",
+          asset: { _type: "reference", _ref: assetId },
+          alt: `Screenshot of ${item.name}`,
+        },
+      })
+      .commit();
     ok++;
     console.log(`[${i + 1}/${items.length}] OK ${item.name}`);
   }
