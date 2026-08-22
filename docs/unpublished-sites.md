@@ -71,3 +71,10 @@
 | 名称 | 官网 | 原因 |
 |---|---|---|
 | jetpack ai assistant | https://ai.jetpacksandbox.com/assistant | manual-unpublish |
+
+
+## 2026-08-21 批次（1 条）
+
+| 名称 | 官网 | 原因 |
+|---|---|---|
+| screenapp | https://creati.ai/ai-tools/screenapp | manual-unpublish |

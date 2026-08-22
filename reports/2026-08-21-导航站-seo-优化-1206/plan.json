@@ -1,0 +1,151 @@
+{
+  "research_goal": "审计 dir.vastnext.com 的 SEO 基础与内容竞争力，对照重点 AI 导航竞品识别差距，并形成可执行的分阶段优化计划。",
+  "scope": {
+    "objects": [
+      "dir.vastnext.com 当前线上站点与对应代码库",
+      "用户提供竞品报告中的 S/A 梯队站点",
+      "Google Search Central 与 Next.js 官方 SEO 技术规范"
+    ],
+    "time_range": "截至 2026-08-21 的线上状态；竞品 SERP 基线为 2026-08-18 快照",
+    "region": "英文国际搜索市场，重点参考 Google，DDG 用作 SERP 代理",
+    "audience_or_use": "供站点所有者排序 SEO 投资，并供开发者实施技术与页面优化",
+    "exclusions": [
+      "不代替 Search Console、Analytics、付费关键词库和完整外链工具的账户级审计",
+      "不在本阶段直接修改代码、CMS 数据或生产配置",
+      "不承诺具体排名或流量结果"
+    ],
+    "assumptions": [
+      "当前站点为 https://dir.vastnext.com",
+      "站点将从模板演示定位改造成正式 AI 工具导航品牌",
+      "优先提升有效索引页质量，而不是无差别增加页面数量"
+    ]
+  },
+  "report_shape": {
+    "format_basis": [
+      {
+        "type": "standard_guideline",
+        "name": "Google Search Central SEO Starter Guide 与 Search Essentials",
+        "credibility_reason": "Google 官方搜索文档",
+        "what_extracted": "按抓取与索引、搜索展示、内容质量、站点结构组织审计"
+      },
+      {
+        "type": "domain_convention",
+        "name": "技术 SEO 审计与竞品差距分析惯例",
+        "credibility_reason": "适合将技术缺陷、页面模板、关键词机会和实施优先级串联",
+        "what_extracted": "现状评分、竞品矩阵、机会地图、90 天路线图与 KPI"
+      }
+    ],
+    "sections": [
+      "执行摘要",
+      "研究范围与限制",
+      "当前站点 SEO 审计",
+      "竞品 SEO 策略与差距",
+      "关键词与页面机会",
+      "分阶段优化计划",
+      "指标与验收机制"
+    ],
+    "mandatory_elements": [
+      "当前站点问题优先级表",
+      "竞品策略对比矩阵",
+      "关键词到页面类型映射",
+      "0-30/31-60/61-90 天路线图",
+      "可量化 KPI 与验收清单"
+    ],
+    "style": "面向决策与实施，事实和推断分开表达；对缺少 GSC/GA 数据的部分明确降级结论强度。"
+  },
+  "completion_criteria": [
+    "当前站点的抓取索引、元数据、URL、结构化数据、内容与内部链接均被检查",
+    "至少 3 个代表性竞品获得页面级公开证据并与用户 SERP 报告交叉",
+    "每项高优先级建议能映射到当前代码或 CMS 表面",
+    "路线图包含顺序、依赖、验收方式和 KPI",
+    "所有信息缺口和数据限制明确记录"
+  ],
+  "change_notes": [],
+  "dimensions": [
+    {
+      "id": "d1",
+      "name": "当前站点技术与页面 SEO 审计",
+      "description": "检查线上输出和本地代码中的抓取、索引、元数据、URL、站点地图、结构化数据、内部链接、页面内容与性能风险。",
+      "key_questions": [
+        "搜索引擎能否稳定发现并正确规范化有价值页面？",
+        "哪些模板或参数 URL 可能制造重复、低价值或误索引？",
+        "页面标题、描述、正文层级、内链和结构化数据是否支撑搜索意图？",
+        "当前最严重的技术与内容阻塞项是什么？"
+      ],
+      "method": "线上抓取、源代码审计、页面模板抽样与官方规范核对",
+      "search_strategy": {
+        "source_types": ["当前站点页面", "当前代码库", "Google 官方文档", "Next.js 官方文档"],
+        "seed_queries": ["site:dir.vastnext.com", "dir.vastnext.com robots sitemap", "Google canonical pagination sitemap guidance", "Next.js metadata sitemap robots"],
+        "freshness_requirement": "以 2026-08-21 线上输出与当前代码为准",
+        "sufficiency": ["覆盖主要公开页面模板", "关键技术判断可回溯到代码或线上输出", "每个关键问题均有答案或明确缺口"]
+      },
+      "expected_output": "现状评分、证据化问题清单、影响与修复优先级",
+      "depends_on": [],
+      "status": "done"
+    },
+    {
+      "id": "d2",
+      "name": "竞品 SEO 页面与增长策略",
+      "description": "结合用户提供的 SERP 报告，抽样 S/A 梯队站点，研究其信息架构、页面类型、内容深度、内链、信任信号与可扩展 SEO 策略。",
+      "key_questions": [
+        "高可见度竞品主要依靠哪些页面类型覆盖品牌词、品类词和 alternatives？",
+        "竞品如何把大规模工具库组织成可发现且具有独立价值的页面？",
+        "哪些策略可借鉴，哪些依赖品牌或资源不适合当前站点？",
+        "当前站点与竞品的最关键差距是什么？"
+      ],
+      "method": "SERP 基线复核、代表性站点页面抽样、信息架构与内容模块对比",
+      "search_strategy": {
+        "source_types": ["用户提供的竞品数据", "竞品首页", "竞品分类/工具/alternatives/指南页面", "公开搜索结果"],
+        "seed_queries": ["topai.tools AI tools alternatives", "futuretools AI tools categories", "creati.ai AI tools", "toolify AI tools alternatives", "AI tool directory best category pages"],
+        "freshness_requirement": "竞品页面以 2026-08-21 可访问版本为准",
+        "sufficiency": ["至少覆盖 3 个不同策略类型的代表竞品", "用户 SERP 数据与页面证据交叉", "明确可借鉴项与不适用项"]
+      },
+      "expected_output": "竞品对比矩阵、可复用页面策略与差距清单",
+      "depends_on": [],
+      "status": "done"
+    },
+    {
+      "id": "d3",
+      "name": "关键词机会与信息架构映射",
+      "description": "把竞品报告中的低竞争词与站点现有数据模型、页面模板和用户意图对齐，避免直接把噪声词批量生成薄页。",
+      "key_questions": [
+        "哪些词簇适合当前站点在 90 天内优先争取？",
+        "品牌工具页、品类页、alternatives 页和使用场景页分别承接哪些意图？",
+        "哪些候选词不完整、过宽或意图错位，需要二次校准？",
+        "如何设计主题集群和内链路径？"
+      ],
+      "method": "关键词聚类、意图分类、页面类型映射与内容门槛设计",
+      "search_strategy": {
+        "source_types": ["用户竞品报告", "当前站点分类与工具页面", "竞品结果页", "Google 搜索质量规范"],
+        "seed_queries": ["best AI tools for education", "best AI headshot generator", "AI tool alternatives pages", "best AI writing assistant", "AI tools list latest"],
+        "freshness_requirement": "沿用 2026-08-18 词表并对优先词做 2026-08-21 意图复核",
+        "sufficiency": ["形成至少 3 类可执行词簇", "每类词簇映射到页面模板", "标出需剔除或人工复核的噪声词"]
+      },
+      "expected_output": "词簇优先级、页面映射、主题集群与内容质量门槛",
+      "depends_on": ["d1", "d2"],
+      "status": "done"
+    },
+    {
+      "id": "d4",
+      "name": "实施路线、风险与测量体系",
+      "description": "把技术修复、内容建设和权威增长转化为依赖明确的 90 天计划，并定义无历史数据情况下的基线与验收。",
+      "key_questions": [
+        "哪些工作必须先做，哪些可并行？",
+        "每个阶段应交付什么并如何验收？",
+        "应该跟踪哪些领先与滞后指标？",
+        "如何控制批量内容、索引膨胀和错误数据风险？"
+      ],
+      "method": "影响/工作量/依赖排序、风险分析与 KPI 设计",
+      "search_strategy": {
+        "source_types": ["前序维度结论", "当前代码结构", "Google 官方规范"],
+        "seed_queries": ["Google Search Console sitemap indexing monitoring", "Google scaled content abuse guidance", "SEO migration measurement KPI"],
+        "freshness_requirement": "采用截至 2026-08-21 的官方规范",
+        "sufficiency": ["所有 P0/P1 问题有负责人表面和验收条件", "路线图依赖顺序合理", "KPI 能在 GSC/GA 接入后落地"]
+      },
+      "expected_output": "90 天路线图、风险控制、KPI 和实施验收清单",
+      "depends_on": ["d1", "d2", "d3"],
+      "status": "done"
+    }
+  ],
+  "execution_order": ["d1", "d2", "d3", "d4"]
+}
