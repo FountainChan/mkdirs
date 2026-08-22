@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 544 532" role="img" aria-labelledby="title">
+  <title id="title">Findry AI 备选标志</title>
+  <path
+    d="M90 0H454C504 0 544 40 544 90V451C544 484 531 510 506 531L460 496V116C460 94 444 82 424 82H120C99 82 84 97 84 118V497L40 531C14 510 0 484 0 451V91C0 41 40 0 90 0Z"
+    fill="#086B6D"
+  />
+  <path
+    d="M127 478V177C127 153 145 136 169 136H340V213H225V258H312C324 258 330 266 330 280V310C330 321 323 327 312 327H225V425Z"
+    fill="#086B6D"
+  />
+  <path d="M359 146L433 106V477L359 417Z" fill="#73DAB5" />
+</svg>

@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-labelledby="title">
+  <title id="title">Findry AI</title>
+  <defs>
+    <mask id="path-mask-small">
+      <rect width="64" height="64" fill="white" />
+      <path
+        d="M5 64C7 55 13 49 21 42C27 37 29 33 26 28C24 25 20 23 20 19C20 13 29 11 41 11V6L55 15L41 26V21C34 21 29 22 29 26C29 28 33 30 36 34C41 41 37 48 31 54C26 59 24 62 24 64Z"
+        fill="black"
+      />
+    </mask>
+  </defs>
+  <path
+    d="M13 2H59C62 2 64 4 64 7V13C64 18 60 22 55 22H53V32C53 36 50 40 45 41C40 42 37 44 37 49V61C37 63 36 64 34 64H6V9C6 5 9 2 13 2Z"
+    fill="#086B6D"
+    mask="url(#path-mask-small)"
+  />
+</svg>
