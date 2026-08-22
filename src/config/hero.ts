@@ -2,14 +2,13 @@ import type { HeroConfig } from "@/types";
 
 export const heroConfig: HeroConfig = {
   title: {
-    first: "The Best",
-    second: "Directory Website Template",
+    first: "Find Better",
+    second: "AI Tools",
   },
-  subtitle:
-    "This is a demo directory website built with Mkdirs",
+  subtitle: "Discover curated AI tools for every task",
   label: {
-    text: "Introducing Mkdirs on",
-    href: "https://x.com/javayhu",
+    text: "Findry AI",
+    href: "/",
     icon: "twitter",
   },
 };
